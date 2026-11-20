@@ -4,8 +4,8 @@ site:
   structure:
     - type: space
       key: space-1
-      title: Documentation
+      title: Jugadores
       path: documentation
       default: true
       content:
-        directory: ./documentation
+        directory: ./

@@ -17,7 +17,8 @@ mantienes, aparecen **averías**. Una avería grave puede **inmovilizar** el coc
    (cada pieza o servicio por separado).
 3. Escribe `/taller` para ver tus órdenes: **acepta o rechaza cada línea**. Solo se cobra lo que aceptes.
 4. El mecánico hace el trabajo de verdad en el coche (elevador, herramientas, piezas).
-5. Pagas y te entregan el vehículo.
+5. Pagas y te entregan el vehículo. Cuando el mecánico te cobra, te sale la factura en pantalla; si la cierras
+   sin querer, `/facturataller` la vuelve a abrir (mientras no caduque).
 
 Si después hace falta algo más, el mecánico te manda una **ampliación** solo con lo nuevo: nunca se te cobra
 dos veces lo que ya aceptaste.

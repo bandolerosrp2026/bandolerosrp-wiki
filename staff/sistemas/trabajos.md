@@ -1,6 +1,6 @@
 # Trabajos
 
-Creador: `/creartrabajos` (también `/gestiontrabajos`). Rango **Administrador**.
+Creador: `/creartrabajos` (también `/gestiontrabajos` y `/jobscreator`). Rango **Administrador**.
 
 Todo se crea, edita y borra **en el juego, sin reiniciar**.
 

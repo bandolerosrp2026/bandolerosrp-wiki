@@ -34,6 +34,7 @@
 | `/llaves` | Llavero (tecla F5) |
 | `/darllaves [id]` | Dar una copia de la llave del vehículo cercano |
 | `/taller` | Tus órdenes, presupuestos y facturas del taller |
+| `/facturataller` | Volver a abrir la factura que te acaba de mandar el mecánico |
 
 ## Trabajo
 

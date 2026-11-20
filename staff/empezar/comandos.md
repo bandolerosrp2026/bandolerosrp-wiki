@@ -45,7 +45,7 @@ en la wiki de jugadores.
 | `/bancodescongelar IBAN` | Administrador | Descongelar una cuenta |
 | `/bancosaldo IBAN\|trabajo\|banda` | Administrador | Ver el saldo de una cuenta |
 | `/gestiongasolineras` | Administrador | Panel de gasolineras, economía y reparto |
-| `/creartrabajos` · `/gestiontrabajos` | Administrador | Creador de trabajos |
+| `/creartrabajos` · `/gestiontrabajos` · `/jobscreator` | Administrador | Creador de trabajos |
 | `/creartaller` · `/gestiontalleres` | Administrador | Panel de talleres |
 | `/elevador` | Administrador | Colocar o retirar elevadores |
 | `/mecanicoprueba …` | Administrador | Herramientas de prueba del mecánico |

@@ -26,6 +26,7 @@ para susurrar solo vale `/s`). Usa los de esta lista.
 | `/auxilio [qué ha pasado]` | Pedir una ambulancia: avisa a los médicos de servicio ([Heridas y hospital](../primeros-pasos/muerte.md)) |
 | `/misheridas` | Ver tus heridas, constantes y sangre |
 | `/tabletaems` | EMS: abrir la tableta ([EMS](../trabajos/ems.md)) |
+| `/pesca` | Abrir tu cuaderno de pesca: misiones, logros, torneo y guía de peces ([Pesca](../trabajos/pesca.md)) |
 | `/id` | Tu número de jugador |
 | `/ayuda` | Ayuda del chat |
 | `/limpiar` | Borrar tu chat |

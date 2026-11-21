@@ -49,8 +49,8 @@ Si te desconectas herido o inconsciente, al volver sigues igual. No sirve para l
 ## Pedir una ambulancia: `/auxilio`
 
 **`/auxilio [qué ha pasado]`** avisa a todos los médicos de servicio con tu posición. Sirve también para avisar de
-otra persona herida. Hay que esperar un poco entre avisos. Si no hay ningún médico de servicio, la llamada pasa a la
-policía.
+otra persona herida. Hay que esperar un poco entre avisos. El aviso llega **solo a los médicos** (a la policía no):
+si no hay ninguno de servicio, ve a la recepción del hospital o espera para reaparecer.
 
 ## El hospital
 

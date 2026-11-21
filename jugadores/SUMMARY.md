@@ -57,6 +57,7 @@
 * [Gasolineras y reparto de combustible](trabajos/gasolineras.md)
 * [Estudios de tatuajes](trabajos/tatuador.md)
 * [Caza](trabajos/caza.md)
+* [Pesca](trabajos/pesca.md)
 
 ## Crimen
 

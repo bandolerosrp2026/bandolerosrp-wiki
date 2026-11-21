@@ -44,6 +44,29 @@ liados con el suceso no atienden a nada más, así que no podrás, por ejemplo, 
 La cantidad de peatones y de tráfico cambia según dónde estés y la hora del juego: el centro va más lleno y de
 madrugada hay menos gente por la calle.
 
+## Animales
+
+La ciudad y el campo tienen muchos más animales, y **cada uno en su sitio**: no te vas a encontrar un jabalí en
+mitad del centro.
+
+| Dónde | Qué verás |
+|---|---|
+| **Ciudad** | Palomas, cuervos, ratas en callejones e industrias, gatos callejeros y perros paseando con su dueño |
+| **Barrios y playa** | Gatos y perros de los vecinos, gaviotas y cormoranes en la costa |
+| **Campo y granjas** | Vacas, cerdos, gallinas y perros de granja |
+| **Montes y bosques** | Ciervos, conejos, coyotes, jabalíes y aves rapaces |
+| **Desierto** | Coyotes, conejos y armadillos |
+| **Mar y lagos** | Peces y, en mar abierto, delfines, rayas, tiburones y hasta ballenas y orcas |
+
+Cambian con la hora y el tiempo: de noche hay más ratas y coyotes y menos palomas, y con lluvia o tormenta se
+ven menos animales.
+
+{% hint style="warning" %}
+**Cuidado en los bosques del norte de noche.** En los montes de Chiliad, Mount Gordo, el bosque de Paleto y el
+cañón de Raton puede haber **pumas**, y **atacan**. Si vas de noche por allí, mejor en vehículo o acompañado.
+El resto de animales salvajes no van a por ti: si te acercas, se alejan.
+{% endhint %}
+
 ## El mar y el agua
 
 El agua de la ciudad tiene su propio aspecto: el **mar es más claro y azul**, con tonos turquesa cerca de la costa,

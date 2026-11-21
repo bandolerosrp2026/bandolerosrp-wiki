@@ -129,7 +129,7 @@ Los accesorios se ponen **usando el objeto con el arma en la mano** y se quitan 
 | Benelli M1014 | Cartuchos del calibre 12 | silenciador |
 | Escopeta de dos cañones | Cartuchos del calibre 12 | — |
 | Escopeta no letal | Cartuchos del calibre 12 | silenciador, linterna |
-| Escopeta recortada | Cartuchos del calibre 12 | — |
+| Escopeta recortada | Cartuchos del calibre 12 | acabado |
 | Mossberg | Cartuchos del calibre 12 | silenciador, linterna |
 | Remington 870 | Cartuchos del calibre 12 | silenciador, linterna |
 | Remington 870 táctica | Cartuchos del calibre 12 | silenciador, linterna |
@@ -178,14 +178,14 @@ Los accesorios se ponen **usando el objeto con el arma en la mano** y se quitan 
 | Martillo | — | — |
 | Mazo | — | — |
 | Motosierra | — | — |
-| Navaja automática | — | — |
+| Navaja automática | — | acabado |
 | Navaja mariposa | — | — |
 | Pala | — | — |
 | Palanca | — | — |
 | Palo de golf | — | — |
 | Pincho carcelario | — | — |
 | Porra | — | — |
-| Puño americano | — | — |
+| Puño americano | — | acabado |
 | Taco de billar | — | — |
 | Tomahawk | — | — |
 

@@ -12,7 +12,7 @@
 * [La ciudad está viva](primeros-pasos/ciudad-viva.md)
 * [Puertas y cerraduras](primeros-pasos/puertas.md)
 * [Inventario](primeros-pasos/inventario.md)
-* [Muerte y reaparición](primeros-pasos/muerte.md)
+* [Heridas, muerte y hospital](primeros-pasos/muerte.md)
 
 ## Comunicación
 
@@ -51,6 +51,7 @@
 
 * [Cómo funcionan los trabajos](trabajos/trabajos.md)
 * [Policía](trabajos/policia.md)
+* [EMS (servicio médico)](trabajos/ems.md)
 * [Mecánico](trabajos/mecanico.md)
 * [Concesionario (vendedores y jefe)](trabajos/concesionario.md)
 * [Gasolineras y reparto de combustible](trabajos/gasolineras.md)

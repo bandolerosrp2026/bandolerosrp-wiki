@@ -23,6 +23,9 @@ para susurrar solo vale `/s`). Usa los de esta lista.
 | `/soltarse` | Intentar soltarte de las esposas o bridas (también tecla J) |
 | `/mdt` | Policía: abrir la tableta ([Policía](../trabajos/policia.md)) |
 | `/k9` | Policía: sacar o guardar el perro |
+| `/auxilio [qué ha pasado]` | Pedir una ambulancia: avisa a los médicos de servicio ([Heridas y hospital](../primeros-pasos/muerte.md)) |
+| `/misheridas` | Ver tus heridas, constantes y sangre |
+| `/tabletaems` | EMS: abrir la tableta ([EMS](../trabajos/ems.md)) |
 | `/id` | Tu número de jugador |
 | `/ayuda` | Ayuda del chat |
 | `/limpiar` | Borrar tu chat |

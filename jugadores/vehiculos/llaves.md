@@ -56,7 +56,7 @@ El robo de vehículos es rol. Todos los intentos se pueden **fallar**, pueden **
 
 - **Ganzúa**: con una ganzúa en el inventario, a pie junto a la puerta → **Forzar cerradura** (menú de
   interacción o usando la ganzúa). Al volante → **puentear**. Hay un minijuego que depende del tipo de vehículo, y
-  la ganzúa se puede romper. Las ganzúas avanzadas se rompen menos.
+  la ganzúa se puede romper. Las ganzúas avanzadas se rompen menos. Las ganzúas se compran en las **tiendas 24/7**.
 - **Buscar las llaves**: sentado al volante de un coche ajeno, pulsa **H**. Tarda entre 20 y 40 segundos y no
   siempre aparecen.
 - **Coches de la ciudad (NPC)**: muchos están cerrados. Si tienen el motor en marcha, te quedas las llaves. Si el

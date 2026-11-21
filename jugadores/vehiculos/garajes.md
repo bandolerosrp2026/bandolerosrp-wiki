@@ -15,6 +15,12 @@ Tus vehículos se guardan en garajes. Lo que guardas, se conserva tal cual: mejo
 Cada garaje admite ciertos tipos de vehículo (coches, motos, camiones, helicópteros, aviones o barcos) y tiene un
 número de plazas.
 
+## Garajes en el mapa
+
+Para no llenar el mapa, solo ves los garajes **cercanos** (a algo más de un kilómetro) y, además, siempre el
+**más cercano** de cada clase, aunque esté lejos: garaje público, embarcadero, hangar / helipuerto y depósito. Al
+moverte por la ciudad van apareciendo los que tienes cerca. En la leyenda del mapa salen agrupados por clase.
+
 ## Guardar un vehículo
 
 1. Lleva el vehículo a la **zona de guardado** del garaje.

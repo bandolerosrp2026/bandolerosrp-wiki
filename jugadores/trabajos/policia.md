@@ -8,6 +8,19 @@ Para entrar en la policía, habla con un mando del departamento. Contratar, asce
 la tableta (botón **Plantilla**).
 {% endhint %}
 
+## Rangos del LSPD
+
+De menor a mayor:
+
+| Rango | Qué añade |
+| --- | --- |
+| Cadete | Tableta, avisos, búsquedas, informes propios, multas, pruebas, radar, conos y vallas |
+| Oficial I · Oficial II · Oficial III · Oficial III+ | Órdenes de busca y captura, encarcelar, pinchos, unidad canina y cámaras de seguridad |
+| Detective I · Detective II · Detective III | Lo mismo que un Oficial |
+| Sargento I · Sargento II | Gestionar avisos y unidades, licencias, cámaras corporales de otros agentes y tablón de anuncios |
+| Teniente I · Teniente II | Informes de otros, código penal, condenas, borrar pruebas y gestionar la plantilla |
+| Capitán | Jefe del departamento: puede hacer todo, contratar, ascender y despedir |
+
 ## La tableta (MDT)
 
 Se abre con la **tableta policial** del inventario, con `/mdt` o desde el menú **F6**. Tiene buscador en todas las

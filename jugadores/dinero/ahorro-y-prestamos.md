@@ -24,6 +24,9 @@ Se piden en **Pacific Standard** o **Blaine County**.
 - Si no tienes saldo: hay **6 horas de margen**; después se cobra un **recargo del 5 %** por cuota impagada.
 - Con **3 cuotas sin pagar** el préstamo entra en **mora** (y tu crédito cae mucho).
 - Puedes pagar lo pendiente o **liquidar** el préstamo entero cuando quieras.
+- La **financiación de un vehículo** se pide en el concesionario (no en la sucursal) y aparece aquí como un préstamo
+  más («Financiación de vehículo»). Si entra en mora, el vehículo se embarga hasta que te pongas al día. Ver
+  [Concesionarios](../vehiculos/concesionarios.md).
 
 ## Crédito
 

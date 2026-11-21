@@ -27,6 +27,7 @@
 
 ## Vehículos
 
+* [Concesionarios: comprar un vehículo](vehiculos/concesionarios.md)
 * [Llaves y cerraduras](vehiculos/llaves.md)
 * [Garajes](vehiculos/garajes.md)
 * [Depósito](vehiculos/deposito.md)
@@ -43,6 +44,7 @@
 
 * [Cómo funcionan los trabajos](trabajos/trabajos.md)
 * [Mecánico](trabajos/mecanico.md)
+* [Concesionario (vendedores y jefe)](trabajos/concesionario.md)
 * [Gasolineras y reparto de combustible](trabajos/gasolineras.md)
 * [Estudios de tatuajes](trabajos/tatuador.md)
 

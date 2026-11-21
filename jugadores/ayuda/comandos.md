@@ -35,6 +35,7 @@
 | `/darllaves [id]` | Dar una copia de la llave del vehículo cercano |
 | `/taller` | Tus órdenes, presupuestos y facturas del taller |
 | `/facturataller` | Volver a abrir la factura que te acaba de mandar el mecánico |
+| `/terminarprueba` | Terminar antes la prueba de conducción de un concesionario |
 
 ## Trabajo
 

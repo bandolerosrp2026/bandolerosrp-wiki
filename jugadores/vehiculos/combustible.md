@@ -41,6 +41,17 @@ suelta.
 Se cargan en los **puntos de carga** con la misma pantalla (en kWh). Un eléctrico no puede usar surtidores ni un
 coche de gasolina un cargador. Los eléctricos recuperan algo de carga al frenar.
 
+### Batería externa (eléctrico sin batería)
+
+Si te quedas tirado con un eléctrico sin batería, una **batería externa** te da carga para llegar a un cargador.
+
+- Se compra en **cualquier gasolinera**: apunta (el ojo) a un surtidor o a un cargador → **Comprar batería externa**
+  (**$350**, en efectivo o con el banco).
+- Con la batería en el inventario, apunta al eléctrico → **Arrancar con batería externa**. Tardas unos segundos en
+  conectarla y el vehículo recupera un **15 %** de carga.
+- Solo funciona si al eléctrico le queda un **5 % o menos**, y cada batería se gasta al usarla. Llévate una de
+  repuesto si vas lejos.
+
 ## Bidón
 
 - Se compra **vacío** en el surtidor y se llena con el combustible que elijas (20 litros).

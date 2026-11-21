@@ -82,7 +82,7 @@ departamento y canales conjuntos, el 7 también con emergencias); el resto son p
 | Comando / tecla | Qué hace |
 |---|---|
 | `/112 motivo` | Llamar a emergencias con tu ubicación |
-| `/112anon motivo` | Aviso anónimo: la policía ve una zona aproximada, no el punto exacto |
+| `/entorno qué ocurre` | Aviso de entorno: anónimo, la policía ve una zona aproximada y no el punto exacto (p. ej. `/entorno se oyen gritos en un callejón`) |
 | `/condena` | Ver cuánto te queda de condena |
 | `/soltarse` o **J** | Intentar soltarte estando esposado o con bridas (minijuego; puede fallar) |
 

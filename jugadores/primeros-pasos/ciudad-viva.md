@@ -43,3 +43,11 @@ liados con el suceso no atienden a nada más, así que no podrás, por ejemplo, 
 
 La cantidad de peatones y de tráfico cambia según dónde estés y la hora del juego: el centro va más lleno y de
 madrugada hay menos gente por la calle.
+
+## El mar y el agua
+
+El agua de la ciudad tiene su propio aspecto: el **mar es más claro y azul**, con tonos turquesa cerca de la costa,
+y los lagos y ríos se ven más limpios sin perder su color natural.
+
+El **oleaje cambia con el clima**: con sol el mar está en calma, con lluvia se mueve más y con tormenta hay olas
+grandes en la orilla y en mar abierto. Tenlo en cuenta si sales en barco o te metes a nadar con mal tiempo.

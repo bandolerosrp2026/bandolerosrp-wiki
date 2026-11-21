@@ -16,7 +16,7 @@ Se piden en **Pacific Standard** o **Blaine County**.
 |---|---|
 | Personal | Gastos del día a día |
 | Vehículo | Comprar un coche |
-| Empresarial | Montar o ampliar un negocio |
+| Para emprender | Montar tu propio negocio (si ya eres jefe, pide el préstamo a nombre de la empresa: [Banca de empresa](banca-de-empresa.md)) |
 | Hipoteca | Vivienda |
 
 - El **simulador** te dice cuánto pagarás en cada cuota antes de firmar.

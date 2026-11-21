@@ -17,7 +17,7 @@ No todas las sucursales hacen lo mismo: los **préstamos** solo se piden en **Pa
 | **Corriente** | Tu cuenta principal. Aquí llegan la nómina y se pagan las compras con tarjeta |
 | **Ahorro** | Da intereses. Máximo 2 por persona. Ver [Ahorro y préstamos](ahorro-y-prestamos.md) |
 | **Compartida** | Cuenta con otras personas (cotitulares), cada una con sus permisos. Máximo 3 cuentas y 8 cotitulares |
-| **Empresa** | La cuenta de tu trabajo. Solo la ven los rangos con permiso (normalmente el jefe) |
+| **Empresa** | Las cuentas de tu trabajo (la principal y las subcuentas que abra el jefe). Las ves si tu rango tiene permiso. El jefe las gestiona en [Banca de empresa](banca-de-empresa.md) |
 | **Banda** | Igual que la de empresa, para bandas |
 
 ## El panel del banco

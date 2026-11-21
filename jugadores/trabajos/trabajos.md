@@ -57,3 +57,6 @@ El panel de **Gestión** (punto de gestión o F6) te deja:
 - Cambiar los **sueldos** de los rangos por debajo del tuyo.
 - Gestionar la **cuenta de empresa**: ingresar y retirar efectivo y ver los movimientos.
 - Ver el **registro** de lo que pasa en el trabajo.
+
+En el banco tienes además la [Banca de empresa](../dinero/banca-de-empresa.md): subcuentas, permisos por rango
+con límite diario, tarjetas para tus empleados y préstamos a nombre de la empresa.

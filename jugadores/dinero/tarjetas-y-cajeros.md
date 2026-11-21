@@ -41,3 +41,10 @@ La sesión del cajero se cierra sola si lo dejas sin tocar unos minutos o te ale
 
 En muchos sitios (gasolineras, garajes, depósito…) puedes elegir **tarjeta** o **efectivo**. Con tarjeta se cobra
 de tu cuenta corriente.
+
+## Tarjetas de empresa
+
+Tu jefe te puede dar una **tarjeta de empresa** («Tarjeta de empresa Clásica/Oro/Black» en el inventario). Saca
+dinero de una cuenta de la empresa en cualquier cajero, con el límite diario que haya puesto el jefe. No cuenta
+para tu máximo de tarjetas personales y deja de funcionar si dejas la empresa. Más en
+[Banca de empresa](banca-de-empresa.md).

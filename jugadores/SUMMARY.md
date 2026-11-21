@@ -9,6 +9,7 @@
 * [Controles y teclas](primeros-pasos/controles.md)
 * [La interfaz: HUD, menús y avisos](primeros-pasos/interfaz.md)
 * [Interactuar con el mundo](primeros-pasos/interactuar.md)
+* [Puertas y cerraduras](primeros-pasos/puertas.md)
 * [Inventario](primeros-pasos/inventario.md)
 * [Muerte y reaparición](primeros-pasos/muerte.md)
 
@@ -52,6 +53,12 @@
 * [Concesionario (vendedores y jefe)](trabajos/concesionario.md)
 * [Gasolineras y reparto de combustible](trabajos/gasolineras.md)
 * [Estudios de tatuajes](trabajos/tatuador.md)
+
+## Crimen
+
+* [Bandas y territorios](crimen/bandas.md)
+* [Atracos](crimen/atracos.md)
+* [Drogas y mercado negro](crimen/drogas.md)
 
 ## Ayuda
 

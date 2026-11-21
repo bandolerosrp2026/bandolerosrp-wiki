@@ -13,6 +13,15 @@ las provoque: no hace falta ningún comando ni ninguna tecla.
 | **Testigos** | La gente de alrededor reacciona: unos miran, otros se acercan, otros salen corriendo… y algunos **sacan el móvil y graban**, como en cualquier vídeo viral. Si la cosa se pone fea, guardan el móvil y se van |
 | **Explosiones y peleas entre jugadores** | Los curiosos se paran a mirar o a grabar desde lejos, y los que se asustan huyen |
 
+## La gente de tu alrededor
+
+Además de esos sucesos, los peatones que tienes cerca hacen su vida: se paran a **hablar por teléfono**, escriben
+en el móvil, **fuman**, se toman un café, sacan una foto, consultan un mapa o esperan impacientes. A veces dos se
+paran a **charlar** entre ellos, gesticulando y hablando por turnos.
+
+También se fijan en ti: si pasas andando muy cerca, alguno **te mira** (y a veces te saluda), y si **pitas con el
+claxon** la gente de la acera se gira y más de uno te lo echará en cara.
+
 Cada vecino tiene su **forma de ser**: los hay agresivos, tranquilos, miedosos, curiosos e indiferentes. Por eso
 dos accidentes nunca acaban igual.
 

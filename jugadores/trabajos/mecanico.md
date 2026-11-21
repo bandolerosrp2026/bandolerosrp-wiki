@@ -56,3 +56,13 @@ Desde la tableta llevas todo el taller:
 Tu **rango** decide qué puedes hacer (por ejemplo, el tuneo, los motores, escribir la centralita o hacer
 devoluciones exigen rangos más altos). La **experiencia** que ganas trabajando no da permisos, pero desbloquea
 trabajos difíciles como el cambio de motor.
+
+De menor a mayor:
+
+| Rango | Qué añade |
+| --- | --- |
+| Novato | Diagnosticar, mantenimiento, reparar y montar piezas, presupuestos, entregar el vehículo, leer la centralita, facturas y almacén del taller |
+| Aprendiz | Presupuestos de tuneo |
+| Mecánico | Cambios de motor, escribir mapas y Stage, desmontar e instalar centralitas y pedir piezas con el dinero del taller |
+| Encargado | Recuperar centralitas bloqueadas y ver las finanzas del taller |
+| Jefe | Jefe del taller: devoluciones, contratar, ascender, despedir y cuenta de empresa |

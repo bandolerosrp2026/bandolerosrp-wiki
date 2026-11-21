@@ -6,6 +6,18 @@ y les recetan silla de ruedas o muletas. Todo lo que hacen queda en el **histori
 Para trabajar de médico hay que **entrar de servicio** (punto de fichar del hospital). Fuera de servicio no recibes
 avisos ni puedes diagnosticar.
 
+## Rangos del EMS
+
+De menor a mayor:
+
+| Rango | Qué añade |
+| --- | --- |
+| Enfermero | Material básico del almacén: vendas, gasas, torniquete, analgésicos, férulas, collarín, botiquín, camilla, silla de ruedas y muletas |
+| Médico | Material avanzado: sutura, pinzas, suero, sangre, morfina, adrenalina, sedante y desfibrilador |
+| Jefe de zona | Lo mismo que un Médico |
+| Cirujano | Lo mismo que un Médico |
+| Cirujano jefe | Jefe del EMS: gestión del trabajo, contratar, ascender, despedir y cuenta de empresa |
+
 ## Menú y tableta
 
 - **F6** (`/menutrabajo`): menú del EMS con la tableta, diagnosticar al más cercano, pedir refuerzos, tus heridas,

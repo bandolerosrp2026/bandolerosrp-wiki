@@ -16,7 +16,7 @@ listas (sin importar mayúsculas ni tildes).
 | Sección | Para qué sirve |
 |---|---|
 | **Inicio** | Resumen del servicio: avisos activos, unidades y personas o vehículos en busca y captura |
-| **Avisos** | Avisos del 112 y automáticos (disparos, robos de coches, atracos, peleas…). Aceptar, rechazar, notas y cerrar |
+| **Avisos** | Avisos de entorno (`/entorno`), de la recepción y automáticos (disparos, robos de coches, atracos, peleas…). Aceptar, rechazar, notas y cerrar |
 | **Mapa** | Mapa con avisos y unidades |
 | **Unidades** | Compañeros de servicio, su estado (10-8, 10-6, 10-7…) y su indicativo |
 | **Ciudadanos** | Ficha: foto, datos, licencias, notas, multas, informes, antecedentes, vehículos y armas registradas |
@@ -81,7 +81,6 @@ departamento y canales conjuntos, el 7 también con emergencias); el resto son p
 
 | Comando / tecla | Qué hace |
 |---|---|
-| `/112 motivo` | Llamar a emergencias con tu ubicación |
 | `/entorno qué ocurre` | Aviso de entorno: anónimo, la policía ve una zona aproximada y no el punto exacto (p. ej. `/entorno se oyen gritos en un callejón`) |
 | `/condena` | Ver cuánto te queda de condena |
 | `/soltarse` o **J** | Intentar soltarte estando esposado o con bridas (minijuego; puede fallar) |

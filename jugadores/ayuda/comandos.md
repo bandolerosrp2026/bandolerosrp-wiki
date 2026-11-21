@@ -18,7 +18,6 @@ para susurrar solo vale `/s`). Usa los de esta lista.
 | `/ooc texto` | Fuera de rol (20 m) |
 | `/twt texto` | Twitter (toda la ciudad) |
 | `/anuncio texto` | Anuncio público |
-| `/112 motivo` | Llamada a emergencias |
 | `/entorno qué ocurre` | Aviso de entorno a la policía: anónimo y con zona aproximada |
 | `/condena` | Ver cuánto te queda de condena |
 | `/soltarse` | Intentar soltarte de las esposas o bridas (también tecla J) |

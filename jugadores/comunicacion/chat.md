@@ -23,7 +23,7 @@ que no es rol (OOC).
 | `/g texto` | 45 m | Gritar |
 | `/twt texto` | Toda la ciudad | Publicar en Twitter con tu `@Nombre_Apellido` (cada 15 s) |
 | `/anuncio texto` | Toda la ciudad | Anuncio público (cada 60 s) |
-| `/112 motivo` | Policía y emergencias de servicio | Llamada de emergencia; incluye la calle donde estás (cada 30 s) |
+| `/entorno qué ocurre` | Policía de servicio | Aviso de entorno anónimo con una zona aproximada (cada 30 s). Ver [Policía](../trabajos/policia.md) |
 
 ## Fuera de rol (OOC)
 

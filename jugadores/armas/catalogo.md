@@ -4,7 +4,7 @@
 Esta página se genera sola a partir del inventario del servidor: siempre está al día.
 {% endhint %}
 
-Hay **122 armas y herramientas** en el servidor. Cada una usa la munición de su calibre: si no tienes ese calibre exacto en el inventario, no podrás recargar.
+Hay **134 armas y herramientas** en el servidor. Cada una usa la munición de su calibre: si no tienes ese calibre exacto en el inventario, no podrás recargar.
 
 ## Calibres
 
@@ -12,12 +12,13 @@ Hay **122 armas y herramientas** en el servidor. Cada una usa la munición de su
 |---|---|
 | Munición 9 mm | 34 |
 | Munición 5,56×45 | 17 |
-| Cartuchos del calibre 12 | 10 |
+| Cartuchos del calibre 12 | 12 |
 | Munición .45 ACP | 10 |
 | Munición 7,62×51 | 9 |
 | Munición 7,62×39 | 6 |
 | Munición .44 Magnum | 3 |
 | Munición .22 LR | 2 |
+| Cartucho de bengala | 1 |
 | Granadas de 40 mm | 1 |
 | Munición .38 LC | 1 |
 | Munición .50 AE | 1 |
@@ -120,13 +121,15 @@ Los accesorios se ponen **usando el objeto con el arma en la mano** y se quitan 
 | Steyr AUG A3 | Munición 5,56×45 | cargador ampliado |
 | TAR-21 | Munición 5,56×45 | silenciador, cargador ampliado, mira, linterna |
 
-## Escopetas (9)
+## Escopetas (11)
 
 | Arma | Munición | Accesorios |
 |---|---|---|
 | AA-12 | Cartuchos del calibre 12 | silenciador |
 | Benelli M1014 | Cartuchos del calibre 12 | silenciador |
+| Escopeta de dos cañones | Cartuchos del calibre 12 | — |
 | Escopeta no letal | Cartuchos del calibre 12 | silenciador, linterna |
+| Escopeta recortada | Cartuchos del calibre 12 | — |
 | Mossberg | Cartuchos del calibre 12 | silenciador, linterna |
 | Remington 870 | Cartuchos del calibre 12 | silenciador, linterna |
 | Remington 870 táctica | Cartuchos del calibre 12 | silenciador, linterna |
@@ -152,7 +155,7 @@ Los accesorios se ponen **usando el objeto con el arma en la mano** y se quitan 
 |---|---|---|
 | Lanzador antidisturbios L104A1 | Granadas de 40 mm | — |
 
-## Armas cuerpo a cuerpo (22)
+## Armas cuerpo a cuerpo (29)
 
 | Arma | Munición | Accesorios |
 |---|---|---|
@@ -160,6 +163,7 @@ Los accesorios se ponen **usando el objeto con el arma en la mano** y se quitan 
 | Bate con clavos | — | — |
 | Bate de críquet | — | — |
 | Bate de madera | — | — |
+| Botella rota | — | — |
 | Cuchillo Bowie | — | — |
 | Cuchillo de carnicero | — | — |
 | Cuchillo de cocina | — | — |
@@ -169,27 +173,36 @@ Los accesorios se ponen **usando el objeto con el arma en la mano** y se quitan 
 | Katana | — | — |
 | Ladrillo | — | — |
 | Linterna | — | — |
+| Llave inglesa | — | — |
 | Machete | — | — |
+| Martillo | — | — |
 | Mazo | — | — |
 | Motosierra | — | — |
+| Navaja automática | — | — |
 | Navaja mariposa | — | — |
 | Pala | — | — |
 | Palanca | — | — |
+| Palo de golf | — | — |
 | Pincho carcelario | — | — |
 | Porra | — | — |
+| Puño americano | — | — |
+| Taco de billar | — | — |
 | Tomahawk | — | — |
 
-## Arrojadizas (1)
+## Arrojadizas (2)
 
 | Arma | Munición | Accesorios |
 |---|---|---|
+| Gas lacrimógeno | — | — |
 | Granada aturdidora | — | — |
 
-## Herramientas (4)
+## Herramientas (6)
 
 | Arma | Munición | Accesorios |
 |---|---|---|
+| Bengala | — | — |
 | Bidón de gasolina | — | — |
 | Extintor | — | — |
 | Manguera | — | — |
+| Pistola de bengalas | Cartucho de bengala | — |
 | Táser | — | — |

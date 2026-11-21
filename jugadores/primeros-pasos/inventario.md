@@ -23,7 +23,9 @@ inventario. **F1** muestra u oculta la barra.
 
 - Las armas se equipan desde el inventario o la barra rápida.
 - **R** recarga.
-- Necesitas munición del calibre correcto.
+- Necesitas munición del calibre correcto: cada arma usa uno concreto (9 mm, 5,56×45, calibre 12…). En el
+  [catálogo de armas](../armas/catalogo.md) tienes todas las armas del servidor y la munición de cada una.
+- Las armas se desgastan al usarlas; cuando se rompen dejan de funcionar.
 
 ## Dinero
 

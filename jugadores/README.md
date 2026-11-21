@@ -37,5 +37,6 @@ connect 134.255.219.130:30130
 * **Dinero**: banco, tarjetas, cajeros, préstamos y facturas.
 * **Vehículos**: llaves, garajes, depósito, gasolina y taller.
 * **Tu personaje**: ropa, armario, barberías y tatuajes.
+* **Armas**: todas las armas del servidor y la munición que usa cada una.
 * **Trabajos y negocios**: cómo funcionan los trabajos, el mecánico y las gasolineras de jugadores.
 * **Ayuda**: reportes al staff y preguntas frecuentes.

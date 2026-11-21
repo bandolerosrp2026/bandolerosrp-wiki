@@ -40,6 +40,10 @@
 * [Barberías y cirujano](personaje/barberias.md)
 * [Tatuajes](personaje/tatuajes.md)
 
+## Armas
+
+* [Catálogo de armas y calibres](armas/catalogo.md)
+
 ## Trabajos y negocios
 
 * [Cómo funcionan los trabajos](trabajos/trabajos.md)

@@ -67,6 +67,16 @@ cañón de Raton puede haber **pumas**, y **atacan**. Si vas de noche por allí,
 El resto de animales salvajes no van a por ti: si te acercas, se alejan.
 {% endhint %}
 
+## El cielo
+
+El cielo cambia con la hora y el tiempo, y **todos veis el mismo**:
+
+- **Amanecer y atardecer** dorados y anaranjados por el lado del sol, con la **hora azul** justo antes de salir y
+  después de ponerse.
+- **De día**, azul intenso arriba y más claro hacia el horizonte. **De noche**, un cielo oscuro de verdad.
+- **Nubes según el clima**: nubes altas y finas con sol, cúmulos cuando está nublado, una capa gris y baja con lluvia y
+  nubarrones de tormenta. Cada rato cambian de forma, como en la realidad, y el paso de un clima a otro es poco a poco.
+
 ## El mar y el agua
 
 El agua de la ciudad tiene su propio aspecto: el **mar es más claro y azul**, con tonos turquesa cerca de la costa,

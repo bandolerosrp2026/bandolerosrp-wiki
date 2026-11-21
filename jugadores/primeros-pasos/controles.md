@@ -1,7 +1,13 @@
 # Controles y teclas
 
-Estas son las teclas **por defecto**. Puedes cambiar casi todas en
-**ESC → Ajustes → Asignación de teclas → FiveM**.
+Estas son las teclas **por defecto**. Todas las acciones de nuestros sistemas se pueden cambiar a tu gusto, y
+muchas que no traen tecla puedes ponértela tú.
+
+{% hint style="info" %}
+**Cómo cambiar una tecla:** ESC → **Ajustes** → **Asignación de teclas** → **FiveM**. Busca la acción por su nombre
+(«Chat: …», «Llaves: …», «Mecánico: …», «Policía: …»…), pulsa en ella y aprieta la tecla nueva. Se guarda en tu
+ordenador y vale para siempre.
+{% endhint %}
 
 ## General
 
@@ -45,6 +51,43 @@ Estas son las teclas **por defecto**. Puedes cambiar casi todas en
 | **E** | Mecánicos: trabajar en el paso señalado si el menú de interacción no llega |
 | **X** | Mecánicos: cancelar el trabajo en curso |
 | **Mayús izquierdo** | Nitro (solo vehículos que lo tengan instalado) |
+
+## Policía
+
+| Tecla | Qué hace |
+|---|---|
+| **← / →** | Pasar de un aviso a otro en la pantalla de avisos |
+| **↑** | Aceptar el aviso que se ve |
+| **↓** | Ampliar o reducir el aviso |
+| **F7** | Radar del coche patrulla (en el helicóptero: cámara) |
+| **F9** | Fijar la lectura del radar |
+| **H** | Placaje (corriendo detrás de alguien) |
+
+## Calle y crimen
+
+| Tecla | Qué hace |
+|---|---|
+| **X** | Levantar las manos |
+| **J** | Intentar soltarte si estás esposado o con bridas |
+| **E** | Atracar a un ciudadano rendido: registrarle (mientras le apuntas) |
+| **G** | Atracar a un ciudadano rendido: que te siga |
+
+## Sin tecla: ponles la que quieras
+
+Estas acciones no traen tecla para no pisar otras, pero están en **Asignación de teclas → FiveM** para que les
+pongas la tuya:
+
+| Acción | Qué hace |
+|---|---|
+| HUD: mostrar u ocultar | Lo mismo que `/hud` |
+| Chat: limpiar · ver mi ID · tirar un dado | Lo mismo que `/limpiar`, `/id` y `/dado` |
+| Trabajos: mis facturas y multas | Lo mismo que `/facturas` |
+| Llaves: dar una copia al jugador más cercano | Lo mismo que `/darllaves` |
+| Taller (cliente): mis presupuestos, facturas y vehículo | Lo mismo que `/taller` |
+| Mecánico: abrir la tableta | Solo mecánicos (de servicio) |
+| Policía: tableta · botón del pánico · radio | Solo policías |
+| Prisión: ver la condena que me queda | Lo mismo que `/condena` |
+| Concesionario: terminar la prueba de conducción | Durante una prueba |
 
 ## Comandos útiles
 

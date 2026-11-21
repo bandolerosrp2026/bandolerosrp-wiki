@@ -54,9 +54,18 @@ El robo de vehículos es rol. Todos los intentos se pueden **fallar**, pueden **
 **policía y el dueño pueden recibir un aviso** con la ubicación. Usa estas mecánicas con sentido de rol.
 {% endhint %}
 
+- **Puente en coches de la ciudad (sin ganzúa)**: siéntate al volante de un coche aparcado de la ciudad que no
+  tenga llave y el minijuego del puente sale solo. Si lo dejas o fallas, pulsa **W** para volver a intentarlo.
+  Si fallas, puede saltar la alarma.
 - **Ganzúa**: con una ganzúa en el inventario, a pie junto a la puerta → **Forzar cerradura** (menú de
-  interacción o usando la ganzúa). Al volante → **puentear**. Hay un minijuego que depende del tipo de vehículo, y
-  la ganzúa se puede romper. Las ganzúas avanzadas se rompen menos. Las ganzúas se compran en las **tiendas 24/7**.
+  interacción o usando la ganzúa). Al volante de un coche **de otro jugador** o que no sea de la ciudad →
+  usa la ganzúa para **puentear**. La ganzúa se puede romper; las avanzadas se rompen menos y hacen el minijuego más
+  fácil. Las ganzúas se compran en las **tiendas 24/7**.
+- **El minijuego** (puente y cerraduras): en pantalla salen **dos semicírculos**. El izquierdo se mueve con
+  **W A S D** (o las flechas) y el derecho apuntando con el **ratón**. Cada uno esconde una zona: cuando la aguja
+  está dentro, el semicírculo se va llenando, y si te sales se vacía (la punta brilla más cuanto más cerca estás).
+  Tienes que conseguir que **los dos estén llenos a la vez** antes de que se acabe el tiempo. **Esc** para dejarlo.
+  Los coches más caros son más difíciles.
 - **Buscar las llaves**: sentado al volante de un coche ajeno, pulsa **H**. Tarda entre 20 y 40 segundos y no
   siempre aparecen.
 - **Coches de la ciudad (NPC)**: muchos están cerrados. Si tienen el motor en marcha, te quedas las llaves. Si el

@@ -33,6 +33,8 @@ Estas son las teclas **por defecto**. Puedes cambiar casi todas en
 | **G** | Al volante: encender o apagar el motor. A pie: arrancar tu coche a distancia |
 | **S** | También arranca el motor (igual que acelerar) |
 | **H** | Buscar las llaves dentro de un coche ajeno (sentado al volante) |
+| **W** | Volver a intentar el puente en un coche de la ciudad sin llave (sentado al volante) |
+| **W A S D** + **ratón** | Minijuego del puente y de forzar cerraduras: WASD el semicírculo izquierdo, ratón el derecho (**Esc** para dejarlo) |
 | **F5** | Llavero (todas tus llaves y el mando a distancia) |
 
 ## Trabajo

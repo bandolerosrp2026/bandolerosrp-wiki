@@ -52,6 +52,16 @@ ordenador y vale para siempre.
 | **X** | Mecánicos: cancelar el trabajo en curso |
 | **Mayús izquierdo** | Nitro (solo vehículos que lo tengan instalado) |
 
+## Caza
+
+| Tecla | Qué hace |
+|---|---|
+| **G** | Soltar la pieza que llevas al hombro («Caza: soltar la pieza…») |
+| *(sin tecla)* | Buscar rastros de animales: asígnala en Ajustes → Asignación de teclas → FiveM («Caza: buscar rastros…») |
+| **Rueda · clic · clic derecho** | Con los prismáticos: zoom, marcar el animal en el mapa y guardarlos |
+
+Todo en [Caza](../trabajos/caza.md).
+
 ## Policía
 
 | Tecla | Qué hace |

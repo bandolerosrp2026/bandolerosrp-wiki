@@ -1,0 +1,154 @@
+# Caza
+
+La caza es una actividad abierta a todo el mundo: no hace falta trabajo ni servicio. Sube de nivel, consigue
+mejor material, vende tus piezas por calidad, cumple retos y encargos y compite en los torneos. Y si te atreve el
+lado oscuro, el **furtivo** compra lo que nadie más compra.
+
+## La cabaña de caza
+
+Está en el **bosque de Paleto** (icono de ciervo en el mapa). Allí tienes:
+
+- **El guarda de la cabaña** (apunta con **Alt**): abre el panel con licencia, tienda, venta, alquiler, carnicería,
+  retos, encargos, torneo, clasificación y bestiario.
+- **El carnicero**: le entregas piezas enteras y te las despieza él.
+- **Alquiler de vehículos**: quad, pick-up y todoterreno para traer las piezas grandes.
+
+## Licencia de caza
+
+- Cuesta **750 $** y dura **14 días**. Se saca en la pestaña **Resumen** del panel.
+- **Sin licencia, todo lo que caces es ilegal**: la cabaña no te lo compra y la policía puede multarte.
+- La policía puede **pedirte la licencia** en el campo y **retirártela**: entonces no podrás sacar otra en 7 días.
+
+## Zonas de caza y veda
+
+Hay 7 zonas de caza marcadas en el mapa (círculos). **No todas están abiertas a la vez**: cada 2 horas cambia la
+veda y se abren otras. Las abiertas salen en verde y las cerradas, en rojo; en la cabaña ves cuáles y cuándo cambian,
+y puedes marcarlas en el mapa.
+
+Un abatimiento es **ilegal** si:
+
+- La especie está **protegida** (puma, pantera, águila, halcón peregrino, búho, buitre) o es **exótica**.
+- No tienes **licencia**, estás **fuera de una zona** o la zona está **en veda**.
+- Es de **noche** (de 22:00 a 6:00, hora del juego).
+- Usas un **arma automática** o **explosivos**.
+
+{% hint style="warning" %}
+La caza ilegal no puntúa en los torneos, da la mitad de experiencia y, si alguien te ve, la policía recibe un aviso.
+{% endhint %}
+
+## Cómo cazar
+
+1. Compra un **cuchillo**, un **rifle** con munición y, si quieres, **prismáticos** en la tienda de la cabaña.
+2. Ve a una zona abierta. Los animales ya viven por el monte; además puedes atraerlos con **cebos** o el **reclamo**.
+3. **Acércate agachado**: los animales te **oyen** (correr se oye mucho más que andar agachado, y un disparo, lejísimos)
+   y te **huelen** si el viento sopla de ti hacia ellos. Ponte con el viento de cara.
+4. Dispara. **Un tiro en la cabeza o el corazón con rifle da la mejor calidad**. La escopeta va bien para aves y
+   animales pequeños, pero destroza las piezas grandes. Las automáticas y los explosivos echan a perder la pieza.
+5. Apunta a la pieza con **Alt**: **Examinar** (peso, calidad y si es legal), **Despiezar**, **Cargar al hombro** o
+   **Subir al vehículo de al lado**.
+
+### Calidad
+
+| Calidad | Qué la da | Efecto |
+|---|---|---|
+| ★★★ Excelente | Rifle a la cabeza o al corazón | Más carne, mejor precio y más trofeos |
+| ★★☆ Buena | Rifle al cuerpo, escopeta a algo pequeño | Precio normal |
+| ★☆☆ Mala | Escopeta a algo grande, armas cuerpo a cuerpo, automáticas | Menos carne y precio bajo |
+| ☆☆☆ Destrozada | Explosivos, atropellos | No se aprovecha nada |
+
+### Despiezar
+
+Necesitas un **cuchillo** en el inventario. Al despiezar un animal mediano o grande hay un **minijuego** (W, A, S, D):
+si fallas el corte, sacas menos carne y la piel pierde calidad. Al despiezar sacas **carne**, **piel**, a veces un
+**trofeo** (cuerna, colmillos, garras…) y, en las aves, **plumas**.
+
+### Llevar las piezas
+
+- Los animales pequeños y medianos se **cargan al hombro**. Para soltar la pieza usa la tecla **«Caza: soltar la
+  pieza que llevas al hombro»** (**G** por defecto; cámbiala en Ajustes → Asignación de teclas → FiveM). Con una pieza
+  al hombro no puedes correr, saltar ni apuntar.
+- Los grandes (ciervo, jabalí, oso…) se **suben a un vehículo** cercano (apunta a la pieza o, si la llevas al hombro,
+  al vehículo). Los todoterreno, furgonetas y vehículos de trabajo llevan 2 piezas; los SUV, 1; los coches, ninguna.
+  Los de alquiler llevan lo que diga su ficha. Para bajarlas, apunta al vehículo → **Descargar una pieza**.
+
+## El carnicero
+
+Entrégale una pieza **legal** (al hombro o la carga del vehículo aparcado cerca). La despieza él: **saca más carne que
+tú, no falla el corte y tiene más suerte con los trofeos**. Tarda unos minutos; lo recoges en la pestaña
+**Carnicería** del panel (o hablando con él). Puedes tener hasta 6 piezas a la vez.
+
+## Vender
+
+En la pestaña **Vender** se ve todo lo que llevas que se compra allí, **separado por calidad** y con el precio por
+unidad. Puedes vender una unidad, todo lo de una calidad o **venderlo todo** de golpe. La cabaña solo compra caza
+**legal**.
+
+## Herramientas
+
+| Objeto | Para qué sirve |
+|---|---|
+| **Prismáticos** | Úsalos desde el inventario: ves qué animal es, a qué distancia está, si se puede cazar ahí y si es peligroso. **Rueda** para el zoom, **clic** para marcarlo 60 s en el mapa y **clic derecho** para guardarlos |
+| **Bloque de sal / cebo de grano / cebo de carne** | Colócalo en una zona abierta, aléjate y espera: atrae a ciertos animales (sal: ciervos y jabalíes; grano: conejos, jabalíes y aves; carne: depredadores). Hay que esperar unos minutos entre cebos |
+| **Reclamo** | Llama a un animal cercano, que se acerca hasta cierta distancia. Quédate quieto y agachado |
+| **Rastros** | Con la tecla **«Caza: buscar rastros de animales»** (sin tecla por defecto: asígnala en Ajustes → Asignación de teclas → FiveM) buscas huellas en una zona abierta. Síguelas y al final estará el animal |
+| **Trampa de caja** | Se monta con un cebo de grano y caza sola animales pequeños en 15-25 minutos. Puedes tener 2. Revísala o recógela con **Alt**. Vaciar una trampa ajena es **robar** |
+| **Hoguera de campaña** | Enciéndela y asa la carne cruda: la carne asada se come y se vende mejor |
+| **Neutralizador de olor** | Durante 10 minutos los animales te huelen mucho menos |
+
+## Niveles
+
+Cada pieza que abates y despiezas, cada reto y cada encargo dan **experiencia**. Hay **20 niveles**. Al subir:
+
+- Se desbloquea material en la tienda (escopeta, reclamo, cebo de carne, trampas, neutralizador, Mosin-Nagant…).
+- Se desbloquean vehículos de alquiler (pick-up a nivel 3, todoterreno a nivel 8).
+- Puedes aprovechar especies más difíciles: el lobo, el oso o el lince piden nivel (el bestiario dice cuál).
+- A nivel 6 el **furtivo** empieza a hablar contigo.
+
+## Retos diarios
+
+Cada día salen **3 retos** nuevos (abatir ciertos animales, despiezar, vender, asar, usar trampas, seguir rastros…).
+Cuando los completas, se cobran en la pestaña **Retos** (dinero y experiencia). Cambian a medianoche.
+
+## Encargos
+
+Comercios del condado piden carne, pieles o trofeos **con una calidad mínima**. Cambian cada hora. Llévalo todo
+encima y pulsa **Entregar**.
+
+## Torneos
+
+Hay torneos todos los días a las **18:00** (90 minutos) y a las **22:00** (60 minutos), hora del servidor. Puntúa la
+**caza legal** que despiezas o entregas al carnicero, según su **peso y su calidad**. Premios: **6.000 $**, **3.500 $**
+y **2.000 $** para los tres primeros y **300 $** para el resto que llegue a 20 puntos. Los premios se cobran en la
+pestaña **Resumen**.
+
+## Clasificación, récords y bestiario
+
+- **Clasificación**: los mejores cazadores por experiencia, piezas y capturas en trampa.
+- **Récords**: la pieza más pesada de cada especie en todo el servidor.
+- **Bestiario**: todas las especies, si son legales, su peso, qué dan, qué cebos les gustan, si son peligrosas y tus
+  propias marcas.
+
+{% hint style="danger" %}
+El **oso**, el **lobo**, el **puma** y los animales exóticos **atacan**. No te acerques a pie sin estar preparado.
+{% endhint %}
+
+## El cazador furtivo
+
+Vive apartado, cerca de **Grapeseed**. Solo habla contigo a partir de **nivel 6**. Él:
+
+- **Compra** pieles, garras y plumas de especies **protegidas** y algo de caza legal (peor pagada que en la cabaña).
+- Vende material sin hacer preguntas (y sin pedir licencia).
+- Tiene **encargos ilegales**, algunos de **animales exóticos** (leopardo, león, cocodrilo): al aceptarlos te marca la
+  zona en el mapa y el animal aparece cuando llegas. Son peligrosos.
+- Cuanto más le vendes, más **reputación** tienes con él y mejores cosas te ofrece.
+
+{% hint style="warning" %}
+Todo lo del furtivo es delito. Si la policía te pilla con pieles de especies protegidas o cazando sin licencia, te
+puede caer una buena.
+{% endhint %}
+
+## Para la policía
+
+Apunta con **Alt** a una persona estando de servicio: **Comprobar licencia de caza** (te dice si la tiene y hasta
+cuándo) o **Retirar licencia de caza** (no podrá sacar otra en 7 días). Los avisos de caza furtiva llegan como
+**10-33 · Caza furtiva**.

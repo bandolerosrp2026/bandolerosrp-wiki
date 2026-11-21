@@ -55,6 +55,7 @@
 * [Concesionario (vendedores y jefe)](trabajos/concesionario.md)
 * [Gasolineras y reparto de combustible](trabajos/gasolineras.md)
 * [Estudios de tatuajes](trabajos/tatuador.md)
+* [Caza](trabajos/caza.md)
 
 ## Crimen
 

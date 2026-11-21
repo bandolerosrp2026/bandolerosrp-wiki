@@ -19,6 +19,11 @@ para susurrar solo vale `/s`). Usa los de esta lista.
 | `/twt texto` | Twitter (toda la ciudad) |
 | `/anuncio texto` | Anuncio público |
 | `/112 motivo` | Llamada a emergencias |
+| `/112anon motivo` | Aviso anónimo a la policía (zona aproximada) |
+| `/condena` | Ver cuánto te queda de condena |
+| `/soltarse` | Intentar soltarte de las esposas o bridas (también tecla J) |
+| `/mdt` | Policía: abrir la tableta ([Policía](../trabajos/policia.md)) |
+| `/k9` | Policía: sacar o guardar el perro |
 | `/id` | Tu número de jugador |
 | `/ayuda` | Ayuda del chat |
 | `/limpiar` | Borrar tu chat |

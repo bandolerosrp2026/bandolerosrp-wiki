@@ -7,8 +7,9 @@ servidor no te deja entrar y te avisa. En la ciudad, fuera de rol (chat OOC, rep
 nombre de Steam**.
 
 {% hint style="info" %}
-Si te sale el aviso de Steam: cierra FiveM, abre Steam, inicia sesión y vuelve a abrir FiveM. En FiveM, en
-Ajustes → Cuentas, Steam tiene que aparecer vinculado.
+Si te sale el aviso de Steam: cierra FiveM **del todo** (también desde la bandeja, junto al reloj), abre Steam e
+inicia sesión (no en modo sin conexión) y después abre FiveM. Ábrelos los dos igual: si uno va como administrador
+y el otro no, FiveM no ve Steam.
 {% endhint %}
 
 ## 1. La pantalla de carga

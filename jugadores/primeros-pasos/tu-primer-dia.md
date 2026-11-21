@@ -1,5 +1,16 @@
 # Tu primer día
 
+## Antes de entrar: Steam
+
+Para jugar en BandolerosRP necesitas **Steam abierto y con la sesión iniciada antes de abrir FiveM**. Si no, el
+servidor no te deja entrar y te avisa. En la ciudad, fuera de rol (chat OOC, reportes, staff) se te ve con **tu
+nombre de Steam**.
+
+{% hint style="info" %}
+Si te sale el aviso de Steam: cierra FiveM, abre Steam, inicia sesión y vuelve a abrir FiveM. En FiveM, en
+Ajustes → Cuentas, Steam tiene que aparecer vinculado.
+{% endhint %}
+
 ## 1. La pantalla de carga
 
 Al conectarte verás la pantalla de carga con el progreso real de la descarga y música de fondo.

@@ -1,5 +1,10 @@
 # Todos los comandos
 
+{% hint style="info" %}
+Cada cosa tiene **un solo comando**: desde el 21-11-2026 ya no hay dos nombres para lo mismo (por ejemplo,
+para susurrar solo vale `/s`). Usa los de esta lista.
+{% endhint %}
+
 ## Rol y chat
 
 | Comando | Qué hace |
@@ -7,24 +12,24 @@
 | `/me acción` | Acción de tu personaje (20 m) |
 | `/do descripción` | Describir el entorno (20 m) |
 | `/intentar acción` | Intento con resultado al azar: Éxito o Fallo (20 m) |
-| `/dado [caras]` · `/dados` | Tirar un dado de 2 a 100 caras (20 m) |
-| `/s texto` · `/susurrar` | Susurrar (3 m) |
-| `/g texto` · `/gritar` | Gritar (45 m) |
-| `/ooc texto` · `/b` | Fuera de rol (20 m) |
-| `/twt texto` · `/twitter` | Twitter (toda la ciudad) |
+| `/dado [caras]` | Tirar un dado de 2 a 100 caras (20 m) |
+| `/s texto` | Susurrar (3 m) |
+| `/g texto` | Gritar (45 m) |
+| `/ooc texto` | Fuera de rol (20 m) |
+| `/twt texto` | Twitter (toda la ciudad) |
 | `/anuncio texto` | Anuncio público |
 | `/112 motivo` | Llamada a emergencias |
 | `/id` | Tu número de jugador |
-| `/ayuda` · `/comandos` | Ayuda del chat |
+| `/ayuda` | Ayuda del chat |
 | `/limpiar` | Borrar tu chat |
 | `/ocultarchat` | Modo del chat (tecla L) |
-| `/report texto` · `/reporte` | Hablar con el staff |
+| `/report texto` | Hablar con el staff |
 
 ## Dinero
 
 | Comando | Qué hace |
 |---|---|
-| `/darefectivo id cantidad` · `/givecash` | Dar efectivo a alguien cercano |
+| `/darefectivo id cantidad` | Dar efectivo a alguien cercano |
 | `/facturas` | Tus facturas y multas |
 
 ## Vehículos

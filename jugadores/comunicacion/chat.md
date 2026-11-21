@@ -27,7 +27,7 @@ que no es rol (OOC).
 
 ## Fuera de rol (OOC)
 
-- `/ooc texto` o `/b texto` (o escribir **sin «/»**): mensaje fuera de rol para quien esté a 20 m. Sale con tu
+- `/ooc texto` (o escribir **sin «/»**): mensaje fuera de rol para quien esté a 20 m. Sale con tu
   nombre de FiveM, no el de tu personaje.
 
 {% hint style="warning" %}
@@ -40,7 +40,7 @@ que tu personaje no sabe (metagaming).
 | Comando | Qué hace |
 |---|---|
 | `/id` | Ver tu número de jugador |
-| `/ayuda` o `/comandos` | Lista de comandos |
+| `/ayuda` | Lista de comandos |
 | `/report texto` | Hablar con el staff. Ver [Hablar con el staff](../ayuda/report.md) |
 | `/ocultarchat` | Lo mismo que la tecla L |
 

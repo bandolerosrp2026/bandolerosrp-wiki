@@ -6,8 +6,6 @@ Si tienes un problema (un fallo, alguien rompe las normas, te has quedado atasca
 /report lo que te pasa
 ```
 
-(También vale `/reporte`.)
-
 ## Qué pasa después
 
 1. Tu reporte llega al panel del staff.

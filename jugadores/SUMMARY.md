@@ -43,6 +43,7 @@
 ## Armas
 
 * [Catálogo de armas y calibres](armas/catalogo.md)
+* [Banco de armero (tintes)](armas/armero.md)
 
 ## Trabajos y negocios
 

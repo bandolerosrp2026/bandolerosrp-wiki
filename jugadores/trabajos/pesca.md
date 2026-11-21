@@ -7,7 +7,18 @@ su hora. Sube de nivel, consigue mejores cañas, vende en la lonja, cumple las m
 ## Las lonjas de pesca
 
 Salen en el mapa como **Lonja de pesca**: La Puerta (Los Santos), el muelle de Del Perro, Paleto y el embarcadero del
-Mar de Alamo. Apunta al encargado con **Alt** para abrir el panel:
+Mar de Alamo. Ahí se hace todo: apunta al encargado con **Alt** y elige qué quieres hacer:
+
+| Opción | Qué hace |
+|---|---|
+| Abrir la lonja de pesca | Abre el panel entero de la lonja |
+| Vender todo el pescado | Vende de golpe todo lo que la lonja compra, sin abrir el panel |
+| Ver precios y vender | Abre el panel en **Vender**, para ver el precio de cada pieza |
+| Comprar cañas, cebos y material | Abre el panel en **Tienda** |
+| Alquilar un barco | Abre el panel en **Barcos** (solo en las lonjas con amarre) |
+| Misiones, logros y torneo | Abre el panel en **Misiones** |
+
+Pestañas del panel de la lonja:
 
 - **Resumen:** licencia, zona caliente del momento y consejos.
 - **Tienda:** cañas, cebos, señuelos, sonda, nevera y nasas.
@@ -15,7 +26,8 @@ Mar de Alamo. Apunta al encargado con **Alt** para abrir el panel:
 - **Barcos:** alquiler (en las lonjas con amarre).
 - **Misiones, Logros, Torneo, Clasificación y Guía de peces.**
 
-Con **`/pesca`** abres tu **cuaderno de pesca** en cualquier sitio (misiones, logros, torneo, clasificación y guía).
+Fuera de la lonja, con **`/pesca`** abres tu **cuaderno de pesca** para consultar misiones, logros, torneo,
+clasificación y guía. Para comprar, vender, sacar la licencia o alquilar un barco hay que ir a la lonja.
 
 ## Licencia de pesca
 

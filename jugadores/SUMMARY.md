@@ -9,6 +9,7 @@
 * [Controles y teclas](primeros-pasos/controles.md)
 * [La interfaz: HUD, menús y avisos](primeros-pasos/interfaz.md)
 * [Interactuar con el mundo](primeros-pasos/interactuar.md)
+* [La ciudad está viva](primeros-pasos/ciudad-viva.md)
 * [Puertas y cerraduras](primeros-pasos/puertas.md)
 * [Inventario](primeros-pasos/inventario.md)
 * [Muerte y reaparición](primeros-pasos/muerte.md)

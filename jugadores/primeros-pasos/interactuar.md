@@ -27,14 +27,15 @@ que no estés de servicio. Las opciones con **candado** se ven pero aún no las 
 | Otro jugador | Dar efectivo y, según tu trabajo, acciones como facturar o cachear |
 | Dependienta de ropa | Abrir la tienda |
 | Vehículo averiado (mecánico) | Los pasos de la reparación |
-| Silla, banco, sofá, taburete o tumbona | Sentarse o tumbarse (ver abajo) |
+| Silla, banco, sofá, taburete, tumbona o mesa de pícnic | Sentarse o tumbarse (ver abajo) |
 | Máquina expendedora | Comprar una bebida, sacar un café o comprar algo de picar (ver abajo) |
 
 ## Sentarse en cualquier sitio
 
 Apunta con **Alt** a casi cualquier **silla, banco, sofá, sillón, taburete o tumbona** de la ciudad → **Sentarse**
-(o **Tumbarse** en las tumbonas). En los bancos y sofás te sientas en el hueco al que apuntas, así caben varios. Si el
-sitio ya está ocupado, te avisa.
+(o **Tumbarse** en las tumbonas). En los bancos y sofás te sientas en el hueco al que apuntas, así caben varios. En las
+**mesas de pícnic** (**Sentarse a la mesa**) te sientas en el banco del lado desde el que apuntas. Si el sitio ya está
+ocupado, te avisa.
 
 Para **levantarte**, pulsa la tecla **Levantarse (sillas, bancos, sofás, camping)** (**X** por defecto; se cambia en
 Ajustes → Asignación de teclas → FiveM). Es la misma que en el [camping](../trabajos/camping.md). Las hamacas del

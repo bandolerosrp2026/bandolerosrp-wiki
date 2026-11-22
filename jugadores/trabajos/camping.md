@@ -24,7 +24,7 @@ En el mapa también salen las **Zonas de acampada**, los sitios preparados para 
 | Carpa plegable | Dar sombra al campamento |
 | Saco de dormir y catre | **Tumbarte a descansar** |
 | Sillas (plegable, de lona, de playa, de madera) | **Sentarte** |
-| Mesa de pícnic | Decorar y comer en ella |
+| Mesa de pícnic | **Sentarte en sus bancos**: te sientas en el lado desde el que apuntas (caben varios) |
 | Vallas, portón, estacas y barrera | Cercar el campamento |
 | Foco con trípode | **Encenderlo y apagarlo**: alumbra de noche |
 | Nevera portátil, nevera grande y cajón | **Guardar cosas** |
@@ -70,7 +70,7 @@ Sin candado, cualquiera que esté al lado puede abrirlo, como en la vida real.
 |---|---|---|
 | Tienda de campaña | **Entrar a dormir** | Es lo que más descansa: baja mucho el estrés y recuperas vida |
 | Saco o catre | **Tumbarse a descansar** | Igual que dormir en la tienda |
-| Silla | **Sentarse** | Baja un poco el estrés |
+| Silla o mesa de pícnic | **Sentarse** | Baja un poco el estrés |
 | Hoguera encendida | **Calentarse junto al fuego** o **Sentarse junto al fuego** | Baja el estrés y recuperas vida |
 
 Si descansas con una hoguera encendida cerca, baja todavía más el estrés. Para levantarte, pulsa la tecla

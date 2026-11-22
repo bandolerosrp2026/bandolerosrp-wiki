@@ -170,9 +170,15 @@ distintas:
 | Pastor alemán | 4 | 3.500 $ | Rastrea, te defiende y ataca a la presa que le marques |
 | Rottweiler | 6 | 4.200 $ | Te defiende y ataca a la presa que le marques |
 
-Órdenes (apunta al perro con **Alt**, usa el menú de órdenes o sus teclas):
+Órdenes: escribe **`/perrocaza`** (menú con todo y cómo está tu perro: si te sigue, si está quieto o en el coche, y su
+salud), apunta al perro con **Alt** o usa sus teclas. Si no lo has sacado, `/perrocaza` te deja sacarlo.
 
 - **Aquí / Quieto**: te sigue o se queda esperando.
+- **Subir al coche / Bajar del coche**: va andando hasta tu coche (o el más cercano) y se sienta en un asiento libre
+  de pasajero. Se queda dentro aunque te bajes, hasta que le digas que baje o lo llames. También apuntando al coche
+  con **Alt** → **Subir a tu perro** / **Bajar a tu perro**. En motos, bicis, helicópteros y aviones no puede ir.
+- **Sentado, Túmbate, Dame la pata, Pide**: se queda así hasta la siguiente orden. **Ladra** ladra un momento y sigue
+  con lo que hacía.
 - **Buscar rastro**: busca animales cerca y te lleva hasta ellos (los marca en el mapa). Si no hay ninguno, en una zona
   abierta puede encontrar un rastro fresco. Hay que esperar un poco entre búsquedas.
 - **Cobrar la pieza**: va a por la pieza abatida más cercana. Las **aves y piezas pequeñas** te las trae en la boca
@@ -181,7 +187,7 @@ distintas:
   él** (pastor alemán y rottweiler). Lo que mata tu perro cuenta como tuyo, pero la pieza sale de calidad mala.
 - **Te defiende** solo si un animal te ataca (husky, pastor alemán y rottweiler).
 - **Mandar a casa**: lo guardas.
-- Si vas en coche y te bajas lejos de donde se quedó, el perro aparece contigo (se ha subido al coche).
+- Si no lo subes al coche y te bajas lejos de donde se quedó, el perro aparece contigo igualmente.
 
 Si tu perro cae herido, pasa **30 minutos con el veterinario**. En la cabaña puedes pagar **400 $** para que lo curen
 ya. También puedes cambiarle el nombre o dejarlo en adopción para comprar otra raza.
@@ -195,7 +201,8 @@ Teclas (todas **sin tecla por defecto**: asígnalas en Ajustes → Asignación d
 | **Caza: perro, buscar rastro** | Busca animales o un rastro |
 | **Caza: perro, cobrar la pieza** | Va a por la pieza abatida más cercana |
 | **Caza: perro, atacar al animal que apuntas** | Mientras apuntas a un animal |
-| **Caza: perro, menú de órdenes** | Todas las órdenes en un menú |
+| **Caza: perro, subir o bajar del coche** | Se sube a tu coche (o al más cercano) o se baja |
+| **Caza: perro, menú de órdenes (/perrocaza)** | Todas las órdenes en un menú, igual que `/perrocaza` |
 
 ## Cámaras de caza
 

@@ -27,6 +27,7 @@ para susurrar solo vale `/s`). Usa los de esta lista.
 | `/misheridas` | Ver tus heridas, constantes y sangre |
 | `/tabletaems` | EMS: abrir la tableta ([EMS](../trabajos/ems.md)) |
 | `/pesca` | Abrir tu cuaderno de pesca: misiones, logros, torneo y guía de peces ([Pesca](../trabajos/pesca.md)) |
+| `/perrocaza` | Menú de tu perro de caza: sacarlo, órdenes, subirlo al coche, trucos ([Caza](../trabajos/caza.md)) |
 | `/micamping` | Ver todo lo que tienes colocado de camping, con distancia y GPS ([Camping](../trabajos/camping.md)) |
 | `/paintball` | Clasificación y perfil de paintball; junto a un centro, también las salas ([Paintball](../primeros-pasos/paintball.md)) |
 | `/salirpaintball` | Salir de la sala o abandonar la partida de paintball (te devuelven tus cosas) |

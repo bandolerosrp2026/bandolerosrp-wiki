@@ -117,13 +117,92 @@ unidad. Puedes vender una unidad, todo lo de una calidad o **venderlo todo** de 
 | **Reclamo** | Llama a un animal cercano, que se acerca hasta cierta distancia. Quédate quieto y agachado |
 | **Rastros** | Con la tecla **«Caza: buscar rastros de animales»** (sin tecla por defecto: asígnala en Ajustes → Asignación de teclas → FiveM) buscas huellas en una zona abierta. Síguelas y al final estará el animal |
 | **Trampa de caja** | Se monta con un cebo de grano y caza sola animales pequeños en 15-25 minutos. Puedes tener 2. Revísala o recógela con **Alt**. Vaciar una trampa ajena es **robar** |
-| **Hoguera de campaña** | Enciéndela (un círculo de piedras con llamas y humo) y asa la carne cruda: la carne asada se vende mejor, quita más hambre y cura más |
+| **Cámara de caza** | Colócala dentro de una zona de caza (también en veda: observar es legal). Graba los animales y las **personas** que pasan por delante, con la hora y el tiempo. Puedes tener 3. Mira más abajo |
+| **Hoguera de campaña** | Enciéndela y asa la carne cruda: la carne asada se vende mejor, quita más hambre y cura más |
+| **Neutralizador de olor** | Durante 10 minutos los animales te huelen mucho menos |
 
 ### Comer carne
 
 Toda la carne de caza se come desde el inventario (**Usar**): quita el hambre y **te sube un poco la vida**. La cruda
 alimenta y cura poco; la **asada** en la hoguera, bastante más. El pescado también se come (mira la página de la pesca).
-| **Neutralizador de olor** | Durante 10 minutos los animales te huelen mucho menos |
+
+## Clima y hora
+
+La hora del juego y el tiempo cambian la caza. En el **Resumen** de la cabaña verás las **condiciones de ahora**
+(buenas, normales o malas) y por qué. También puedes verlas en el campo con la tecla **«Caza: ver las condiciones
+(clima y hora)»** (sin tecla por defecto: asígnala en Ajustes → Asignación de teclas → FiveM).
+
+| Momento o tiempo | Qué cambia |
+|---|---|
+| **Amanecer (5-8 h)** y **atardecer (18-21 h)** | Los animales acuden antes a cebos y reclamos y responden mejor. Más ciervos y jabalíes |
+| **Noche (21-5 h)** | Te oyen más y salen muchos más depredadores (lobos, coyotes, pumas). Recuerda: de 22 a 6 h cazar es ilegal |
+| **Lluvia** | Te oyen y te huelen mucho menos: el mejor momento para acercarte. Más jabalíes |
+| **Tormenta y ventisca** | Te oyen poco, pero los animales se esconden: tardan en acudir y el reclamo casi no funciona |
+| **Niebla** | Te oyen algo menos y acuden un poco antes |
+| **Escampando** | Huelen menos y salen a comer: acuden mucho antes |
+| **Calor (despejado)** | Te oyen y huelen desde más lejos, y tardan más en acudir |
+| **Nieve** | Te oyen algo menos y hay más lobos |
+
+## Peligro: animales que atacan
+
+- **Un animal herido puede revolverse.** Si hieres sin matar a un jabalí, un lobo, un puma o un oso, lo más probable
+  es que vaya a por ti. Remata bien.
+- **Embestidas.** Jabalíes, osos, ciervos, pumas y lobos te pueden **tirar al suelo** al alcanzarte.
+- **Emboscadas.** Desde el nivel 4, dentro de una zona de caza, los depredadores pueden ir a por ti si llevas **sangre
+  fresca** encima (una pieza al hombro o acabas de despiezar) y, sobre todo, **de noche**. Si te avisa de que oyes
+  ruido entre la maleza, prepárate: vienen lobos o coyotes en manada, o un puma.
+- Abatir a un animal que te ha emboscado es **defensa propia**: nadie avisa a la policía y no cuenta como caza en veda,
+  de noche o fuera de zona. El puma sigue siendo una especie protegida: no se vende en la cabaña.
+
+## Perro de caza
+
+En la cabaña, pestaña **Perro**, puedes comprar un perro, ponerle nombre y sacarlo. Cada raza sabe hacer cosas
+distintas:
+
+| Raza | Nivel | Precio | Qué hace |
+|---|---|---|---|
+| Labrador cobrador | 2 | 2.500 $ | Rastrea y cobra piezas |
+| Husky | 3 | 3.000 $ | Rastrea, cobra piezas y te defiende |
+| Pastor alemán | 4 | 3.500 $ | Rastrea, te defiende y ataca a la presa que le marques |
+| Rottweiler | 6 | 4.200 $ | Te defiende y ataca a la presa que le marques |
+
+Órdenes (apunta al perro con **Alt**, usa el menú de órdenes o sus teclas):
+
+- **Aquí / Quieto**: te sigue o se queda esperando.
+- **Buscar rastro**: busca animales cerca y te lleva hasta ellos (los marca en el mapa). Si no hay ninguno, en una zona
+  abierta puede encontrar un rastro fresco. Hay que esperar un poco entre búsquedas.
+- **Cobrar la pieza**: va a por la pieza abatida más cercana. Las **aves y piezas pequeñas** te las trae en la boca
+  (labrador y husky); las grandes te las **señala ladrando** y las marca en el mapa.
+- **Atacar**: apunta a un animal y usa la tecla de atacar, o apunta al animal con **Alt** → **Mandar al perro a por
+  él** (pastor alemán y rottweiler). Lo que mata tu perro cuenta como tuyo, pero la pieza sale de calidad mala.
+- **Te defiende** solo si un animal te ataca (husky, pastor alemán y rottweiler).
+- **Mandar a casa**: lo guardas.
+- Si vas en coche y te bajas lejos de donde se quedó, el perro aparece contigo (se ha subido al coche).
+
+Si tu perro cae herido, pasa **30 minutos con el veterinario**. En la cabaña puedes pagar **400 $** para que lo curen
+ya. También puedes cambiarle el nombre o dejarlo en adopción para comprar otra raza.
+
+Teclas (todas **sin tecla por defecto**: asígnalas en Ajustes → Asignación de teclas → FiveM):
+
+| Tecla | Qué hace |
+|---|---|
+| **Caza: perro, llamar o sacar** | Lo saca de casa o lo llama con un silbido |
+| **Caza: perro, seguir o quieto** | Alterna entre seguirte y quedarse quieto |
+| **Caza: perro, buscar rastro** | Busca animales o un rastro |
+| **Caza: perro, cobrar la pieza** | Va a por la pieza abatida más cercana |
+| **Caza: perro, atacar al animal que apuntas** | Mientras apuntas a un animal |
+| **Caza: perro, menú de órdenes** | Todas las órdenes en un menú |
+
+## Cámaras de caza
+
+Se compran en la tienda de la cabaña (nivel 3) y se colocan desde el inventario dentro de una zona de caza. Graban lo
+que pasa por delante aunque no estés: **qué animal, a qué hora del juego y con qué tiempo**. También graban a las
+**personas** que pasan cerca, y te llega un aviso: útil para pillar a quien te vacía las trampas.
+
+- **Revisar las grabaciones**: apunta a tu cámara con **Alt**, o mira todas tus cámaras en la cabaña, pestaña
+  **Cámaras**. Ahí ves el animal más visto, el mejor momento del día y puedes buscar por animal, hora o tiempo, marcar
+  la cámara en el mapa o borrar las grabaciones.
+- Puedes tener **3** cámaras. **Recoger** una cámara ajena es robar y alguien puede avisar a la policía.
 
 ## Niveles
 

@@ -71,7 +71,8 @@ Si te eliminan lejos de la autoescuela, el examinador te lleva de vuelta. Si qui
 
 ## Carnet por puntos
 
-* Con tu **primer permiso** empiezas con **15 puntos**, el máximo.
+* Con tu **primer permiso** empiezas con **15 puntos**, el máximo. Si ya tenías permiso de conducir de antes (o te
+  lo dio la policía), también tienes tus 15 puntos.
 * Cada **3 días sin perder puntos** recuperas **1**, hasta un máximo de **15**.
 * Las **multas de tráfico** de la policía y los **radares** quitan puntos: exceso de velocidad (2 o 4), semáforo o
   STOP (4), alcohol o drogas, conducción temeraria, huir de un control o carreras ilegales (6). Los radares quitan

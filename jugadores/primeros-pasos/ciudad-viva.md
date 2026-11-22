@@ -89,6 +89,10 @@ El cielo cambia con la hora y el tiempo, y **todos veis el mismo**:
 - **Luces de noche**: al caer la noche los neones, las farolas, los focos y las luces de pista del aeropuerto brillan
   más, con más halo y reflejo en el asfalto mojado, los coches y los cristales, y se ven más estrellas. Dentro de los
   edificios se nota menos para no deslumbrar y en los aeropuertos y aeródromos, más, para ver bien las pistas.
+- **Arcoíris**: cuando deja de llover y el sol está bajo (por la mañana o por la tarde), a veces sale un arcoíris
+  durante unos minutos, con su segundo arco más tenue por fuera. Búscalo **de espaldas al sol**: por la tarde, hacia
+  el este; por la mañana, hacia el oeste. Los edificios y las montañas lo tapan, así que desde un sitio alto o
+  despejado se ve mejor. Todos veis el mismo.
 
 ## El mar y el agua
 

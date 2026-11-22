@@ -12,6 +12,7 @@
 * [La ciudad está viva](primeros-pasos/ciudad-viva.md)
 * [Puertas y cerraduras](primeros-pasos/puertas.md)
 * [La Flavia: bar de azotea y hotel](primeros-pasos/la-flavia.md)
+* [Legion Square](primeros-pasos/legion-square.md)
 * [Parque acuático de Vespucci](primeros-pasos/parque-acuatico.md)
 * [Paintball](primeros-pasos/paintball.md)
 * [Cayo Perico y Cayo Porto](primeros-pasos/cayo-porto.md)

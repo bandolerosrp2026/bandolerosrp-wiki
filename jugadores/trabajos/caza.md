@@ -172,6 +172,9 @@ Vive apartado, cerca de **Grapeseed**. Solo habla contigo a partir de **nivel 6*
   zona en el mapa y el animal aparece cuando llegas. Son peligrosos.
 - En el **pantano de Zancudo** viven **cocodrilos** salvajes. Son una especie **protegida** (cazarlos es caza
   furtiva) y atacan si te acercas: mejor de lejos.
+- Los **loros** escapados de las casas ricas (colinas de Vinewood, Rockford Hills) también están **protegidos**: solo
+  dan plumas y cazarlos es caza furtiva.
+- Los **tiburones** no se cazan con rifle: se pescan (mira [Pesca](pesca.md)).
 - Cuanto más le vendes, más **reputación** tienes con él y mejores cosas te ofrece.
 
 {% hint style="warning" %}

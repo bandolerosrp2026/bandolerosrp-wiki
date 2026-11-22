@@ -76,6 +76,7 @@ palabra («gasolina», «carnet», «multa», «tatuaje»…) y te sale la pági
 | Ir a la piscina o a los toboganes | [Parque acuático](primeros-pasos/parque-acuatico.md) |
 | Jugar una partida con amigos | [Paintball](primeros-pasos/paintball.md) |
 | Ir de excursión o acampar | [Cayo Perico y Cayo Porto](primeros-pasos/cayo-porto.md), [Camping](trabajos/camping.md) |
+| Ponerme en forma, correr más o pegar más fuerte | [Gimnasio y forma física](trabajos/gimnasio.md) |
 
 ## Crimen
 

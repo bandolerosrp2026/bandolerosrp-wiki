@@ -33,6 +33,7 @@ lee antes [Cómo funcionan los trabajos](trabajos.md): contratos, servicio (**F6
 | **Pesca** | 42 especies, cañas y cebos, barcas de alquiler y venta del pescado | [Pesca](pesca.md) |
 | **Cocina** | 100 recetas con calidad y niveles; comida, bebida y alcohol | [Cocina](cocina.md) |
 | **Camping** | Montar un campamento con su material y hoguera | [Camping](camping.md) |
+| **Gimnasio** | Entrenar fuerza, resistencia, pulmones y combate; abonos y suplementos | [Gimnasio](gimnasio.md) |
 
 {% hint style="info" %}
 ¿Buscas algo concreto? Mira [¿Qué quieres hacer?](../que-quieres-hacer.md) o usa el buscador de arriba.

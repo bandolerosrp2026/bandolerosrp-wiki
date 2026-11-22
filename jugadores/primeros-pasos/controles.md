@@ -22,6 +22,16 @@ ordenador y vale para siempre.
 | **ESC** | Menú de pausa (mapa, ajustes, salir) |
 | **P** | Mapa |
 
+## Personaje
+
+| Tecla | Qué hace |
+|---|---|
+| **Control izquierdo** | Agacharse o levantarse (a pie) |
+| **B** | Señalar con el dedo hacia donde miras (otra vez para dejarlo) |
+| **X** | Levantar o bajar las manos. Si estás en el suelo, señalando, cargando a alguien o te llevan a hombros, la X lo cancela primero |
+| *(sin tecla)* | Tirarse al suelo / levantarse: lo mismo que `/suelo` («Tirarse al suelo…») |
+| *(sin tecla)* | Cargar a hombros a quien tengas al lado o soltarlo: lo mismo que `/cargar` («Cargar a hombros…») |
+
 ## Chat y voz
 
 | Tecla | Qué hace |
@@ -77,7 +87,7 @@ Todo en [Caza](../trabajos/caza.md).
 
 | Tecla | Qué hace |
 |---|---|
-| **X** | Levantar las manos |
+| **X** | Levantar las manos (o cancelar la animación en curso) |
 | **J** | Intentar soltarte si estás esposado o con bridas |
 | **E** | Atracar a un ciudadano rendido: registrarle (mientras le apuntas) |
 | **G** | Atracar a un ciudadano rendido: que te siga |
@@ -104,6 +114,8 @@ pongas la tuya:
 | Comando | Qué hace |
 |---|---|
 | `/hud` | Mostrar u ocultar el HUD |
+| `/suelo` | Tirarte al suelo (otra vez, o X, para levantarte) |
+| `/cargar` | Cargar a hombros a quien tengas al lado (o soltarlo) |
 | `/id` | Ver tu número de jugador |
 | `/llaves` | Abrir el llavero |
 | `/facturas` | Ver y pagar tus facturas y multas |

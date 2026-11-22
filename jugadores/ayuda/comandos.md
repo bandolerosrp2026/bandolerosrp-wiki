@@ -28,6 +28,8 @@ para susurrar solo vale `/s`). Usa los de esta lista.
 | `/tabletaems` | EMS: abrir la tableta ([EMS](../trabajos/ems.md)) |
 | `/pesca` | Abrir tu cuaderno de pesca: misiones, logros, torneo y guía de peces ([Pesca](../trabajos/pesca.md)) |
 | `/micamping` | Ver todo lo que tienes colocado de camping, con distancia y GPS ([Camping](../trabajos/camping.md)) |
+| `/suelo` | Tirarte al suelo; otra vez (o **X**) para levantarte. Puedes ponerle tecla en Asignación de teclas |
+| `/cargar` | Cargar a hombros a quien tengas al lado: si está consciente tiene que aceptar; si está abatido, no. Otra vez (o **X**) para soltarlo. También en el menú de interacción («Cargar a hombros») |
 | `/id` | Tu número de jugador |
 | `/ayuda` | Ayuda del chat |
 | `/limpiar` | Borrar tu chat |

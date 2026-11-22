@@ -48,6 +48,9 @@ cuando quieras. La de gas se enciende y se apaga sin gastar nada.
 También puedes cocinar en las **barbacoas, cocinas, freidoras y cafeteras que ya hay por el mapa** (casas, bares,
 playas): apunta con **Alt** → **Cocinar**.
 
+Las **hogueras** (el Kit de hoguera de la caza o de la tienda de camping) también sirven de **parrilla** mientras
+arden. Más en [Camping y acampadas](camping.md).
+
 ## Cocinar
 
 Apunta a una estación con **Alt** → **Cocinar** y se abre el recetario con las recetas de esa estación:

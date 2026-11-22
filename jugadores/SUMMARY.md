@@ -59,6 +59,7 @@
 * [Caza](trabajos/caza.md)
 * [Pesca](trabajos/pesca.md)
 * [Cocina, comida y alcohol](trabajos/cocina.md)
+* [Camping y acampadas](trabajos/camping.md)
 
 ## Crimen
 

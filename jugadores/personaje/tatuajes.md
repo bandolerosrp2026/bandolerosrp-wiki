@@ -5,7 +5,7 @@ servidor que se vayan añadiendo.
 
 ## Tatuarse
 
-1. Ve a un estudio (marcado en el mapa) y apunta al tatuador con **Alt** → **Catálogo**.
+1. Ve a un estudio (en el mapa sale el más cercano a ti) y apunta al tatuador con **Alt** → **Catálogo**.
 2. Elige la **zona** del cuerpo: la cámara se acerca a esa parte y se quita la ropa que la tapa (solo mientras
    miras).
 3. Prueba diseños: se ven **sobre tu personaje** en tiempo real.

@@ -27,8 +27,18 @@ El equipamiento se **coloca** desde el inventario (úsalo como cualquier objeto)
 | Mesa de preparación | Cortar, ensaladas, masas y platos fríos |
 | Carrito de cafés y zumos | Cafés, zumos, batidos y cócteles |
 
-Al colocar sale una vista previa: **clic izquierdo** para ponerla, **rueda del ratón** para girarla y **clic
-derecho** para cancelar. Cada persona puede tener **4** equipos puestos a la vez y solo quien lo puso lo puede
+Al colocar sale una vista previa **delante de ti, apoyada en el suelo** (con borde verde si se puede poner ahí y
+rojo si no). Camina para moverla y usa:
+
+| Tecla | Qué hace |
+|---|---|
+| **Rueda del ratón** | Girar de 15 en 15 grados |
+| **← / →** | Girar despacio, para ajustarla bien |
+| **↑ / ↓** | Alejarla o acercarla |
+| **Clic izquierdo** | Colocarla |
+| **Clic derecho** | Cancelar |
+
+Cada persona puede tener **4** equipos puestos a la vez y solo quien lo puso lo puede
 **recoger** (apunta con **Alt** → Recoger; vuelve a tu inventario).
 
 **Barbacoa de carbón:** apunta con **Alt** → **Encender la barbacoa** (gasta 1 saco de carbón y necesitas un
@@ -91,6 +101,20 @@ La calidad sale en la descripción del plato en el inventario.
 Cada plato da experiencia (más si sale perfecto). Hay **10 niveles** y las recetas más elaboradas (paella,
 costillas, cócteles…) piden nivel. En el recetario ves tu nivel, la experiencia, los platos hechos y los perfectos.
 
+### Recetas con caza y pesca
+
+Lo que cazas y pescas también se cocina:
+
+| Estación | Caza | Pesca |
+|---|---|---|
+| Parrilla | Solomillo de ciervo, chuletas de jabalí, brochetas y hamburguesa de caza | Atún a la plancha, pez espada a la plancha |
+| Fogones | Conejo al ajillo, arroz con conejo, guiso de jabalí al vino, guiso de oso a la cerveza, ave en escabeche | Sopa de pescado, pulpo a la gallega, tacos de pescado |
+| Horno | Pastel de caza, cecina de caza | Pescado a la sal, salmón al horno con patatas |
+| Freidora | — | Pescado de río frito, cazón (tiburón) en adobo |
+| Mesa | — | Ceviche, tartar de atún |
+
+Donde pone «de caza» vale cualquier carne de caza (ciervo, jabalí, conejo, ave, coyote u oso).
+
 ## El recetario sin cocinar
 
 Escribe **/recetas** para consultar todas las recetas estés donde estés. También puedes ponerle una tecla en
@@ -107,8 +131,22 @@ Todo se usa desde el inventario. Algunas cosas a tener en cuenta:
 
 ## Alcohol y borrachera
 
-Las bebidas con alcohol (cerveza, vino, sangría, cócteles, whisky, vodka, ron, tequila, ginebra…) **emborrachan
-según lo que bebas y cuánto**: un cóctel sube más que una cerveza, y un trago de ron solo, más que un cóctel.
+Las bebidas con alcohol (cervezas, vinos, cava, sake, vermut, licores, whisky, bourbon, vodka, ron, tequila, ginebra,
+aguardiente, absenta, cócteles y chupitos) **emborrachan según lo que bebas y cuánto**: un cóctel sube más que una
+cerveza, y un trago de ron solo, más que un cóctel.
+
+Algunas tienen además **su propio efecto**:
+
+| Bebida | Efecto |
+|---|---|
+| **Cava** | Te alegra: los colores se ven más vivos durante un buen rato |
+| **Absenta** | Sube muchísimo y hace ver cosas raras: la pantalla se tiñe y se mueve |
+| **Chupitos y aguardiente** | Golpe de calor: la vista se nubla unos segundos |
+
+En la tienda de cocina (Bebidas) hay cervezas artesanas, vinos blanco y rosado, cava, sake, vermut, crema de whisky,
+whisky, bourbon, vodka, aguardiente y absenta. En el **carrito de bebidas** se preparan, además de los de siempre,
+daiquiri, caipiroska, cosmopolitan, Bloody Mary, ruso blanco, whisky sour, negroni, dry martini, tinto de verano,
+calimocho y chupitos de tequila o whisky.
 
 | Alcohol en sangre | Cómo vas |
 |---|---|

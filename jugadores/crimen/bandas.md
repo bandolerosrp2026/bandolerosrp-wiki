@@ -61,7 +61,8 @@ falta **1.000 + 500 × n** XP (del 1 al 2, 1.500 XP; del 2 al 3, 2.000 XP…). L
 
 ## Territorios
 
-Los territorios aparecen en el mapa con el color de la banda que los controla.
+Los territorios **solo los ven en el mapa los miembros de una banda** (el resto de gente no sabe dónde están), con
+el color de la banda que los controla.
 
 - **Territorio libre**: si **dos o más miembros** de tu banda se quedan dentro, vivos, el tiempo que pida el
   territorio, pasa a ser vuestro. Si entra otra banda a la vez, se corta.

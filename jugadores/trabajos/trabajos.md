@@ -5,6 +5,19 @@
 Los jefes de cada trabajo contratan desde su panel de gestión: te tienen que tener cerca y **tú tienes que
 aceptar** la oferta (tienes 20 segundos). Busca a gente del trabajo que te interese en rol.
 
+## Varios trabajos (/trabajos)
+
+Puedes tener hasta **3 trabajos** a la vez, pero solo uno **activo**. Escribe **/trabajos** (o ponle una tecla en
+**Ajustes → Asignación de teclas → FiveM → Trabajos: mis trabajos**) para:
+
+- Ver tus trabajos con tu rango en cada uno.
+- **Trabajar de** otro: pasa a ser el activo y entras **fuera de servicio**. Entre un cambio y otro hay que esperar
+  30 segundos.
+- **Sin trabajo activo**: te quedas libre sin perder ninguno de tus puestos.
+- **Dejar el trabajo**: pierdes el puesto en esa empresa (para volver, te tiene que contratar el jefe otra vez).
+
+Si ya tienes 3 trabajos, nadie te puede contratar hasta que dejes uno.
+
 ## Menú de trabajo (F6)
 
 **F6** o `/menutrabajo` abre tu menú de trabajo:

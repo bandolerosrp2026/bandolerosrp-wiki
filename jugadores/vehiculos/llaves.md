@@ -60,7 +60,7 @@ El robo de vehículos es rol. Todos los intentos se pueden **fallar**, pueden **
 - **Ganzúa**: con una ganzúa en el inventario, a pie junto a la puerta → **Forzar cerradura** (menú de
   interacción o usando la ganzúa). Al volante de un coche **de otro jugador** o que no sea de la ciudad →
   usa la ganzúa para **puentear**. La ganzúa se puede romper; las avanzadas se rompen menos y hacen el minijuego más
-  fácil. Las ganzúas se compran en las **tiendas 24/7**.
+  fácil. Las ganzúas se compran en las **tiendas de cocina** (sección Utensilios).
 - **El minijuego** (puente y cerraduras): en pantalla salen **dos semicírculos**. El izquierdo se mueve con
   **W A S D** (o las flechas) y el derecho apuntando con el **ratón**. Cada uno esconde una zona: cuando la aguja
   está dentro, el semicírculo se va llenando, y si te sales se vacía (la punta brilla más cuanto más cerca estás).

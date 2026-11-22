@@ -55,6 +55,7 @@ para susurrar solo vale `/s`). Usa los de esta lista.
 | Comando | Qué hace |
 |---|---|
 | `/menutrabajo` | Menú de trabajo (tecla F6) |
+| `/trabajos` | Tus trabajos (hasta 3): cambiar el activo o dejar uno |
 | `/tabletmecanico` | Tableta de mecánico (mecánicos de servicio) |
 
 ## Personaje e interfaz

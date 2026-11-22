@@ -35,6 +35,7 @@ Todos los avisos del servidor salen con el mismo estilo y un color según el tip
 
 El minimapa y el mapa grande tienen un estilo propio del servidor.
 
-Los puntos del mapa están en español y agrupados en la leyenda (todas las tiendas 24/7 en una línea, todos los
-bancos en otra, gasolineras, tiendas de ropa, estudios de tatuajes, barberías…). De los garajes solo se ven los
+Los puntos del mapa están en español y agrupados en la leyenda (todas las tiendas de cocina en una línea, todos los
+bancos en otra, gasolineras, tiendas de ropa, barberías…). De los estudios de tatuajes solo sale **el más cercano**.
+Cuando marcas un destino en el GPS, la ruta sale en el **rosa** del servidor. De los garajes solo se ven los
 cercanos: ver [Garajes](../vehiculos/garajes.md).

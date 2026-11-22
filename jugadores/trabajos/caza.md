@@ -170,6 +170,8 @@ Vive apartado, cerca de **Grapeseed**. Solo habla contigo a partir de **nivel 6*
 - Vende material sin hacer preguntas (y sin pedir licencia).
 - Tiene **encargos ilegales**, algunos de **animales exóticos** (leopardo, león, cocodrilo): al aceptarlos te marca la
   zona en el mapa y el animal aparece cuando llegas. Son peligrosos.
+- En el **pantano de Zancudo** viven **cocodrilos** salvajes. Son una especie **protegida** (cazarlos es caza
+  furtiva) y atacan si te acercas: mejor de lejos.
 - Cuanto más le vendes, más **reputación** tienes con él y mejores cosas te ofrece.
 
 {% hint style="warning" %}

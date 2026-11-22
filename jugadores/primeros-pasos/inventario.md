@@ -8,7 +8,7 @@
 
 ## Lo básico
 
-- Tienes **40 casillas** y un peso máximo. Cada objeto pesa.
+- Tienes **40 casillas** y un peso máximo de **200 kg**. Cada objeto pesa.
 - Arrastra para mover objetos; arrastra a la otra columna para guardar en un maletero, almacén o dar a alguien.
 - Clic derecho sobre un objeto para **usarlo**, **darlo** o **tirarlo**.
 - Cada inventario tiene un **buscador** arriba: escribe y se filtran los objetos (no importan mayúsculas ni

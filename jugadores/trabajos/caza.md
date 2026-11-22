@@ -11,7 +11,28 @@ Está en el **bosque de Paleto** (icono de ciervo en el mapa). Allí tienes:
 - **El guarda de la cabaña** (apunta con **Alt**): abre el panel con licencia, tienda, venta, alquiler, carnicería,
   retos, encargos, torneo, clasificación y bestiario.
 - **El carnicero**: le entregas piezas enteras y te las despieza él.
-- **Alquiler de vehículos**: quad, pick-up y todoterreno para traer las piezas grandes.
+- **Alquiler**: un **caballo** para moverte por el monte, y quad, pick-up y todoterreno para traer las piezas grandes.
+
+### Caballo de alquiler
+
+En la pestaña **Alquiler** del panel de la cabaña: **100 $** de alquiler y **400 $** de fianza, desde el nivel 1. El
+caballo sale en la zona de alquiler, junto a la cabaña.
+
+- **Montar**: apunta al caballo con **Alt** → **Montar a caballo**. Solo lo puede montar quien lo ha alquilado.
+- **Llevarlo**: con tus teclas de **moverte** (W, A, S, D o las que tengas) y **esprintar** para galopar. Si
+  sueltas el avance, se para; girando parado da la vuelta sobre sí mismo.
+- A caballo no se puede disparar: bájate para cazar.
+- **Devolverlo**: tráelo a la zona de alquiler, bájate y apunta con **Alt** → **Devolver el caballo** (o desde el
+  panel). Si el caballo **muere**, pierdes la fianza.
+- No lleva piezas: para las grandes, alquila un vehículo o cárgalas al hombro.
+
+| Acción | Tecla por defecto |
+|---|---|
+| Bajarse del caballo | **F** |
+| Cambiar entre al paso y al trote | **X** |
+| Silbar para que venga el caballo (hasta 200 m) | sin tecla |
+
+Todas se cambian en **Ajustes → Asignación de teclas → FiveM** («Caballo: …»).
 
 ## Licencia de caza
 
@@ -61,7 +82,8 @@ La caza ilegal no puntúa en los torneos, da la mitad de experiencia y, si algui
 
 ### Despiezar
 
-Necesitas un **cuchillo** en el inventario. Al despiezar un animal mediano o grande hay un **minijuego** (W, A, S, D):
+Necesitas un **cuchillo** en el inventario: tu personaje se acerca a la pieza, guarda el arma, se agacha y trabaja con
+el cuchillo en la mano hasta acabar. Al despiezar un animal mediano o grande hay un **minijuego** (W, A, S, D):
 si fallas el corte, sacas menos carne y la piel pierde calidad. Al despiezar sacas **carne**, **piel**, a veces un
 **trofeo** (cuerna, colmillos, garras…) y, en las aves, **plumas**.
 
@@ -95,7 +117,12 @@ unidad. Puedes vender una unidad, todo lo de una calidad o **venderlo todo** de 
 | **Reclamo** | Llama a un animal cercano, que se acerca hasta cierta distancia. Quédate quieto y agachado |
 | **Rastros** | Con la tecla **«Caza: buscar rastros de animales»** (sin tecla por defecto: asígnala en Ajustes → Asignación de teclas → FiveM) buscas huellas en una zona abierta. Síguelas y al final estará el animal |
 | **Trampa de caja** | Se monta con un cebo de grano y caza sola animales pequeños en 15-25 minutos. Puedes tener 2. Revísala o recógela con **Alt**. Vaciar una trampa ajena es **robar** |
-| **Hoguera de campaña** | Enciéndela y asa la carne cruda: la carne asada se come y se vende mejor |
+| **Hoguera de campaña** | Enciéndela (un círculo de piedras con llamas y humo) y asa la carne cruda: la carne asada se vende mejor, quita más hambre y cura más |
+
+### Comer carne
+
+Toda la carne de caza se come desde el inventario (**Usar**): quita el hambre y **te sube un poco la vida**. La cruda
+alimenta y cura poco; la **asada** en la hoguera, bastante más. El pescado también se come (mira la página de la pesca).
 | **Neutralizador de olor** | Durante 10 minutos los animales te huelen mucho menos |
 
 ## Niveles

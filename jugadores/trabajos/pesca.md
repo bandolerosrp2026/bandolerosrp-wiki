@@ -122,6 +122,8 @@ Algunas especies solo pican **de noche** o **de día**, y otras pican más **con
   con el tiempo: conviene variar.
 - La **nevera de pesca** es un contenedor para llevar más pescado. Para vender hay que sacarlo de la nevera.
 - También sacarás **basura** (da unas monedas) y, en mar abierto, algún **cofre hundido**: úsalo para abrirlo.
+- **Todo el pescado se come** desde el inventario (**Usar**): quita el hambre y **te sube un poco la vida**. Ojo, te comes
+  la pieza entera, aunque sea un trofeo.
 
 ## Nasas
 

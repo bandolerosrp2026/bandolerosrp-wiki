@@ -61,6 +61,7 @@ Las tiendas de cada sitio (cocina, caza, pesca, mecánico, camping…) tienen lo
 
 ## Multas
 
-Las pone la policía según el código penal, con cifras como las de España: aparcar mal 90 $, saltarse un semáforo
-200 $, exceso de velocidad 100 $ (500 $ si es grave), conducir bebido 1.000 $, llevar droga para consumo o un arma
-blanca 601 $. Se pagan en [Facturas y multas](facturas.md).
+Las pone la policía según el **código penal español** (Código Penal, Ley de Tráfico y Ley de Seguridad Ciudadana),
+con las mismas cifras que en España: aparcar mal 90 $, saltarse un semáforo 200 $, exceso de velocidad de 100 $ a
+600 $ según cuánto, móvil al volante 200 $, conducir bebido 500 $ o 1.000 $, consumir o llevar droga en la calle
+601 $. Se pagan en [Facturas y multas](facturas.md).

@@ -40,7 +40,7 @@ listas (sin importar mayúsculas ni tildes).
 | **Vehículos** | Busca por matrícula (también parcial): dueño, robado, BOLO y notas |
 | **Busca y captura** | Órdenes de búsqueda de personas, BOLO de vehículos y vehículos denunciados como robados |
 | **Multas** | Todas las multas puestas, pendientes y pagadas |
-| **Código penal** | Artículos con su multa y meses de condena |
+| **Código penal** | El **código penal español completo** (unos 260 artículos con su número real: Código Penal, Ley de Tráfico, Ley de Seguridad Ciudadana y otras infracciones), cada uno con su multa en euros reales, los meses de condena (la pena mínima real, 1 mes = 1 minuto) y la pena real completa. Con buscador por artículo, código o capítulo |
 | **Informes** | Informes con implicados, agentes, vehículos, pruebas y etiquetas |
 | **Pruebas** y **Laboratorio** | Casos, taquillas de pruebas y análisis de las bolsas de pruebas |
 | **Prisión** | Quién cumple condena ahora y el historial |

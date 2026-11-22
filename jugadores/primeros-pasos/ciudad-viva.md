@@ -16,7 +16,8 @@ las provoque: no hace falta ningún comando ni ninguna tecla.
 | **Ambulancias atendiendo a alguien** | Una persona en el suelo y dos técnicos de emergencias: uno le hace la **reanimación** y el otro le atiende arrodillado. Cuando vuelve en sí, la suben a la ambulancia y se van con la sirena. A veces es un **accidente grave**, con el coche destrozado echando humo y una patrulla tomando nota |
 | **Controles de policía** | Una patrulla con las luces puestas detrás de un coche parado: el agente va a la ventanilla y **pone una multa**, o hace bajar al conductor, que espera con las manos en alto mientras lo registran. Después cada uno sigue su camino |
 | **Discusiones** | Dos personas que discuten en la acera, en un aparcamiento o en una zona de tiendas. Se van calentando o se van calmando, y una discusión puede quedarse en nada o acabar en pelea |
-| **Peleas** | Peleas a puñetazos entre vecinos. Duran poco: uno se aparta o sale corriendo y cada uno sigue con su vida |
+| **Peleas** | Peleas a puñetazos entre vecinos, a veces de repente, sin discusión previa (sobre todo por la tarde y de noche). Duran poco: uno se aparta o sale corriendo y cada uno sigue con su vida |
+| **Perros que atacan** | El perro de alguien que va de paseo se para, gruñe y **se lanza a por un peatón**: unas veces solo le ladra, otras le muerde. El dueño corre a sujetarlo y, según cómo sea cada uno, se piden perdón o acaban discutiendo. Los perros pequeños casi siempre se quedan en ladridos |
 | **Testigos** | La gente de alrededor reacciona: unos miran, otros se acercan, otros salen corriendo… y algunos **sacan el móvil y graban**, como en cualquier vídeo viral. Si la cosa se pone fea, guardan el móvil y se van |
 | **Explosiones y peleas entre jugadores** | Los curiosos se paran a mirar o a grabar desde lejos, y los que se asustan huyen |
 
@@ -42,7 +43,7 @@ un arma, golpeas o embistes** a alguno de los que están en el suceso, este se c
 lo que estaban haciendo y reaccionan como reaccionaría cualquiera (huyen, se rinden…).
 
 {% hint style="info" %}
-Los vecinos metidos en uno de estos sucesos nunca van a por ti: discuten y se pelean entre ellos. Y mientras están
+Los vecinos (y los perros) metidos en uno de estos sucesos nunca van a por ti: discuten y se pelean entre ellos. Y mientras están
 liados con el suceso no atienden a nada más, así que no podrás, por ejemplo, venderles nada hasta que terminen.
 {% endhint %}
 

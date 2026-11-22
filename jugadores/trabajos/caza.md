@@ -59,7 +59,7 @@ corres o vas a favor del viento te huelen y te oyen antes: muévete agachado y d
 
 Un abatimiento es **ilegal** si:
 
-- La especie está **protegida** (puma, pantera, águila, halcón peregrino, búho, buitre) o es **exótica**.
+- La especie está **protegida** (puma, pantera, águila, halcón peregrino, búho, buitre, cebra) o es **exótica**.
 - No tienes **licencia**, estás **fuera de una zona** o la zona está **en veda**.
 - Es de **noche** (de 22:00 a 6:00, hora del juego).
 - Usas un **arma automática** o **explosivos**.
@@ -263,10 +263,13 @@ Vive apartado, cerca de **Grapeseed**. Solo habla contigo a partir de **nivel 6*
 - **Compra** pieles, garras y plumas de especies **protegidas** y algo de caza legal (peor pagada que en la cabaña).
   Paga siempre en **dinero negro** (también sus encargos): necesitas hueco en el inventario para cobrar.
 - Vende material sin hacer preguntas (y sin pedir licencia).
-- Tiene **encargos ilegales**, algunos de **animales exóticos** (leopardo, león, cocodrilo): al aceptarlos te marca la
+- Tiene **encargos ilegales**, algunos de **animales exóticos** (leopardo, león, cocodrilo, cebra): al aceptarlos te marca la
   zona en el mapa y el animal aparece cuando llegas. Son peligrosos.
 - En el **pantano de Zancudo** viven **cocodrilos** salvajes. Son una especie **protegida** (cazarlos es caza
   furtiva) y atacan si te acercas: mejor de lejos.
+- En **Cayo Perico** viven sueltas manadas de **cebras** (dicen que escaparon de la colección de un narco). Están
+  **protegidas**: cazarlas es caza furtiva, dan **piel exótica** y carne sin papeles que solo compra el furtivo.
+  Son asustadizas y huyen en cuanto te huelen o te oyen.
 - Los **loros** escapados de las casas ricas (colinas de Vinewood, Rockford Hills) también están **protegidos**: solo
   dan plumas y cazarlos es caza furtiva.
 - Los **tiburones** no se cazan con rifle: se pescan (mira [Pesca](pesca.md)).

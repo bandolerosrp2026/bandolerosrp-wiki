@@ -73,6 +73,32 @@ Después de un golpe, ese sitio necesita un tiempo para volver a estar disponibl
 - A veces un testigo llama a la policía.
 - No funciona con otros jugadores: para robar a un jugador hay que hacer rol con él.
 
+## Rehenes
+
+Mientras un ciudadano está rendido, apúntale con **Alt** y elige **Tomar como rehén**. Ya no huye: sigue tus órdenes
+hasta que le sueltes o le libere la policía. Con **Alt** sobre él:
+
+| Opción | Qué hace |
+|---|---|
+| **De rodillas / levántate** | Se arrodilla con las manos en la cabeza o se pone de pie con las manos arriba |
+| **Sígueme / quieto aquí** | Va detrás de ti o se queda donde está |
+| **Atar con bridas / desatar** | Gasta unas **bridas** del inventario; atado camina con las manos a la espalda |
+| **Escudo humano** | Le agarras delante de ti (con un arma en la mano). **G** para soltarle (cámbiala en Ajustes → Asignación de teclas → FiveM) |
+| **Soltar** | Le dejas ir y sale corriendo |
+
+Con **Alt** sobre un vehículo: **Meter rehén** (en un asiento libre, mejor detrás) y **Sacar rehén**.
+
+- Puedes retener hasta **3** personas a la vez.
+- Tomar un rehén es muy llamativo: casi siempre alguien avisa a la policía (**toma de rehenes**).
+- La policía de servicio puede **Liberar rehén** con Alt sobre él.
+
+### Coger a otro jugador como rehén: `/rehen`
+
+Con un **arma en la mano** y pegado a otro jugador, escribe **`/rehen`**: le sujetas delante de ti a punta de
+pistola. Él no puede moverse ni actuar (sí hablar y escribir); tú andas despacio y no puedes correr, saltar ni subir
+a vehículos. Para soltarle, **G** o `/rehen` otra vez. Si guardas el arma, subes a un vehículo o caes, le sueltas.
+Haz rol: es una situación muy grave y casi siempre alguien avisa a la policía.
+
 ## Si eres policía
 
 Cuando salta una alarma o alguien avisa, te llega una notificación con el código **10-90** y una zona marcada en el

@@ -59,11 +59,44 @@ apuntando con **Alt** (ox_target) a la persona o al vehículo.
   de alcohol en sangre y si pasa del límite para conducir (0,5 g/l). El alcohol baja solo con el tiempo.
 - **Vehículo:** información y dueño, comprobar matrícula, meter y sacar detenidos, forzar la cerradura, registrar
   maletero y guantera, cepo (se ve puesto en la rueda y el vehículo no puede arrancar hasta que se quite) y llevar
-  al depósito.
+  al depósito. En los coches de la policía, **Pegatinas y extras**.
 - **Objetos:** conos, vallas y bandas de pinchos.
 - **Unidad:** perro K9 (seguir, sentado, quieto, subir al coche, buscar en personas o vehículos, atacar), radar del
-  vehículo y cámara del helicóptero.
+  vehículo, cámara del helicóptero y **luces y sirenas**.
 - **Herramientas:** tableta, botón de pánico, cámara corporal, megáfono y facturas.
+
+## Vehículos de servicio
+
+Los vehículos de la policía se sacan **de servicio** en los garajes del LSPD. No son tuyos: al terminar se guardan
+y no se pueden vender. Cuantos más rangos, más vehículos:
+
+| Rango mínimo | Vehículos | Dónde |
+|---|---|---|
+| Cadete | Buffalo, Fugitive, Sentinel, Scout y Minimus (traslado de detenidos) | Garaje de Mission Row |
+| Oficial I | Alamo, Canis y Bison (pick-up) | Garaje de Mission Row |
+| Oficial I | Lancha Predator | Embarcadero LSPD de Puerto del Sol |
+| Oficial II | Motos BF400 (campo) y Shinobi | Garaje de Mission Row |
+| Oficial III | Helicóptero Conada | Helipuerto de la azotea de Mission Row |
+| Oficial III+ | Interceptores Coquette D5 y Vigero ZX | Garaje de Mission Row |
+| Detective I | Komoda (camuflado) | Garaje de Mission Row |
+| Sargento I | Yosemite 2500 (supervisor) | Garaje de Mission Row |
+
+**Pegatinas y extras:** desde el F6 (**Vehículo → Pegatinas y extras**) o apuntando con **Alt** al coche. Puedes
+cambiar el diseño (pegatina), poner o quitar los **extras** (barras, rejillas, equipo…) y las **piezas de la unidad**
+(indicativo del techo, supervisor…). Lo ven todos.
+
+**Luces y sirenas:** funcionan en todos los vehículos de emergencia, también en los que no traen sonido de sirena,
+y todos oyen lo mismo. Conduciendo de servicio:
+
+| Tecla | Qué hace |
+|---|---|
+| **Q** | Encender o apagar las luces (al apagarlas se apaga también la sirena) |
+| **Z** | Sirena sí/no (enciende las luces si estaban apagadas) |
+| **R** | Cambiar el tono: Wail, Yelp, Priority y Hi-Lo |
+| **E** (mantener) | Bocina de emergencia |
+
+También desde el F6 (**Unidad → Luces y sirenas**). Las cuatro teclas se cambian en Ajustes → Asignación de teclas →
+FiveM.
 
 ## Teclas y comandos de policía
 

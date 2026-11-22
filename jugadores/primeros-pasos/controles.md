@@ -106,6 +106,7 @@ Todo en [Paintball](paintball.md).
 | **J** | Intentar soltarte si estás esposado o con bridas |
 | **E** | Atracar a un ciudadano rendido: registrarle (mientras le apuntas) |
 | **G** | Atracar a un ciudadano rendido: que te siga |
+| **G** | Soltar al rehén que llevas de escudo humano |
 
 ## Sin tecla: ponles la que quieras
 

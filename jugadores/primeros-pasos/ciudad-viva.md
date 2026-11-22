@@ -63,6 +63,7 @@ mitad del centro.
 | **Campo y granjas** | Vacas, cerdos, gallinas, **burros** y perros de granja |
 | **Montes y bosques** | Ciervos, conejos, coyotes, jabalíes, aves rapaces y, en las colinas de Vinewood, algún **loro**. En el **pantano de Zancudo**, **cocodrilos** |
 | **Desierto** | Coyotes, conejos y armadillos |
+| **Cayo Perico** | Manadas de **cebras** sueltas por la isla, loros, gaviotas y halcones. De noche, muy rara vez, una **pantera** |
 | **Mar y lagos** | Peces y, en mar abierto, delfines, rayas, tiburones martillo, **tiburones tigre** y **grandes tiburones blancos** (solo en aguas muy hondas, lejos de las playas) y hasta ballenas y orcas |
 
 Cambian con la hora y el tiempo: de noche hay más ratas y coyotes y menos palomas, y con lluvia o tormenta se
@@ -71,7 +72,8 @@ ven menos animales.
 {% hint style="warning" %}
 **Cuidado en los bosques del norte de noche.** En los montes de Chiliad, Mount Gordo, el bosque de Paleto y el
 cañón de Raton puede haber **pumas**, y **atacan**. Si vas de noche por allí, mejor en vehículo o acompañado.
-Los **cocodrilos** de Zancudo y los **tiburones** de mar adentro también atacan si te acercas.
+Los **cocodrilos** de Zancudo, las **panteras** de Cayo Perico y los **tiburones** de mar adentro también atacan
+si te acercas.
 El resto de animales salvajes no van a por ti: si te acercas, se alejan.
 {% endhint %}
 

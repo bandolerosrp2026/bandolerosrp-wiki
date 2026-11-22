@@ -91,3 +91,20 @@ y los lagos y ríos se ven más limpios sin perder su color natural.
 
 El **oleaje cambia con el clima**: con sol el mar está en calma, con lluvia se mueve más y con tormenta hay olas
 grandes en la orilla y en mar abierto. Tenlo en cuenta si sales en barco o te metes a nadar con mal tiempo.
+
+## Fenómenos naturales
+
+Muy de vez en cuando (pueden pasar horas o días sin ninguno) la naturaleza se pone seria. Lo vivís **todos a la vez y
+de la misma forma**, y siempre llega un aviso de **Protección Civil**:
+
+- **Terremoto**: tiembla todo durante unos segundos, más cuanto más cerca estás del epicentro. Si es fuerte y vas a pie,
+  puedes caerte al suelo. Al terminar se avisa de la magnitud y de dónde fue el epicentro. Si conduces, para.
+- **Tsunami**: primero llega una **alerta de un minuto**. Después el viento sopla fuerte, las olas crecen y **el mar
+  sube en la costa** (playas, puerto, canales) durante dos o tres minutos, y luego vuelve a su nivel. Sal del agua y
+  busca un sitio alto en cuanto oigas la alerta.
+- **Tornado**: se forma en el campo o el desierto y avanza despacio. Sale marcado en el mapa en rojo mientras dura.
+  Cerca de él el viento es muy fuerte y, si te pilla, **te levanta del suelo** a ti, a los coches y a la gente. Dentro
+  de un edificio estás a salvo. Dura unos minutos y se deshace solo.
+
+Son buen momento para rol: heridos, coches volcados, avisos a la policía y a los servicios de emergencia… Si quedas
+malherido, avisa a los EMS como siempre.

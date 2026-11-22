@@ -60,10 +60,10 @@ mitad del centro.
 |---|---|
 | **Ciudad** | Muchos gatos callejeros, perros sueltos y perros paseando con su dueño (pastor, rottweiler, husky, dálmata, chowchow, carlino…), palomas, cuervos, halcones de día, búhos de noche y ratas en callejones e industrias |
 | **Barrios y playa** | Gatos y perros de los vecinos, halcones y búhos, gaviotas y cormoranes en la costa y el puerto, y algún **loro** escapado en las zonas ricas |
-| **Campo y granjas** | Vacas, cerdos, gallinas, **burros** y perros de granja |
-| **Montes y bosques** | Ciervos, conejos, coyotes, jabalíes, aves rapaces y, en las colinas de Vinewood, algún **loro**. En el **pantano de Zancudo**, **cocodrilos** |
-| **Desierto** | Coyotes, conejos y armadillos |
-| **Cayo Perico** | Manadas de **cebras** sueltas por la isla, loros, gaviotas y halcones. De noche, muy rara vez, una **pantera** |
+| **Campo y granjas** | Vacas, cerdos, gallinas, **burros** y perros de granja. En la orilla del **mar de Alamo**, algún **cocodrilo** |
+| **Montes y bosques** | Ciervos, conejos, coyotes, jabalíes, aves rapaces y, en las colinas de Vinewood, algún **loro** (y, de noche, rarísima vez, un **leopardo** escapado). En el **pantano de Zancudo**, **cocodrilos** |
+| **Desierto** | Coyotes, conejos y armadillos. A veces **cebras** escapadas de fincas exóticas y, de noche y muy rara vez, un **león** |
+| **Cayo Perico** | Manadas de **cebras** sueltas por la isla, loros, gaviotas, halcones, y **leones** y **leopardos** de la colección de El Rubio. De noche, muy rara vez, una **pantera** |
 | **Mar y lagos** | Peces y, en mar abierto, delfines, rayas, tiburones martillo, **tiburones tigre** y **grandes tiburones blancos** (solo en aguas muy hondas, lejos de las playas) y hasta ballenas y orcas |
 
 Cambian con la hora y el tiempo: de noche hay más ratas y coyotes y menos palomas, y con lluvia o tormenta se
@@ -72,7 +72,7 @@ ven menos animales.
 {% hint style="warning" %}
 **Cuidado en los bosques del norte de noche.** En los montes de Chiliad, Mount Gordo, el bosque de Paleto y el
 cañón de Raton puede haber **pumas**, y **atacan**. Si vas de noche por allí, mejor en vehículo o acompañado.
-Los **cocodrilos** de Zancudo, las **panteras** de Cayo Perico y los **tiburones** de mar adentro también atacan
+Los **cocodrilos**, los **leones**, **leopardos** y **panteras** y los **tiburones** de mar adentro también atacan
 si te acercas.
 El resto de animales salvajes no van a por ti: si te acercas, se alejan.
 {% endhint %}
@@ -100,15 +100,15 @@ grandes en la orilla y en mar abierto. Tenlo en cuenta si sales en barco o te me
 
 ## Fenómenos naturales
 
-Muy de vez en cuando (pueden pasar horas o días sin ninguno) la naturaleza se pone seria. Lo vivís **todos a la vez y
+De vez en cuando (más o menos cada una o dos horas y media) la naturaleza se pone seria, muchas veces cerca de donde hay gente o en plena ciudad. Lo vivís **todos a la vez y
 de la misma forma**, y siempre llega un aviso de **Protección Civil**:
 
 - **Terremoto**: tiembla todo durante unos segundos, más cuanto más cerca estás del epicentro. Si es fuerte y vas a pie,
-  puedes caerte al suelo. Al terminar se avisa de la magnitud y de dónde fue el epicentro. Si conduces, para.
+  puedes caerte al suelo; los coches aparcados botan y les salta la alarma, y la gente de la calle se cae. Al terminar se avisa de la magnitud y de dónde fue el epicentro. Si conduces, para.
 - **Tsunami**: primero llega una **alerta de un minuto**. Después el viento sopla fuerte, las olas crecen y **el mar
   sube en la costa** (playas, puerto, canales) durante dos o tres minutos, y luego vuelve a su nivel. Sal del agua y
   busca un sitio alto en cuanto oigas la alerta.
-- **Tornado**: se forma en el campo o el desierto y avanza despacio. Sale marcado en el mapa en rojo mientras dura.
+- **Tornado**: puede formarse en el campo, el desierto o la propia ciudad (puerto, Vespucci, Mirror Park…) y avanza despacio. Sale marcado en el mapa en rojo mientras dura.
   Cerca de él el viento es muy fuerte y, si te pilla, **te levanta del suelo** a ti, a los coches y a la gente. Dentro
   de un edificio estás a salvo. Dura unos minutos y se deshace solo.
 

@@ -35,7 +35,7 @@ clasificación y guía. Para comprar, vender, sacar la licencia o alquilar un ba
 
 ## Licencia de pesca
 
-- Cuesta **400 $** y dura **14 días**. Se saca en la pestaña **Resumen** de cualquier lonja.
+- Cuesta **20 $** y dura **14 días**. Se saca en la pestaña **Resumen** de cualquier lonja.
 - Sin licencia **puedes pescar**, pero **la lonja no te compra** el pescado.
 
 ## Cómo se pesca
@@ -91,12 +91,12 @@ La **sonda de pesca** te dice qué agua tienes delante, la profundidad y qué pi
 
 | Caña | Nivel | Alcance | Aguanta | Precio |
 |---|---|---|---|---|
-| Caña de bambú | 1 | 22 m | 6 kg | 150 $ |
-| Caña de fibra | 4 | 30 m | 16 kg | 900 $ |
-| Caña de carbono | 9 | 38 m | 45 kg | 3.200 $ |
-| Caña de surfcasting | 14 | 55 m | 95 kg | 7.500 $ |
-| Caña de altura | 19 | 34 m | 420 kg | 16.000 $ |
-| Caña Bandolera | 26 | 48 m | 700 kg | 42.000 $ |
+| Caña de bambú | 1 | 22 m | 6 kg | 25 $ |
+| Caña de fibra | 4 | 30 m | 16 kg | 60 $ |
+| Caña de carbono | 9 | 38 m | 45 kg | 150 $ |
+| Caña de surfcasting | 14 | 55 m | 95 kg | 250 $ |
+| Caña de altura | 19 | 34 m | 420 kg | 600 $ |
+| Caña Bandolera | 26 | 48 m | 700 kg | 1.500 $ |
 
 Las cañas **se desgastan** con el uso y acaban rompiéndose. Las mejores recogen más rápido, aguantan más tensión y dan
 algo de suerte con las piezas raras.
@@ -162,8 +162,8 @@ raras.
 ## Torneos
 
 Tres al día (hora del servidor): **13:00** (más kilos), **18:00** (pieza más pesada) y **22:30** (más piezas). Solo
-hay que pescar mientras dura. Premios: **6.000 $ / 3.500 $ / 2.000 $** y señuelos dorados para los primeros; el resto
-de participantes que lleguen al mínimo cobra **300 $**. Si no estás conectado al acabar, el premio te espera en la lonja.
+hay que pescar mientras dura. Premios: **1.500 $ / 900 $ / 500 $** y señuelos dorados para los primeros; el resto
+de participantes que lleguen al mínimo cobra **80 $**. Si no estás conectado al acabar, el premio te espera en la lonja.
 
 ## Especies protegidas
 

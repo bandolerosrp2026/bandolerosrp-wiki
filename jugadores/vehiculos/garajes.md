@@ -66,12 +66,12 @@ El apodo y el favorito solo los ves tú. Si cedes el vehículo, se borran.
 ## Traslados
 
 Desde el panel puedes **traer a este garaje** un vehículo guardado en otro, o **enviarlo** a otro garaje. Solo
-vehículos guardados, nunca uno que esté en la calle. Tiene un coste (250 $ por defecto).
+vehículos guardados, nunca uno que esté en la calle. Tiene un coste (80 $ por defecto).
 
 ## Traer con la grúa
 
 Si dejaste tu vehículo **en la calle** (y sigue allí), desde cualquier garaje puedes pedir que la **grúa** lo
-traiga y lo guarde en ese garaje: **Traer con la grúa** (750 $, tarjeta o efectivo). Se guarda tal cual: daños y
+traiga y lo guarde en ese garaje: **Traer con la grúa** (120 $, tarjeta o efectivo). Se guarda tal cual: daños y
 combustible incluidos.
 
 La grúa **no** se lo lleva si:
@@ -101,7 +101,7 @@ transferencia del [banco](../dinero/banco.md)). Los vehículos de servicio (poli
 |---|---|
 | Me desconecto con el coche en la calle | Se queda donde lo dejaste |
 | Hay un reinicio del servidor | Los coches de la calle vuelven a aparecer donde estaban cuando alguien se acerca |
-| Mi coche ha desaparecido | Sale como «No localizado»: recupéralo en el depósito (150 $) |
+| Mi coche ha desaparecido | Sale como «No localizado»: recupéralo en el depósito (60 $) |
 
 ## Flotas de trabajo
 

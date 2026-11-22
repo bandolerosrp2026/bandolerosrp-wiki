@@ -37,6 +37,7 @@ palabra («gasolina», «carnet», «multa», «tatuaje»…) y te sale la pági
 
 | Quiero… | Mira |
 |---|---|
+| Saber cuándo cobro y cuánto cuestan las cosas | [Nómina y precios](dinero/nomina-y-precios.md) |
 | Cobrar, transferir o ver mis movimientos | [Bandoleros Bank](dinero/banco.md) |
 | Sacar dinero o pedir una tarjeta | [Tarjetas y cajeros](dinero/tarjetas-y-cajeros.md) |
 | Ahorrar o pedir un préstamo | [Ahorro, préstamos y crédito](dinero/ahorro-y-prestamos.md) |

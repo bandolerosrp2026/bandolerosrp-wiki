@@ -23,7 +23,7 @@ empresa** y cuántas tarjetas tiene.
 - Cada trabajo tiene su **cuenta principal**. De ella salen las nóminas, las comisiones de la empresa y las
   cuotas de sus préstamos.
 - Puedes abrir hasta **4 subcuentas** (por ejemplo «Nóminas», «Compras» o «Reserva»). La apertura cuesta
-  **1.000 $** y se paga desde la cuenta principal.
+  **5 $** y se paga desde la cuenta principal.
 - Pasar dinero entre cuentas de la misma empresa es un **traspaso interno**: sin comisión.
 - Si cierras una subcuenta, su saldo vuelve a la principal y sus tarjetas dejan de funcionar.
 

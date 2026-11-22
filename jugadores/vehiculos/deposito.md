@@ -10,14 +10,14 @@ Si tu vehículo ha sido retirado por la policía o la administración, o no se e
 
 | Depósito | Cuándo | Tarifa base |
 |---|---|---|
-| **Municipal** | Vehículos mal aparcados o abandonados | 500 $ |
-| **Policial** | Vehículos incautados por la policía | 1.500 $ |
+| **Municipal** | Vehículos mal aparcados o abandonados | 180 $ |
+| **Policial** | Vehículos incautados por la policía | 250 $ |
 | **Administrativo** | Retirados por el staff | 0 $ |
 
-La tarifa sube según el tipo de vehículo (por ejemplo, motos 250 $, camiones 1.200 $, helicópteros 4.000 $,
-aviones 6.000 $, barcos 2.000 $).
+La tarifa sube según el tipo de vehículo (por ejemplo, motos 100 $, camiones 350 $, helicópteros 1.200 $,
+aviones 2.000 $, barcos 600 $).
 
-Los vehículos **no localizados** (desaparecidos tras un reinicio o un accidente) se recuperan por **150 $**.
+Los vehículos **no localizados** (desaparecidos tras un reinicio o un accidente) se recuperan por **60 $**.
 
 ## Recuperar tu vehículo
 

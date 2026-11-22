@@ -38,7 +38,7 @@ En los dos casos:
 
 - **G**: pedir auxilio a los médicos de servicio (les llega un aviso con tu posición).
 - Al cabo de **5 minutos** inconsciente (algo más si hay médicos de servicio) puedes **mantener E** para
-  **reaparecer en el hospital**. Cuesta **2500 $** (menos con seguro). Si no tienes dinero, te queda una factura.
+  **reaparecer en el hospital**. Cuesta **400 $** (menos con seguro). Si no tienes dinero, te queda una factura.
 - Si pasan **25 minutos**, vas al hospital tú solo.
 - Las teclas se pueden cambiar en Ajustes → Asignación de teclas → FiveM.
 
@@ -61,7 +61,7 @@ si no hay ninguno de servicio, ve a la recepción del hospital o espera para rea
 
 Apunta con **Alt** a los mostradores y camas:
 
-- **Recepción**: si **no hay médicos de servicio** (o hay muy pocos), te atienden allí: pagas **1500 $** (menos con
+- **Recepción**: si **no hay médicos de servicio** (o hay muy pocos), te atienden allí: pagas **300 $** (menos con
   seguro), te tumban en una cama unos segundos y sales curado. Si hay médicos, se les avisa y vienen a atenderte.
 - **Farmacia**: vendas, botiquines, analgésicos, hielo, crema, muletas.
 - **Seguros médicos**: rebajan la recepción, la reaparición y las facturas del EMS.
@@ -71,9 +71,9 @@ Apunta con **Alt** a los mostradores y camas:
 
 | Plan | Precio | Dura | Descuento |
 |---|---|---|---|
-| Básico | 2500 $ | 7 días | 40 % |
-| Completo | 6000 $ | 14 días | 70 % |
-| Premium | 12000 $ | 30 días | 100 % |
+| Básico | 400 $ | 7 días | 40 % |
+| Completo | 1.200 $ | 14 días | 70 % |
+| Premium | 3.500 $ | 30 días | 100 % |
 
 Si vuelves a contratar el mismo plan antes de que caduque, se suman los días.
 

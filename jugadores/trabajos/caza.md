@@ -19,7 +19,7 @@ Está en el **bosque de Paleto** (icono de ciervo en el mapa). Allí tienes:
 
 ### Caballo de alquiler
 
-En la pestaña **Alquiler** del panel de la cabaña: **100 $** de alquiler y **400 $** de fianza, desde el nivel 1. El
+En la pestaña **Alquiler** del panel de la cabaña: **30 $** de alquiler y **150 $** de fianza, desde el nivel 1. El
 caballo sale en la zona de alquiler, junto a la cabaña.
 
 - **Montar**: apunta al caballo con **Alt** → **Montar a caballo**. Solo lo puede montar quien lo ha alquilado.
@@ -40,7 +40,7 @@ Todas se cambian en **Ajustes → Asignación de teclas → FiveM** («Caballo: 
 
 ## Licencia de caza
 
-- Cuesta **750 $** y dura **14 días**. Se saca en la pestaña **Resumen** del panel.
+- Cuesta **150 $** (licencia y seguro obligatorio) y dura **14 días**. Se saca en la pestaña **Resumen** del panel.
 - **Sin licencia, todo lo que caces es ilegal**: la cabaña no te lo compra y la policía puede multarte.
 - La policía puede **pedirte la licencia** en el campo y **retirártela**: entonces no podrás sacar otra en 7 días.
 
@@ -169,10 +169,10 @@ distintas:
 
 | Raza | Nivel | Precio | Qué hace |
 |---|---|---|---|
-| Labrador cobrador | 2 | 2.500 $ | Rastrea y cobra piezas |
-| Husky | 3 | 3.000 $ | Rastrea, cobra piezas y te defiende |
-| Pastor alemán | 4 | 3.500 $ | Rastrea, te defiende y ataca a la presa que le marques |
-| Rottweiler | 6 | 4.200 $ | Te defiende y ataca a la presa que le marques |
+| Labrador cobrador | 2 | 800 $ | Rastrea y cobra piezas |
+| Husky | 3 | 900 $ | Rastrea, cobra piezas y te defiende |
+| Pastor alemán | 4 | 1.000 $ | Rastrea, te defiende y ataca a la presa que le marques |
+| Rottweiler | 6 | 1.100 $ | Te defiende y ataca a la presa que le marques |
 
 Órdenes: escribe **`/perrocaza`** (menú con todo y cómo está tu perro: si te sigue, si está quieto o en el coche, y su
 salud), apunta al perro con **Alt** o usa sus teclas. Si no lo has sacado, `/perrocaza` te deja sacarlo.
@@ -193,7 +193,7 @@ salud), apunta al perro con **Alt** o usa sus teclas. Si no lo has sacado, `/per
 - **Mandar a casa**: lo guardas.
 - Si no lo subes al coche y te bajas lejos de donde se quedó, el perro aparece contigo igualmente.
 
-Si tu perro cae herido, pasa **30 minutos con el veterinario**. En la cabaña puedes pagar **400 $** para que lo curen
+Si tu perro cae herido, pasa **30 minutos con el veterinario**. En la cabaña puedes pagar **80 $** para que lo curen
 ya. También puedes cambiarle el nombre o dejarlo en adopción para comprar otra raza.
 
 Teclas (todas **sin tecla por defecto**: asígnalas en Ajustes → Asignación de teclas → FiveM):
@@ -241,8 +241,8 @@ encima y pulsa **Entregar**.
 ## Torneos
 
 Hay torneos todos los días a las **18:00** (90 minutos) y a las **22:00** (60 minutos), hora del servidor. Puntúa la
-**caza legal** que despiezas o entregas al carnicero, según su **peso y su calidad**. Premios: **6.000 $**, **3.500 $**
-y **2.000 $** para los tres primeros y **300 $** para el resto que llegue a 20 puntos. Los premios se cobran en la
+**caza legal** que despiezas o entregas al carnicero, según su **peso y su calidad**. Premios: **1.500 $**, **900 $**
+y **500 $** para los tres primeros y **80 $** para el resto que llegue a 20 puntos. Los premios se cobran en la
 pestaña **Resumen**.
 
 ## Clasificación, récords y bestiario

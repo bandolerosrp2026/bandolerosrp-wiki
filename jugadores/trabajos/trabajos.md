@@ -36,7 +36,8 @@ Si ya tienes 3 trabajos, nadie te puede contratar hasta que dejes uno.
 - Para cobrar y usar las herramientas del trabajo tienes que estar **de servicio**. También se ficha en el punto
   de fichar del trabajo.
 - Fuera de servicio no ves los puntos ni las acciones que lo exigen.
-- La **nómina** se cobra cada cierto tiempo en tu cuenta corriente, según tu rango.
+- La **nómina** (el sueldo de un mes, según tu rango) se cobra **una vez cada 12 horas reales** en tu cuenta
+  corriente. Escribe **/nomina** para ver cuánto te falta. Más en [Nómina y precios](../dinero/nomina-y-precios.md).
 
 ## Puntos de trabajo
 

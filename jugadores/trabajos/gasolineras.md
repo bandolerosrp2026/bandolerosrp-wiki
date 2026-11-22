@@ -32,7 +32,7 @@ Cualquiera puede hacer repartos:
 
 1. Ve al **depósito de reparto** (muelles de Elysian Island) y habla con el encargado.
 2. Elige un **pedido** de la lista (puedes ordenar por mejor pagado, más cerca o más litros).
-3. Pagas una **fianza** (2.500 $) y te dan **camión y cisterna**, con llaves.
+3. Pagas una **fianza** (1.000 $) y te dan **camión y cisterna**, con llaves.
 4. Lleva la cisterna al punto de descarga de la gasolinera → apunta a la cisterna con **Alt** → descargar (20 s).
    Cobras el reparto.
 5. Devuelve el camión al depósito y recuperas la fianza.

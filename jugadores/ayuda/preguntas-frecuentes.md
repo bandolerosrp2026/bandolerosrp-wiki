@@ -43,8 +43,9 @@ Puedes localizarlo desde el llavero (F5) si sigue en la calle. Avisa a la polic�
 ## Dinero
 
 **¿Dónde cobro la nómina?**
-En tu cuenta corriente de Bandoleros Bank, automáticamente. En la mayoría de trabajos solo se cobra estando de
-servicio.
+En tu cuenta corriente de Bandoleros Bank, automáticamente: **una nómina cada 12 horas reales** con el sueldo de un
+mes. En la mayoría de trabajos hay que estar de servicio; si no lo estás (o no estás conectado), la cobras al volver.
+Escribe **/nomina** para ver cuánto te falta. Más en [Nómina y precios](../dinero/nomina-y-precios.md).
 
 **He perdido mi tarjeta.**
 Ve a una sucursal y pide un duplicado: la anterior deja de funcionar.

@@ -16,14 +16,14 @@ infracción: si te para la policía, te puede multar e incluso detener.
 
 | Permiso | Vehículos | Requisito | Teórico | Práctico |
 |---|---|---|---|---|
-| **A** | Motos y ciclomotores | — | 250 $ | 450 $ |
-| **B** | Coches, todoterrenos y furgonetas | — | 300 $ | 600 $ |
-| **C** | Camiones | Permiso B | 450 $ | 900 $ |
-| **D** | Autobuses | Permiso B | 500 $ | 1.000 $ |
-| **C+E** | Camión con semirremolque | Permiso C | 550 $ | 1.200 $ |
-| **Náutico** | Lanchas y barcos | — | 350 $ | 700 $ |
-| **Helicóptero** | Helicópteros | — | 1.500 $ | 3.000 $ |
-| **Piloto** | Avionetas y aviones | — | 2.000 $ | 4.000 $ |
+| **A** | Motos y ciclomotores | — | 150 $ | 550 $ |
+| **B** | Coches, todoterrenos y furgonetas | — | 200 $ | 900 $ |
+| **C** | Camiones | Permiso B | 300 $ | 1.400 $ |
+| **D** | Autobuses | Permiso B | 350 $ | 1.700 $ |
+| **C+E** | Camión con semirremolque | Permiso C | 250 $ | 800 $ |
+| **Náutico** | Lanchas y barcos | — | 250 $ | 550 $ |
+| **Helicóptero** | Helicópteros | — | 3.000 $ | 27.000 $ |
+| **Piloto** | Avionetas y aviones | — | 1.500 $ | 8.500 $ |
 
 Puedes pagar en **efectivo** o con **tarjeta** (lo eliges en el panel de la autoescuela).
 
@@ -78,14 +78,14 @@ Si te eliminan lejos de la autoescuela, el examinador te lleva de vuelta. Si qui
   2, 4 o 6 según lo rápido que fueras. La policía también puede quitarte puntos o **suspenderte el permiso** unos días
   en un control.
 * **Con 0 puntos** se suspenden todos tus permisos de tierra (A, B, C, D, C+E) durante **3 días**. Después tienes que
-  aprobar el **curso de recuperación** (un teórico de normas generales, 800 $) en cualquier autoescuela: recuperas
+  aprobar el **curso de recuperación** (un teórico de normas generales, 200 $) en cualquier autoescuela: recuperas
   tus permisos con 8 puntos. Las titulaciones de barco, helicóptero y avión no van por puntos.
 
 ## Tu carnet
 
 Al aprobar recibes el **Permiso de conducir** en el inventario. **Úsalo** para enseñárselo a quien tengas cerca
 (por ejemplo, a la policía): verán tu foto, tus permisos, los puntos y si está suspendido. Si lo pierdes, pide un
-**duplicado** en cualquier autoescuela (75 $).
+**duplicado** en cualquier autoescuela (21 $).
 
 | Comando o atajo | Qué hace |
 |---|---|

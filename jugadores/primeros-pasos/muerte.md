@@ -26,7 +26,8 @@ sangre…) solo lo saben usar los médicos.
 
 ## Herido grave e inconsciente
 
-1. **Herido grave**: caes al suelo pero sigues consciente. Puedes **arrastrarte** y hablar. Tienes unos **4 minutos**.
+1. **Herido grave**: caes al suelo pero sigues consciente. No puedes moverte ni hablar (tampoco por radio ni
+   teléfono): solo pedir auxilio. Tienes unos **4 minutos**.
 2. **Inconsciente**: si nadie te atiende, o te rematan (disparo en la cabeza o explosión), pierdes el conocimiento.
 
 En los dos casos:

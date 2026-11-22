@@ -58,6 +58,7 @@
 * [Estudios de tatuajes](trabajos/tatuador.md)
 * [Caza](trabajos/caza.md)
 * [Pesca](trabajos/pesca.md)
+* [Cocina, comida y alcohol](trabajos/cocina.md)
 
 ## Crimen
 

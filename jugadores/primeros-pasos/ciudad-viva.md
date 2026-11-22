@@ -7,7 +7,10 @@ las provoque: no hace falta ningún comando ni ninguna tecla.
 
 | Suceso | Qué verás |
 |---|---|
-| **Accidentes de tráfico** | Dos coches que acaban de chocar, con los intermitentes de emergencia puestos. Los conductores se bajan, miran los daños y se acercan el uno al otro. Unas veces se piden perdón y otras discuten. También hay choques con heridos en el suelo, conductores que se dan a la fuga y alcances que acaban a gritos |
+| **Accidentes de tráfico** | Dos coches que acaban de chocar, con los intermitentes de emergencia puestos. Los conductores se bajan, miran los daños y se acercan el uno al otro. Unas veces se piden perdón y otras discuten. También hay choques graves con humo y heridos en el suelo, conductores que se dan a la fuga y alcances que acaban a gritos |
+| **Obras en la calzada** | Conos cerrando parte del carril, una valla, la furgoneta de obra con los intermitentes y obreros trabajando: uno con el martillo neumático, otro soldando, otro con la tablilla y uno dirigiendo el tráfico. Al pasar por al lado, el tráfico frena |
+| **Ambulancias atendiendo a alguien** | Una persona en el suelo y dos técnicos de emergencias: uno le hace la **reanimación** y el otro le atiende arrodillado. Cuando vuelve en sí, la suben a la ambulancia y se van con la sirena. A veces es un **accidente grave**, con el coche destrozado echando humo y una patrulla tomando nota |
+| **Controles de policía** | Una patrulla con las luces puestas detrás de un coche parado: el agente va a la ventanilla y **pone una multa**, o hace bajar al conductor, que espera con las manos en alto mientras lo registran. Después cada uno sigue su camino |
 | **Discusiones** | Dos personas que discuten en la acera, en un aparcamiento o en una zona de tiendas. Se van calentando o se van calmando, y una discusión puede quedarse en nada o acabar en pelea |
 | **Peleas** | Peleas a puñetazos entre vecinos. Duran poco: uno se aparta o sale corriendo y cada uno sigue con su vida |
 | **Testigos** | La gente de alrededor reacciona: unos miran, otros se acercan, otros salen corriendo… y algunos **sacan el móvil y graban**, como en cualquier vídeo viral. Si la cosa se pone fea, guardan el móvil y se van |
@@ -51,8 +54,8 @@ mitad del centro.
 
 | Dónde | Qué verás |
 |---|---|
-| **Ciudad** | Palomas, cuervos, ratas en callejones e industrias, gatos callejeros y perros paseando con su dueño |
-| **Barrios y playa** | Gatos y perros de los vecinos, gaviotas y cormoranes en la costa |
+| **Ciudad** | Muchos gatos callejeros, perros sueltos y perros paseando con su dueño (pastor, rottweiler, husky, dálmata, chowchow, carlino…), palomas, cuervos, halcones de día, búhos de noche y ratas en callejones e industrias |
+| **Barrios y playa** | Gatos y perros de los vecinos, halcones y búhos, gaviotas y cormoranes en la costa y el puerto |
 | **Campo y granjas** | Vacas, cerdos, gallinas y perros de granja |
 | **Montes y bosques** | Ciervos, conejos, coyotes, jabalíes y aves rapaces |
 | **Desierto** | Coyotes, conejos y armadillos |

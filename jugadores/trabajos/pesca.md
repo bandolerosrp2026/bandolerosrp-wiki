@@ -43,8 +43,14 @@ clasificación y guía. Para comprar, vender, sacar la licencia o alquilar un ba
 4. Espera. La boya da toques falsos; cuando **se hunde de verdad** sale **¡PICA!** y tienes un par de segundos para
    **clavar** con la misma tecla.
 5. **La pelea:** mantén la tecla para **recoger sedal**. Vigila la **tensión**: si llega al 100 % un momento, **se parte
-   el sedal**. Cuando el pez tira (carrera), **suelta** un poco y **tira hacia el lado contrario** con **A** o **D**
-   (el HUD te marca cuál). Con la tensión en la franja verde el pez **se cansa** antes.
+   el sedal**. Hay que jugar con el pez:
+   - Solo se cansa de verdad con la tensión **dentro de la franja verde**, y con los peces grandes la franja es **más
+     estrecha**.
+   - Cuando tira (carrera), **tira hacia el lado contrario** con **A** o **D** (el HUD te marca cuál). Puede **cambiar
+     de lado** a mitad de la carrera; si no lo contrarrestas, apenas ganas sedal.
+   - Los peces fuertes **saltan** fuera del agua: sale **¡Salta!** y tienes un instante para **soltar el carrete**. Si
+     sigues recogiendo con el pez en el aire, el sedal se parte. Soltar a tiempo lo cansa.
+   - Si le das **sedal flojo** mucho rato (ni recoges ni tira), **recupera fuerzas**.
 6. Al sacarlo eliges: **quedártelo** o **soltarlo**. Soltarlo da **más experiencia**.
 
 | Acción | Tecla por defecto |
@@ -81,12 +87,12 @@ La **sonda de pesca** te dice qué agua tienes delante, la profundidad y qué pi
 
 | Caña | Nivel | Alcance | Aguanta | Precio |
 |---|---|---|---|---|
-| Caña de bambú | 1 | 14 m | 6 kg | 150 $ |
-| Caña de fibra | 4 | 18 m | 16 kg | 900 $ |
-| Caña de carbono | 9 | 22 m | 45 kg | 3.200 $ |
-| Caña de surfcasting | 14 | 32 m | 95 kg | 7.500 $ |
-| Caña de altura | 19 | 20 m | 420 kg | 16.000 $ |
-| Caña Bandolera | 26 | 28 m | 700 kg | 42.000 $ |
+| Caña de bambú | 1 | 22 m | 6 kg | 150 $ |
+| Caña de fibra | 4 | 30 m | 16 kg | 900 $ |
+| Caña de carbono | 9 | 38 m | 45 kg | 3.200 $ |
+| Caña de surfcasting | 14 | 55 m | 95 kg | 7.500 $ |
+| Caña de altura | 19 | 34 m | 420 kg | 16.000 $ |
+| Caña Bandolera | 26 | 48 m | 700 kg | 42.000 $ |
 
 Las cañas **se desgastan** con el uso y acaban rompiéndose. Las mejores recogen más rápido, aguantan más tensión y dan
 algo de suerte con las piezas raras.

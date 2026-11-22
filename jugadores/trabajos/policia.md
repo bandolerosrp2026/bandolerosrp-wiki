@@ -51,9 +51,11 @@ apuntando con **Alt** (ox_target) a la persona o al vehículo.
 
 - **Persona:** esposar o poner bridas, quitar, escoltar, cachear, decomisar, identificar (y dar o retirar
   licencias, según rango), multar con el código penal, encarcelar y pruebas rápidas: residuos de disparo,
-  alcoholemia y drogas.
+  alcoholemia y drogas. El **etilómetro** va directo desde el F6 (no hace falta llevar ningún objeto): da los g/l
+  de alcohol en sangre y si pasa del límite para conducir (0,5 g/l). El alcohol baja solo con el tiempo.
 - **Vehículo:** información y dueño, comprobar matrícula, meter y sacar detenidos, forzar la cerradura, registrar
-  maletero y guantera, cepo y llevar al depósito.
+  maletero y guantera, cepo (se ve puesto en la rueda y el vehículo no puede arrancar hasta que se quite) y llevar
+  al depósito.
 - **Objetos:** conos, vallas y bandas de pinchos.
 - **Unidad:** perro K9 (seguir, sentado, quieto, subir al coche, buscar en personas o vehículos, atacar), radar del
   vehículo y cámara del helicóptero.

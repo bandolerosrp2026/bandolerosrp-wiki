@@ -81,6 +81,9 @@ Si te eliminan lejos de la autoescuela, el examinador te lleva de vuelta. Si qui
 * **Con 0 puntos** se suspenden todos tus permisos de tierra (A, B, C, D, C+E) durante **3 días**. Después tienes que
   aprobar el **curso de recuperación** (un teórico de normas generales, 200 $) en cualquier autoescuela: recuperas
   tus permisos con 8 puntos. Las titulaciones de barco, helicóptero y avión no van por puntos.
+* La policía también puede **suspender una licencia suelta** (avión, helicóptero, barco o un permiso concreto) hasta
+  30 días, o **retirártela**: si te la retiran, tienes que volver a examinarte. Al acabar una suspensión, la licencia
+  vuelve sola.
 
 ## Tu carnet
 

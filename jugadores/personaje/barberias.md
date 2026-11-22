@@ -1,3 +1,7 @@
+---
+description: Las 7 barberías y el cirujano: pelo, barba, maquillaje y cambios de cara.
+---
+
 # Barberías y cirujano
 
 ## Barberías

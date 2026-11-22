@@ -1,3 +1,7 @@
+---
+description: Comprar coches, motos, barcos y aeronaves: catálogo, prueba, financiación y entrega.
+---
+
 # Concesionarios (Bandoleros Motors)
 
 Los coches, motos, barcos y aeronaves nuevos se compran en los concesionarios. Los encuentras en el mapa con el

@@ -1,3 +1,7 @@
+---
+description: Bandas: rangos, sede, dinero, territorios, guerras y cómo entrar en una.
+---
+
 # Bandas y territorios
 
 Las bandas son grupos criminales con rangos, sede, dinero, territorios y guerras. Entras en una banda cuando su jefe

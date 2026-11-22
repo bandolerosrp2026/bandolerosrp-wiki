@@ -1,3 +1,7 @@
+---
+description: Golpes a joyerías, bancos, galerías y furgones blindados: preparación, fases y policía.
+---
+
 # Atracos
 
 En la ciudad hay golpes preparados: joyerías, bancos, galerías… y furgones blindados que circulan con dinero. También

@@ -1,3 +1,7 @@
+---
+description: Puertas con cerradura: quién puede abrirlas, llaves, ganzúas y cierre automático.
+---
+
 # Puertas y cerraduras
 
 Muchas puertas de la ciudad tienen cerradura: comisarías, hospitales, talleres, locales de bandas, almacenes,

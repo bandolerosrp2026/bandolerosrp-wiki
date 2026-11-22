@@ -1,3 +1,7 @@
+---
+description: Llaves del vehículo: abrir y cerrar (U), motor (G), llavero (F5), prestar llaves y robos.
+---
+
 # Llaves y cerraduras
 
 Sin llave, un vehículo **no arranca**. Cada coche tiene su dueño y las llaves se pueden prestar.

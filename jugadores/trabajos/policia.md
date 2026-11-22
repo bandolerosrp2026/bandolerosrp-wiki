@@ -1,3 +1,7 @@
+---
+description: Policía (LSPD, Sheriff y FIB): servicio, equipo, detenciones, multas, vehículos y comisarías.
+---
+
 # Policía
 
 La policía de BandolerosRP tiene varios departamentos (LSPD, Sheriff del condado de Blaine y FIB). Todo se hace

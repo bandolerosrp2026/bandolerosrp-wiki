@@ -1,3 +1,7 @@
+---
+description: Respuestas rápidas a las dudas más habituales.
+---
+
 # Preguntas frecuentes
 
 ## Personaje

@@ -1,3 +1,7 @@
+---
+description: Todas las armas del servidor por tipo, con su calibre, munición y accesorios.
+---
+
 # Catálogo de armas
 
 {% hint style="info" %}

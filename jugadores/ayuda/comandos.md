@@ -1,3 +1,7 @@
+---
+description: Lista completa de comandos de jugador, ordenada por tema.
+---
+
 # Todos los comandos
 
 {% hint style="info" %}

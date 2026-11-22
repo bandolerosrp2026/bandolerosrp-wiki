@@ -1,3 +1,7 @@
+---
+description: Cayo Perico ampliado con Cayo Porto: cómo llegar y qué hay en la isla.
+---
+
 # Cayo Perico y Cayo Porto
 
 Al sur de Los Santos, mar adentro, está **Cayo Perico**. En BandolerosRP la isla está ampliada con **Cayo Porto**: una

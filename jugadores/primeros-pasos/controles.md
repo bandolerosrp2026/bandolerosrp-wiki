@@ -1,3 +1,7 @@
+---
+description: Todas las teclas por defecto y cómo cambiarlas en Ajustes → Asignación de teclas → FiveM.
+---
+
 # Controles y teclas
 
 Estas son las teclas **por defecto**. Todas las acciones de nuestros sistemas se pueden cambiar a tu gusto, y

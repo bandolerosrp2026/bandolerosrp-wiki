@@ -1,3 +1,7 @@
+---
+description: Estudios de tatuajes con propietario: tatuar a clientes, precios y caja del negocio.
+---
+
 # Estudios de tatuajes
 
 Un estudio puede tener **propietario** (lo asigna el staff). Entonces funciona como un negocio con su propia

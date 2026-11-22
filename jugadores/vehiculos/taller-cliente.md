@@ -1,3 +1,7 @@
+---
+description: Desgaste del vehículo (motor, aceite, frenos, neumáticos…) y cómo llevarlo al mecánico.
+---
+
 # Llevar el coche al taller
 
 Los vehículos se desgastan con el uso: motor, aceite, frenos, neumáticos, embrague, batería… Si no los

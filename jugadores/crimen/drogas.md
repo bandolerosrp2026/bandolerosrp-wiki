@@ -1,3 +1,7 @@
+---
+description: Cultivar, recolectar, cocinar y vender droga; mercado negro con precios que cambian.
+---
+
 # Drogas y mercado negro
 
 En la ciudad se cultiva, se recolecta, se cocina y se vende. Los precios **cambian según lo que se mueve en la

@@ -1,3 +1,7 @@
+---
+description: Mecánico: reparar pieza a pieza con elevador y herramientas, piezas, mejoras y facturas.
+---
+
 # Mecánico
 
 El trabajo de mecánico es **físico**: las reparaciones se hacen pieza a pieza en el coche, con elevador,

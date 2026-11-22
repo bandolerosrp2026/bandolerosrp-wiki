@@ -1,3 +1,7 @@
+---
+description: La plaza del centro renovada: torre con ascensor exterior, café en la azotea, tiendas y oficinas.
+---
+
 # Legion Square
 
 **Legion Square**, la plaza del centro de la ciudad, está **renovada**: bancos y farolas nuevas, más zonas verdes,

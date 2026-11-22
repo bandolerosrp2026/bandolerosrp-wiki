@@ -1,3 +1,7 @@
+---
+description: La tarjeta como objeto físico: pedirla, PIN, bloquearla y sacar dinero en cajeros.
+---
+
 # Tarjetas y cajeros
 
 ## La tarjeta

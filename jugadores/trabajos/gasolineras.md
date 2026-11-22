@@ -1,3 +1,7 @@
+---
+description: Gasolineras de jugadores: comprar una, precios, stock y el reparto de combustible en cisterna.
+---
+
 # Gasolineras y reparto de combustible
 
 > **En el mapa** solo ves las gasolineras **cercanas** (a unos 500 metros); al moverte van apareciendo.

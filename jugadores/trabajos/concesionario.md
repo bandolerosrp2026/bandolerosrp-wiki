@@ -1,3 +1,7 @@
+---
+description: Trabajar vendiendo vehículos: catálogo, pruebas, ventas, comisiones y gestión del jefe.
+---
+
 # Trabajar en un concesionario
 
 Los concesionarios con vendedores son de una empresa (un trabajo). Te contrata el jefe desde su panel de jefe,

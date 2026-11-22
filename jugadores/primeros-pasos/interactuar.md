@@ -1,3 +1,7 @@
+---
+description: El menú de interacción (Alt): cómo hablar con NPC y usar coches, cajeros, puertas o tiendas.
+---
+
 # Interactuar con el mundo
 
 Casi todo en BandolerosRP se hace con el **menú de interacción** (Bandoleros Target). No hay carteles de

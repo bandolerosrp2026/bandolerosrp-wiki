@@ -1,3 +1,7 @@
+---
+description: Inventario y barra rápida (1-5): usar, dar, tirar y guardar objetos; peso y almacenes.
+---
+
 # Inventario
 
 ## Abrirlo

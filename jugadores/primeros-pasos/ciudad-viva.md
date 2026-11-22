@@ -1,3 +1,7 @@
+---
+description: Lo que pasa solo en la calle: vecinos, sucesos, tráfico, tiempo, cielo y fenómenos naturales.
+---
+
 # La ciudad está viva
 
 Los vecinos de Los Santos no son decorado. Mientras juegas, en la calle pasan cosas por sí solas, sin que nadie

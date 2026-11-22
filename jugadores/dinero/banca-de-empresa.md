@@ -1,3 +1,7 @@
+---
+description: Para jefes: la cuenta de tu empresa en el banco, ingresos, pagos y quién puede usarla.
+---
+
 # Banca de empresa
 
 Si eres **jefe** de un trabajo, en el banco tienes una sección propia, **«Empresa»**, para llevar el dinero de tu

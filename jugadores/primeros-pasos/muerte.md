@@ -1,3 +1,7 @@
+---
+description: Heridas por zonas, sangrado, caer inconsciente, pedir ayuda al EMS y volver del hospital.
+---
+
 # Heridas, muerte y hospital
 
 La ciudad tiene **servicio médico (EMS)**. Las heridas cuentan: dónde te dan, con qué y cuánto sangras.

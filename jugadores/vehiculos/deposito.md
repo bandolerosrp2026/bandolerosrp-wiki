@@ -1,3 +1,7 @@
+---
+description: Si tu vehículo no aparece o te lo ha retirado la policía: cómo recuperarlo del depósito.
+---
+
 # Depósito
 
 Si tu vehículo ha sido retirado por la policía o la administración, o no se encuentra, está en el **depósito**.

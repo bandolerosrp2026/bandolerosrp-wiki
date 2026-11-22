@@ -1,3 +1,7 @@
+---
+description: Qué hacer al conectarte por primera vez: pantalla de carga, personaje, primeros minutos y primeros euros.
+---
+
 # Tu primer día
 
 ## 1. La pantalla de carga

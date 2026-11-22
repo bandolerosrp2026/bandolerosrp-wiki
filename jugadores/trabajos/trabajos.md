@@ -1,3 +1,7 @@
+---
+description: Cómo te contratan, entrar y salir de servicio (F6), sueldos, rangos y el panel del jefe.
+---
+
 # Cómo funcionan los trabajos
 
 ## Conseguir trabajo

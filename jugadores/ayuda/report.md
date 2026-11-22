@@ -1,3 +1,7 @@
+---
+description: Cómo pedir ayuda al staff con /report y qué pasa después.
+---
+
 # Hablar con el staff (/report)
 
 Si tienes un problema (un fallo, alguien rompe las normas, te has quedado atascado, has perdido algo…), escribe:

@@ -1,3 +1,7 @@
+---
+description: Pesca para todos: cañas, cebos, 42 especies, zonas, barcos de alquiler y dónde vender.
+---
+
 # Pesca
 
 La pesca está abierta a todo el mundo: **no hace falta trabajo ni servicio**, solo una caña y cebo. Hay **42 especies**

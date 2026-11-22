@@ -1,3 +1,7 @@
+---
+description: El chat (T): mensajes de rol (IC) y fuera de rol (OOC), /me, /do y el resto de comandos de rol.
+---
+
 # Chat y comandos de rol
 
 ## Usar el chat

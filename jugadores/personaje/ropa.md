@@ -1,3 +1,7 @@
+---
+description: Tiendas de ropa y tu armario: comprar, guardar conjuntos y cambiarte.
+---
+
 # Ropa y armario
 
 ## Tiendas de ropa

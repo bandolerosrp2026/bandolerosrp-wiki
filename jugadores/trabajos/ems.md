@@ -1,3 +1,7 @@
+---
+description: EMS: atender heridos, reanimar, camilla y ambulancia, hospital y material médico.
+---
+
 # EMS (servicio médico)
 
 Los médicos atienden a los heridos en la calle y en el hospital, los reaniman, los llevan en camilla y en ambulancia

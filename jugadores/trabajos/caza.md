@@ -1,3 +1,7 @@
+---
+description: Caza para todos: licencia, armas, animales, despiece, carnicero, niveles, perro, caballo y torneos.
+---
+
 # Caza
 
 La caza es una actividad abierta a todo el mundo: no hace falta trabajo ni servicio. Sube de nivel, consigue

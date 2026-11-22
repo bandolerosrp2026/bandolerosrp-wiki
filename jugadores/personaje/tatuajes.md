@@ -1,3 +1,7 @@
+---
+description: Estudios de tatuajes: más de 700 diseños, cómo hacerte uno y cómo quitarlo.
+---
+
 # Tatuajes
 
 Los estudios de tatuajes tienen el catálogo completo de GTA Online (más de 700 diseños) y los diseños propios del

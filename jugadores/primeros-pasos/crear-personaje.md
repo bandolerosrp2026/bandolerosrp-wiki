@@ -1,3 +1,7 @@
+---
+description: El creador de personaje paso a paso: datos, aspecto, ropa y cómo elegir dónde apareces.
+---
+
 # Crear tu personaje
 
 El creador de personaje de BandolerosRP se abre la primera vez que entras. Tu personaje **no se crea** hasta que

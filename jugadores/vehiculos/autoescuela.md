@@ -1,3 +1,7 @@
+---
+description: Los carnés de conducir: teórico, práctico, precios y qué permiso necesita cada vehículo.
+---
+
 # Autoescuela y carnet de conducir
 
 Para conducir cada tipo de vehículo necesitas su permiso. Se sacan en las **autoescuelas** (salen en el mapa como

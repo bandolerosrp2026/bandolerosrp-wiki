@@ -1,3 +1,7 @@
+---
+description: El parque acuático de la playa de Vespucci: piscinas, toboganes, caída libre, trampolines y tienda.
+---
+
 # Parque acuático de Vespucci
 
 En la playa de **Vespucci** hay un parque acuático con piscinas, toboganes, una cápsula de caída libre, trampolines,

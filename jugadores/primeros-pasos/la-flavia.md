@@ -1,3 +1,7 @@
+---
+description: Edificio junto a Legion Square con bar de azotea, terraza y hotel; cómo subir y moverse por dentro.
+---
+
 # La Flavia: bar de azotea y hotel
 
 **La Flavia** es un edificio junto a Legion Square con vestíbulo a pie de calle, un **bar con terraza en la azotea**

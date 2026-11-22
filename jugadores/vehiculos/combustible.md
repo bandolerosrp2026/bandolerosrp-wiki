@@ -1,3 +1,7 @@
+---
+description: Consumo de combustible, repostar en gasolineras, bidones y vehículos eléctricos.
+---
+
 # Combustible y gasolineras
 
 Los vehículos gastan combustible según cómo conduzcas: acelerones, revoluciones, velocidad, tipo de vehículo y

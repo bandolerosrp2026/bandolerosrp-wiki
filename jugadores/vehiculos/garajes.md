@@ -1,3 +1,7 @@
+---
+description: Guardar y sacar vehículos de los garajes; se conserva todo: mejoras, daños y combustible.
+---
+
 # Garajes
 
 Tus vehículos se guardan en garajes. Lo que guardas, se conserva tal cual: mejoras, colores, daños y combustible.

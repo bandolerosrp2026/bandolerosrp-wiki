@@ -1,3 +1,7 @@
+---
+description: Banco de armero de las bandas: cambiar el color (tintes) de las armas.
+---
+
 # Banco de armero (tintes)
 
 Algunas **bandas y organizaciones** tienen un banco de armero en su territorio. Allí sus miembros pueden cambiar el

@@ -1,3 +1,7 @@
+---
+description: Voz por proximidad: distancias, cómo cambiarlas, radio y llamadas.
+---
+
 # Voz
 
 La voz es **por proximidad**: te oyen las personas que están cerca de ti, igual que en la vida real.

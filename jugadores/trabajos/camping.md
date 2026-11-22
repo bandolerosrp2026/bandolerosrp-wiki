@@ -1,3 +1,7 @@
+---
+description: Acampar: material, montar el campamento, hoguera y qué se puede hacer en él.
+---
+
 # Camping y acampadas
 
 Acampar está abierto a todo el mundo: no hace falta trabajo. Compra el material en una **tienda de camping**, monta

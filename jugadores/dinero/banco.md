@@ -1,3 +1,7 @@
+---
+description: Bandoleros Bank: nómina, cuentas, transferencias, historial y cómo pedir tarjetas.
+---
+
 # Bandoleros Bank
 
 El banco de la ciudad. Aquí cobras tu nómina, guardas tu dinero, haces transferencias y pides tarjetas y

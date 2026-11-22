@@ -1,3 +1,7 @@
+---
+description: Centros de paintball: crear o unirte a una sala, equipos, modos de juego y reglas.
+---
+
 # Paintball
 
 En la ciudad hay **centros de paintball**: búscalos en el mapa como **Paintball**. Allí creas una sala o te unes a una,

@@ -1,3 +1,7 @@
+---
+description: El HUD (vida, hambre, sed, estrés…), los menús, las notificaciones y el menú de pausa.
+---
+
 # La interfaz: HUD, menús y avisos
 
 ## HUD

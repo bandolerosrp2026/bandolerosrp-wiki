@@ -1,3 +1,7 @@
+---
+description: Cocina para todos: equipo, ingredientes, 100 recetas, calidad, niveles, comida y alcohol.
+---
+
 # Cocina
 
 Cocinar está abierto a todo el mundo: no hace falta trabajo. Compra el equipo y los ingredientes en una **tienda de

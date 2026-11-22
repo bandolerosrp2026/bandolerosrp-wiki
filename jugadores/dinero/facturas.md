@@ -1,3 +1,7 @@
+---
+description: Facturas y multas: quién puede mandarlas, cómo pagarlas y qué pasa si no pagas.
+---
+
 # Facturas y multas
 
 Los trabajos que lo tengan permitido (policía, mecánicos, negocios…) pueden mandarte **facturas** o **multas**

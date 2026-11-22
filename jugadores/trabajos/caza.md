@@ -270,12 +270,33 @@ Vive apartado, cerca de **Grapeseed**. Solo habla contigo a partir de **nivel 6*
 - Los **loros** escapados de las casas ricas (colinas de Vinewood, Rockford Hills) también están **protegidos**: solo
   dan plumas y cazarlos es caza furtiva.
 - Los **tiburones** no se cazan con rifle: se pescan (mira [Pesca](pesca.md)).
+- Compra lo que sale de **cualquier otro animal muerto** (ver abajo).
 - Cuanto más le vendes, más **reputación** tienes con él y mejores cosas te ofrece.
 
 {% hint style="warning" %}
 Todo lo del furtivo es delito. Si la policía te pilla con pieles de especies protegidas o cazando sin licencia, te
 puede caer una buena.
 {% endhint %}
+
+### Perros, gatos, caballos y otros animales
+
+Con un **cuchillo en la mano** puedes **despiezar cualquier animal muerto**, no solo los de caza: perros, gatos,
+caballos, burros, vacas, cerdos, gallinas, monos, palomas, gaviotas, ratas… Apunta al animal con **Alt** →
+**Despiezar** (los medianos se pueden **cargar al hombro** y los grandes **subir a una pickup**, como cualquier pieza).
+
+| Animal | Lo que sacas |
+| --- | --- |
+| Perros, gatos, monos | **Carne sin papeles** y **piel sin papeles** |
+| Caballos, burros, vacas | Mucha **carne sin papeles** y **cuero crudo** |
+| Cerdos, gallinas, ratas, armadillos | **Carne sin papeles** (las gallinas, también plumas) |
+| Palomas, cuervos, gaviotas, pajarillos | Unas pocas **plumas** |
+
+- Esa carne, piel y cuero **solo los compra el furtivo** (en dinero negro). La cabaña y el carnicero no los quieren y
+  la carne no se puede asar en la hoguera.
+- Siempre es **ilegal**: matar un animal ajeno puede hacer que algún vecino **avise a la policía** (si lo atropellas
+  sin querer, no).
+- No cuenta para retos, torneos, récords ni bestiario.
+- El **perro de caza** de otro jugador no se puede despiezar.
 
 ## Para la policía
 

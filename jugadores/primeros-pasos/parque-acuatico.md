@@ -52,7 +52,7 @@ Apunta a una hamaca con **Alt**:
 
 - **Tumbarte en la hamaca**: gratis si no está alquilada.
 - **Alquilar hamaca ($50)**: te la reservas durante un día del juego y nadie más puede usarla. Solo puedes tener una
-  alquilada a la vez.
+  alquilada a la vez. Mientras la tengas, sale en el mapa como **Mi hamaca alquilada** (una casita azul).
 
 Para **levantarte** pulsa **E** (se puede cambiar en Ajustes → Asignación de teclas → FiveM, «Parque acuático:
 levantarte de la hamaca»).

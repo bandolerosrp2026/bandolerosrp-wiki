@@ -31,6 +31,7 @@ palabra («gasolina», «carnet», «multa», «tatuaje»…) y te sale la pági
 | Cocinar, comer o preparar copas | [Cocina, comida y alcohol](trabajos/cocina.md) |
 | Ser policía o médico | [Policía](trabajos/policia.md), [EMS](trabajos/ems.md) |
 | Reparar coches | [Mecánico](trabajos/mecanico.md) |
+| Vender casas (agente inmobiliario) | [Inmobiliaria](trabajos/inmobiliaria.md) |
 | Tener mi propio negocio | [Gasolineras](trabajos/gasolineras.md), [Estudios de tatuajes](trabajos/tatuador.md) |
 
 ## Mi dinero
@@ -38,6 +39,7 @@ palabra («gasolina», «carnet», «multa», «tatuaje»…) y te sale la pági
 | Quiero… | Mira |
 |---|---|
 | Saber cuándo cobro y cuánto cuestan las cosas | [Nómina y precios](dinero/nomina-y-precios.md) |
+| Comprar, alquilar o hipotecar una casa y decorarla | [Tu casa](primeros-pasos/vivienda.md) (`/casa`) |
 | Cobrar, transferir o ver mis movimientos | [Bandoleros Bank](dinero/banco.md) |
 | Sacar dinero o pedir una tarjeta | [Tarjetas y cajeros](dinero/tarjetas-y-cajeros.md) |
 | Ahorrar o pedir un préstamo | [Ahorro, préstamos y crédito](dinero/ahorro-y-prestamos.md) |

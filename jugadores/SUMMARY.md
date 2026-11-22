@@ -17,6 +17,7 @@
 * [Chat y comandos de rol](comunicacion/chat.md)
 * [Voz](comunicacion/voz.md)
 * [Puertas y cerraduras](primeros-pasos/puertas.md)
+* [Tu casa: comprar, alquilar y decorar](primeros-pasos/vivienda.md)
 * [Heridas, muerte y hospital](primeros-pasos/muerte.md)
 
 ## La ciudad
@@ -37,6 +38,7 @@
   * [Concesionario (vendedores y jefe)](trabajos/concesionario.md)
   * [Gasolineras y reparto de combustible](trabajos/gasolineras.md)
   * [Estudios de tatuajes](trabajos/tatuador.md)
+  * [Inmobiliaria](trabajos/inmobiliaria.md)
 * [Caza](trabajos/caza.md)
 * [Pesca](trabajos/pesca.md)
 * [Cocina, comida y alcohol](trabajos/cocina.md)

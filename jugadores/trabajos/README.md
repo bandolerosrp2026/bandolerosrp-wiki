@@ -16,6 +16,7 @@ lee antes [Cómo funcionan los trabajos](trabajos.md): contratos, servicio (**F6
 | **EMS** | Atender heridos en la calle y en el hospital, reanimar y trasladar en ambulancia | [EMS](ems.md) |
 | **Mecánico** | Reparar vehículos pieza a pieza en el taller y montar mejoras | [Mecánico](mecanico.md) |
 | **Vendedor de concesionario** | Enseñar, probar y vender vehículos para la empresa | [Concesionario](concesionario.md) |
+| **Inmobiliaria** | Crear viviendas, enseñarlas y venderlas o alquilarlas a comisión | [Inmobiliaria](inmobiliaria.md) |
 
 ## Negocios (eres el dueño)
 

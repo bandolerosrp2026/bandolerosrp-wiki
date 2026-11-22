@@ -87,6 +87,17 @@ Todo en [Caza](../trabajos/caza.md).
 
 Todo en [Paintball](paintball.md).
 
+## Tu casa
+
+| Tecla | Qué hace |
+|---|---|
+| *(sin tecla)* | Abrir la tableta de tu casa, lo mismo que `/casa` («Abrir la tableta de tu casa…») |
+| **X** | Levantarte del sofá o de la cama (la misma que el camping) |
+| **Clic · Rueda · G · Av Pág / Re Pág** | Mientras colocas un mueble: colocar, girar, al suelo, subir y bajar |
+| **← · →** | Con las cámaras abiertas: cambiar de cámara (**Retroceso** para salir) |
+
+Todo en [Tu casa](vivienda.md).
+
 ## Policía
 
 | Tecla | Qué hace |

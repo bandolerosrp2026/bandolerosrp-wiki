@@ -33,6 +33,8 @@ para susurrar solo vale `/s`). Usa los de esta lista.
 | `/pesca` | Abrir tu cuaderno de pesca: misiones, logros, torneo y guía de peces ([Pesca](../trabajos/pesca.md)) |
 | `/perrocaza` | Menú de tu perro de caza: sacarlo, órdenes, subirlo al coche, trucos ([Caza](../trabajos/caza.md)) |
 | `/micamping` | Ver todo lo que tienes colocado de camping, con distancia y GPS ([Camping](../trabajos/camping.md)) |
+| `/casa` | Abrir la tableta de tu casa: decorar, pedidos, facturas, llaves, alarma, cámaras y mascotas. Puedes ponerle tecla ([Tu casa](../primeros-pasos/vivienda.md)) |
+| `/gestionarcasas` | Inmobiliaria (de servicio): crear, editar y ofrecer viviendas ([Inmobiliaria](../trabajos/inmobiliaria.md)) |
 | `/paintball` | Clasificación y perfil de paintball; junto a un centro, también las salas ([Paintball](../primeros-pasos/paintball.md)) |
 | `/salirpaintball` | Salir de la sala o abandonar la partida de paintball (te devuelven tus cosas) |
 | `/suelo` | Tirarte al suelo; otra vez (o **X**) para levantarte. Puedes ponerle tecla en Asignación de teclas |

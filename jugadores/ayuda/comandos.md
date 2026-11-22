@@ -37,6 +37,12 @@ para susurrar solo vale `/s`). Usa los de esta lista.
 | `/gestionarcasas` | Inmobiliaria (de servicio): crear, editar y ofrecer viviendas ([Inmobiliaria](../trabajos/inmobiliaria.md)) |
 | `/paintball` | Clasificación y perfil de paintball; junto a un centro, también las salas ([Paintball](../primeros-pasos/paintball.md)) |
 | `/salirpaintball` | Salir de la sala o abandonar la partida de paintball (te devuelven tus cosas) |
+| `/e nombre` | Hacer una animación (`/e c` la cancela; sin nombre abre el menú F3). También `/emote` ([Animaciones](../primeros-pasos/animaciones.md)) |
+| `/animaciones` | Abrir el menú de animaciones (F3) |
+| `/compartir nombre` | Proponer una animación compartida a la persona de tu lado (tiene que aceptarla) |
+| `/andar estilo` | Cambiar tu forma de andar (`/andar normal` la quita) |
+| `/animo expresión` | Cambiar la expresión de tu cara (`/animo normal` la quita) |
+| `/cancelaranimacion` | Cancelar la animación que estás haciendo |
 | `/suelo` | Tirarte al suelo; otra vez (o **X**) para levantarte. Puedes ponerle tecla en Asignación de teclas |
 | `/cargar` | Cargar a hombros a quien tengas al lado: si está consciente tiene que aceptar; si está abatido, no. Otra vez (o **X**) para soltarlo. También en el menú de interacción («Cargar a hombros») |
 | `/id` | Tu número de jugador |

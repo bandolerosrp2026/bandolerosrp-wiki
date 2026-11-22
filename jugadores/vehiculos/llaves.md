@@ -11,7 +11,7 @@ Sin llave, un vehículo **no arranca**. Cada coche tiene su dueño y las llaves 
 | Tecla | Qué hace |
 |---|---|
 | **U** | Abrir o cerrar el vehículo con llave más cercano (hasta 10 m). Verás el mando en la mano, el pitido y las luces |
-| **G** | Al volante: encender o apagar el motor. **A pie**: arrancar tu coche a distancia (solo el dueño, hasta 25 m) |
+| **G** | Al volante: encender o apagar el motor. **A pie**: arrancar tu coche a distancia (solo el dueño, hasta 25 m). En aviones y helicópteros solo apaga el motor parado en tierra: en el aire la G sube y baja el tren de aterrizaje |
 | **S** | También arranca el motor |
 | **F5** o `/llaves` | Abrir el **llavero** |
 

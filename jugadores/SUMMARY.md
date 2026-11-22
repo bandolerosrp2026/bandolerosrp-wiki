@@ -14,6 +14,7 @@
 * [La interfaz: HUD, menús y avisos](primeros-pasos/interfaz.md)
 * [Interactuar con el mundo](primeros-pasos/interactuar.md)
 * [Inventario](primeros-pasos/inventario.md)
+* [Animaciones (F3)](primeros-pasos/animaciones.md)
 * [Chat y comandos de rol](comunicacion/chat.md)
 * [Voz](comunicacion/voz.md)
 * [Puertas y cerraduras](primeros-pasos/puertas.md)

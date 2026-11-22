@@ -25,6 +25,9 @@ ordenador y vale para siempre.
 | **R** | Recargar el arma |
 | **ESC** | Menú de pausa (mapa, ajustes, salir) |
 | **P** | Mapa |
+| **F3** | Menú de animaciones (bailes, gestos, compartidas, andares…). Ver [Animaciones](animaciones.md) |
+| **Y** | Aceptar una animación compartida que te proponen |
+| **G** | Efecto de la animación (humo, flash, confeti…) cuando la animación lo tiene |
 
 ## Personaje
 
@@ -50,7 +53,7 @@ ordenador y vale para siempre.
 | Tecla | Qué hace |
 |---|---|
 | **U** | Abrir o cerrar el vehículo con llave más cercano |
-| **G** | Al volante: encender o apagar el motor. A pie: arrancar tu coche a distancia |
+| **G** | Al volante: encender o apagar el motor. A pie: arrancar tu coche a distancia. En aviones y helicópteros solo apaga el motor parado en tierra (en el aire la G es el tren de aterrizaje) |
 | **S** | También arranca el motor (igual que acelerar) |
 | **H** | Buscar las llaves dentro de un coche ajeno (sentado al volante) |
 | **W** | Volver a intentar el puente en un coche de la ciudad sin llave (sentado al volante) |

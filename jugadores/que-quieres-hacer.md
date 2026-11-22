@@ -65,6 +65,7 @@ palabra («gasolina», «carnet», «multa», «tatuaje»…) y te sale la pági
 | Comprar ropa o guardar conjuntos | [Ropa y armario](personaje/ropa.md) |
 | Cambiarme el pelo, la barba o la cara | [Barberías y cirujano](personaje/barberias.md) |
 | Hacerme un tatuaje | [Tatuajes](personaje/tatuajes.md) |
+| Hacer animaciones, bailar, sentarme, cambiar mi forma de andar | [Animaciones (F3)](primeros-pasos/animaciones.md) |
 
 ## Salir por la ciudad
 

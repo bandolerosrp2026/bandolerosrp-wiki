@@ -29,13 +29,37 @@ De menor a mayor:
 - **`/tabletaems`** (puedes asignarle una tecla): tableta del EMS. Pestañas:
   - **Avisos**: los `/auxilio` y los heridos que piden ayuda, en directo. **Atender** te marca la ruta y avisa al
     paciente de que vas; **Cerrar** lo quita.
-  - **Pacientes**: buscar a cualquiera que haya pasado por el EMS y ver su historial; puedes añadir notas.
-  - **Asegurados**, **De servicio** y **Tarifas y seguros**.
+  - **Pacientes**: buscar a cualquier ciudadano (aunque nunca haya pasado por el EMS) y abrir su expediente:
+    - **Historial**: todo lo que le ha hecho el EMS, con notas.
+    - **Ficha clínica**: grupo sanguíneo, alergias, enfermedades, medicación habitual, contacto de emergencia y
+      observaciones.
+    - **Pruebas** y **Citas** de ese paciente.
+  - **Citas**: hoy, próximas, pasadas o todas. **Nueva cita** con paciente, fecha y hora, motivo, lugar y médico; si
+    el paciente está conectado le llega el aviso. Márcalas como **Atendida**, **No vino** o **Cancelada**.
+  - **Pruebas**: todas las analíticas, toxicologías y radiografías con sus resultados (lo que sale de lo normal, en
+    rojo). También puedes **apuntar una prueba a mano**.
+  - **Asegurados**, **De servicio** y **Tarifas**.
 - Todas las listas tienen buscador.
+
+## Con el ojo (Alt) sobre una persona
+
+| Opción | Cuándo |
+|---|---|
+| **Diagnosticar y curar** | Siempre: abre su diagnóstico con las heridas y las curas |
+| **Reanimar (desfibrilador)** | Está en el suelo |
+| **Hacer RCP** | Está en el suelo (sin material; no siempre funciona) |
+| **Estabilizar (botiquín)** | Está en el suelo |
+| **Hacer pruebas médicas** | Analítica de sangre, toxicología o radiografía con su estado real |
+| **Comprobar el pulso** | Cualquiera, si está en el suelo |
+
+**Pruebas médicas**: la **analítica** mide la hemoglobina, el lactato, la glucosa y el alcohol según la sangre que
+haya perdido y lo que sangra; la primera le pone el **grupo sanguíneo** en la ficha. La **toxicología** detecta el
+alcohol y las drogas que lleve encima, y la **radiografía**, las fracturas y las balas que sigan dentro. Los
+resultados se guardan en la tableta (**Pruebas**) y en su historial.
 
 ## Diagnóstico
 
-Apunta con **Alt** a una persona → **Diagnosticar**. Ves:
+Apunta con **Alt** a una persona → **Diagnosticar y curar**. Ves:
 
 - El cuerpo por zonas con la gravedad de cada herida y lo que sangra.
 - **Constantes**: pulso, tensión, saturación, sangrado, dolor, consciencia y sangre.
@@ -61,6 +85,23 @@ Apunta con **Alt** a una persona → **Diagnosticar**. Ves:
 Para reanimar con desfibrilador, el paciente **no puede sangrar mucho**: primero corta el sangrado. Al reanimar con
 desfibrilador cobras una prima de la cuenta del EMS.
 {% endhint %}
+
+Al usar el desfibrilador verás el **LIFEPAK 15** en el suelo junto al paciente, y al hacer RCP, el **LUCAS**.
+
+## Vehículos del EMS
+
+Se sacan en el garaje del EMS (de servicio), según tu rango:
+
+| Vehículo | Desde |
+|---|---|
+| Ambulancia | Enfermero |
+| Toyota Tacoma (pick-up de apoyo) | Enfermero |
+| Ford Explorer (intervención rápida) | Médico |
+| Chevrolet Silverado (rescate) | Médico |
+| Ford Expedition (supervisor) | Jefe de zona |
+| Chevrolet Tahoe (jefatura) | Cirujano |
+
+Todos llevan luces y sirena, y de todos se puede **sacar la camilla**.
 
 ## Camilla, silla de ruedas y muletas
 

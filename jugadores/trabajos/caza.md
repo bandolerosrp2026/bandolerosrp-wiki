@@ -46,6 +46,10 @@ Hay 7 zonas de caza marcadas en el mapa (círculos). **No todas están abiertas 
 veda y se abren otras. Las abiertas salen en verde y las cerradas, en rojo; en la cabaña ves cuáles y cuándo cambian,
 y puedes marcarlas en el mapa.
 
+Las zonas de caza tienen **más bosque** que el resto del monte: pinos y cedros en el norte, robles y olivos en Tongva,
+árboles de Josué en el desierto y palmeras en la orilla del Alamo Sea y en la costa de Paleto Bay. Todos veis los mismos
+árboles, así que sirven para esconderse y acechar.
+
 Dentro de las zonas de caza hay **bastantes más animales** que en el resto del monte, y se acercan más. Aun así, si
 corres o vas a favor del viento te huelen y te oyen antes: muévete agachado y despacio.
 

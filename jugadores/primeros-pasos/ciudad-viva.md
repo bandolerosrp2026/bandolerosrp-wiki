@@ -80,6 +80,9 @@ El cielo cambia con la hora y el tiempo, y **todos veis el mismo**:
 - **De día**, azul intenso arriba y más claro hacia el horizonte. **De noche**, un cielo oscuro de verdad.
 - **Nubes según el clima**: nubes altas y finas con sol, cúmulos cuando está nublado, una capa gris y baja con lluvia y
   nubarrones de tormenta. Cada rato cambian de forma, como en la realidad, y el paso de un clima a otro es poco a poco.
+- **Luces de noche**: al caer la noche los neones, las farolas, los focos y las luces de pista del aeropuerto brillan
+  más, con más halo y reflejo en el asfalto mojado, los coches y los cristales, y se ven más estrellas. Dentro de los
+  edificios se nota menos para no deslumbrar y en los aeropuertos y aeródromos, más, para ver bien las pistas.
 
 ## El mar y el agua
 

@@ -11,6 +11,7 @@
 * [Interactuar con el mundo](primeros-pasos/interactuar.md)
 * [La ciudad está viva](primeros-pasos/ciudad-viva.md)
 * [Puertas y cerraduras](primeros-pasos/puertas.md)
+* [La Flavia: bar de azotea y hotel](primeros-pasos/la-flavia.md)
 * [Inventario](primeros-pasos/inventario.md)
 * [Heridas, muerte y hospital](primeros-pasos/muerte.md)
 

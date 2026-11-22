@@ -72,6 +72,17 @@ ordenador y vale para siempre.
 
 Todo en [Caza](../trabajos/caza.md).
 
+## Paintball
+
+| Tecla | Qué hace |
+|---|---|
+| **TAB** (mantener) | Ver el marcador de la partida |
+| **Clic central** | Marcar para tu equipo al rival al que apuntas |
+| **← · →** | Como espectador: cambiar de jugador |
+| *(sin tecla)* | Abrir la clasificación y tu perfil («Paintball: abrir clasificación y perfil…») |
+
+Todo en [Paintball](paintball.md).
+
 ## Policía
 
 | Tecla | Qué hace |

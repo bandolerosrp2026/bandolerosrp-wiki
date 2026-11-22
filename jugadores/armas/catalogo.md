@@ -4,7 +4,7 @@
 Esta página se genera sola a partir del inventario del servidor: siempre está al día.
 {% endhint %}
 
-Hay **134 armas y herramientas** en el servidor. Cada una usa la munición de su calibre: si no tienes ese calibre exacto en el inventario, no podrás recargar.
+Hay **135 armas y herramientas** en el servidor. Cada una usa la munición de su calibre: si no tienes ese calibre exacto en el inventario, no podrás recargar.
 
 ## Calibres
 
@@ -18,6 +18,7 @@ Hay **134 armas y herramientas** en el servidor. Cada una usa la munición de su
 | Munición 7,62×39 | 6 |
 | Munición .44 Magnum | 3 |
 | Munición .22 LR | 2 |
+| Bolas de paintball | 1 |
 | Cartucho de bengala | 1 |
 | Granadas de 40 mm | 1 |
 | Munición .38 LC | 1 |
@@ -30,7 +31,7 @@ Los accesorios se ponen **usando el objeto con el arma en la mano** y se quitan 
 
 Las armas marcadas con **tinte** pueden cambiar de color en el [banco de armero](armero.md) de algunas bandas y organizaciones; las demás llevan su color de fábrica.
 
-## Pistolas y revólveres (35)
+## Pistolas y revólveres (36)
 
 | Arma | Munición | Accesorios |
 |---|---|---|
@@ -52,6 +53,7 @@ Las armas marcadas con **tinte** pueden cambiar de color en el [banco de armero]
 | Kimber | Munición .45 ACP | silenciador, cargador ampliado, linterna |
 | M1911 | Munición .45 ACP | silenciador, linterna |
 | Makarov | Munición 9 mm | silenciador, cargador ampliado, linterna |
+| Marcadora de paintball | Bolas de paintball | — |
 | MP-443 Rook | Munición 9 mm | silenciador, cargador ampliado, linterna |
 | Python | Munición .44 Magnum | acabado |
 | Revólver .357 | Munición .44 Magnum | silenciador, cargador ampliado, linterna |

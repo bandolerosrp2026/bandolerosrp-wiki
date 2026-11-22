@@ -250,6 +250,7 @@ El **oso**, el **lobo**, el **puma** y los animales exóticos **atacan**. No te 
 Vive apartado, cerca de **Grapeseed**. Solo habla contigo a partir de **nivel 6**. Él:
 
 - **Compra** pieles, garras y plumas de especies **protegidas** y algo de caza legal (peor pagada que en la cabaña).
+  Paga siempre en **dinero negro** (también sus encargos): necesitas hueco en el inventario para cobrar.
 - Vende material sin hacer preguntas (y sin pedir licencia).
 - Tiene **encargos ilegales**, algunos de **animales exóticos** (leopardo, león, cocodrilo): al aceptarlos te marca la
   zona en el mapa y el animal aparece cuando llegas. Son peligrosos.

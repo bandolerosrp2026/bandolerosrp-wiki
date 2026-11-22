@@ -12,6 +12,8 @@
 * [La ciudad está viva](primeros-pasos/ciudad-viva.md)
 * [Puertas y cerraduras](primeros-pasos/puertas.md)
 * [La Flavia: bar de azotea y hotel](primeros-pasos/la-flavia.md)
+* [Parque acuático de Vespucci](primeros-pasos/parque-acuatico.md)
+* [Cayo Perico y Cayo Porto](primeros-pasos/cayo-porto.md)
 * [Inventario](primeros-pasos/inventario.md)
 * [Heridas, muerte y hospital](primeros-pasos/muerte.md)
 

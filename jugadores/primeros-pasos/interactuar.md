@@ -27,6 +27,31 @@ que no estés de servicio. Las opciones con **candado** se ven pero aún no las 
 | Otro jugador | Dar efectivo y, según tu trabajo, acciones como facturar o cachear |
 | Dependienta de ropa | Abrir la tienda |
 | Vehículo averiado (mecánico) | Los pasos de la reparación |
+| Silla, banco, sofá, taburete o tumbona | Sentarse o tumbarse (ver abajo) |
+| Máquina expendedora | Comprar una bebida, sacar un café o comprar algo de picar (ver abajo) |
+
+## Sentarse en cualquier sitio
+
+Apunta con **Alt** a casi cualquier **silla, banco, sofá, sillón, taburete o tumbona** de la ciudad → **Sentarse**
+(o **Tumbarse** en las tumbonas). En los bancos y sofás te sientas en el hueco al que apuntas, así caben varios. Si el
+sitio ya está ocupado, te avisa.
+
+Para **levantarte**, pulsa la tecla **Levantarse (sillas, bancos, sofás, camping)** (**X** por defecto; se cambia en
+Ajustes → Asignación de teclas → FiveM). Es la misma que en el [camping](../trabajos/camping.md). Las hamacas del
+[parque acuático](parque-acuatico.md) van con su propio sistema de alquiler.
+
+## Máquinas expendedoras
+
+Las máquinas de la calle, oficinas y gasolineras funcionan: apunta con **Alt** y se abre la tienda. Se paga en
+**efectivo**.
+
+| Máquina | Qué tiene |
+|---|---|
+| **Bebidas** (Sprunk, eCola, agua, neveras) | Agua ($2), Sprunk ($3), Cola ($3), refresco de lima ($3) |
+| **Café** | Café ($2), agua ($2) |
+| **Aperitivos** | Barrita Twerks ($2), chocolatina Snikkel ($2), bocadillo ($4), agua ($2) |
+
+Todo se toma desde el **inventario**: las bebidas quitan sed y la comida, hambre.
 
 ## Ajustes del menú
 

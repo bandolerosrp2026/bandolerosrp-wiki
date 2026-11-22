@@ -74,7 +74,8 @@ Sin candado, cualquiera que esté al lado puede abrirlo, como en la vida real.
 | Hoguera encendida | **Calentarse junto al fuego** o **Sentarse junto al fuego** | Baja el estrés y recuperas vida |
 
 Si descansas con una hoguera encendida cerca, baja todavía más el estrés. Para levantarte, pulsa la tecla
-**Camping: levantarse o dejar lo que haces** (**X** por defecto).
+**Levantarse (sillas, bancos, sofás, camping) o dejar lo que haces** (**X** por defecto). Con la misma tecla te
+levantas de cualquier silla o banco de la ciudad ([Interactuar](../primeros-pasos/interactuar.md)).
 
 ## Hoguera, leña y cocina
 
@@ -98,7 +99,7 @@ Se cambian en **Ajustes → Asignación de teclas → FiveM**:
 
 | Acción | Tecla por defecto |
 |---|---|
-| Camping: levantarse o dejar lo que haces | **X** |
+| Levantarse (sillas, bancos, sofás, camping) o dejar lo que haces | **X** |
 | Camping: ver mis objetos de camping | Sin tecla (pónsela tú) |
 
 ## Comandos

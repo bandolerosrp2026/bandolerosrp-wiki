@@ -1,5 +1,7 @@
 # Gasolineras y reparto de combustible
 
+> **En el mapa** solo ves las gasolineras **cercanas** (a unos 500 metros); al moverte van apareciendo.
+
 ## Tener una gasolinera
 
 Algunas gasolineras están **a la venta**. Se compran en la **oficina** de la gasolinera (o desde el surtidor si

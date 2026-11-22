@@ -5,8 +5,9 @@ préstamos.
 
 ## Dónde está
 
-Hay **8 sucursales** con banquero, marcadas en el mapa: **Pacific Standard**, las **6 Fleeca** y la de **Blaine
-County**. Apunta al banquero con **Alt** y elige **«Gestionar mis cuentas»**.
+Hay **8 sucursales** con banquero: **Pacific Standard**, las **6 Fleeca** y la de **Blaine County**. En el mapa
+solo ves las que tienes **cerca** (a unos 500 metros). Apunta al banquero con **Alt** y elige **«Gestionar mis
+cuentas»**.
 
 No todas las sucursales hacen lo mismo: los **préstamos** solo se piden en **Pacific Standard** y **Blaine County**.
 

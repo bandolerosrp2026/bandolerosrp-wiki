@@ -17,9 +17,9 @@ número de plazas.
 
 ## Garajes en el mapa
 
-Para no llenar el mapa, solo ves los garajes **cercanos** (a algo más de un kilómetro) y, además, siempre el
-**más cercano** de cada clase, aunque esté lejos: garaje público, embarcadero, hangar / helipuerto y depósito. Al
-moverte por la ciudad van apareciendo los que tienes cerca. En la leyenda del mapa salen agrupados por clase.
+Para no llenar el mapa, solo ves los garajes **cercanos** (a unos 500 metros). Al moverte por la ciudad van
+apareciendo los que tienes cerca. En la leyenda del mapa salen agrupados por clase (garaje público, embarcadero,
+hangar / helipuerto, depósito…). Lo mismo pasa con las gasolineras.
 
 ## Guardar un vehículo
 

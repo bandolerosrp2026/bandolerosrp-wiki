@@ -2,7 +2,7 @@
 
 ## Barberías
 
-Hay **7 barberías** en la ciudad. Apunta al barbero con **Alt** y podrás cambiar:
+Hay **7 barberías** en la ciudad (en el mapa solo ves las que tienes a unos 500 metros). Apunta al barbero con **Alt** y podrás cambiar:
 
 - Peinado y color del pelo (con mechas).
 - Barba y vello facial.

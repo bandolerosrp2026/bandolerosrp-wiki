@@ -69,7 +69,6 @@ palabra («gasolina», «carnet», «multa», «tatuaje»…) y te sale la pági
 | Quiero… | Mira |
 |---|---|
 | Saber qué pasa en la calle, el tiempo y los fenómenos | [La ciudad está viva](primeros-pasos/ciudad-viva.md) |
-| Ir a la plaza del centro o subir a la torre | [Legion Square](primeros-pasos/legion-square.md) |
 | Tomar algo en un bar de azotea | [La Flavia](primeros-pasos/la-flavia.md) |
 | Ir a la piscina o a los toboganes | [Parque acuático](primeros-pasos/parque-acuatico.md) |
 | Jugar una partida con amigos | [Paintball](primeros-pasos/paintball.md) |

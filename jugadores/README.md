@@ -45,7 +45,7 @@ connect 134.255.219.130:30130
 |---|---|
 | **Empieza aquí** | Tu primer día, crear el personaje y las teclas |
 | **Lo básico** | HUD y menús, interactuar (Alt), inventario, chat, voz, puertas y qué pasa si te hieren |
-| **La ciudad** | Lo que pasa en la calle (sucesos, tiempo, fenómenos) y los sitios: Legion Square, La Flavia, parque acuático, paintball y Cayo Perico |
+| **La ciudad** | Lo que pasa en la calle (sucesos, tiempo, fenómenos) y los sitios: La Flavia, parque acuático, paintball y Cayo Perico |
 | **Trabajos y actividades** | [Tabla con todos](trabajos/README.md): policía, EMS, mecánico, concesionario, negocios, y caza, pesca, cocina y camping para todo el mundo |
 | **Dinero** | Banco, tarjetas y cajeros, ahorro y préstamos, facturas y la cuenta de empresa |
 | **Vehículos** | Carnet, comprar, llaves, garajes, gasolina, taller y depósito |

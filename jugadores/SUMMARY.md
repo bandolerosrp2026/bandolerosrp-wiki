@@ -22,7 +22,6 @@
 ## La ciudad
 
 * [La ciudad está viva](primeros-pasos/ciudad-viva.md)
-* [Legion Square](primeros-pasos/legion-square.md)
 * [La Flavia: bar de azotea y hotel](primeros-pasos/la-flavia.md)
 * [Parque acuático de Vespucci](primeros-pasos/parque-acuatico.md)
 * [Paintball](primeros-pasos/paintball.md)

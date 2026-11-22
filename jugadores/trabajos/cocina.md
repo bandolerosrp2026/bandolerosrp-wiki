@@ -6,7 +6,7 @@ una paella o un mojito. Todo lo que se vende se puede comer, beber o usar en alg
 
 ## Tiendas de cocina
 
-Busca en el mapa el icono de **Tienda de cocina**. Hay en Strawberry, Grove Street, Little Seoul, Mirror Park,
+Busca en el mapa el icono de **Tienda de cocina** (solo aparece cuando estás cerca, a menos de 500 m). Hay en Strawberry, Grove Street, Little Seoul, Mirror Park,
 Richman Glen, Grand Señora y Paleto Bay. Apunta al dependiente con **Alt**:
 
 - **Comprar en la tienda de cocina**: equipamiento, utensilios, carne y pescado, frutería, despensa, lácteos y

@@ -35,7 +35,7 @@ ordenador y vale para siempre.
 |---|---|
 | **Control izquierdo** | Agacharse o levantarse (a pie) |
 | **B** | Señalar con el dedo hacia donde miras (otra vez para dejarlo) |
-| **X** | Levantar o bajar las manos. Si estás en el suelo, señalando, cargando a alguien o te llevan a hombros, la X lo cancela primero |
+| **X** | Levantar o bajar las manos. Si estás en el suelo, señalando, cargando a alguien o te llevan a hombros, la X lo cancela primero. Si estás pescando, entrenando, sentado en el camping, con una barra de progreso, con la camilla/silla/muletas o a caballo, la X es de eso y no levanta las manos |
 | *(sin tecla)* | Tirarse al suelo / levantarse: lo mismo que `/suelo` («Tirarse al suelo…») |
 | *(sin tecla)* | Cargar a hombros a quien tengas al lado o soltarlo: lo mismo que `/cargar` («Cargar a hombros…») |
 
@@ -47,6 +47,7 @@ ordenador y vale para siempre.
 | **L** | Modo del chat: automático → siempre visible → oculto |
 | **N** | Hablar (pulsar para hablar, según tus ajustes de voz de GTA) |
 | **º** (a la izquierda del 1) | Cambiar el alcance de la voz: Susurrar → Normal → Gritar |
+| **Bloq Mayús** (mantener) | Hablar por la radio (con la radio encendida y en un canal). Antes era Alt, que es del menú de interacción |
 
 ## Vehículos
 

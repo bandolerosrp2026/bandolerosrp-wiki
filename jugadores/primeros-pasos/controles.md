@@ -52,6 +52,7 @@ ordenador y vale para siempre.
 
 | Tecla | Qué hace |
 |---|---|
+| **O** | Ponerte o quitarte el **cinturón** (mira [Cinturón de seguridad](../vehiculos/cinturon.md)) |
 | **U** | Abrir o cerrar el vehículo con llave más cercano |
 | **G** | Al volante: encender o apagar el motor. A pie: arrancar tu coche a distancia. En aviones y helicópteros solo apaga el motor parado en tierra (en el aire la G es el tren de aterrizaje) |
 | **S** | También arranca el motor (igual que acelerar) |

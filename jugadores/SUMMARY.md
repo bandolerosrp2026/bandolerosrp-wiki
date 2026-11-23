@@ -62,6 +62,7 @@
 * [Autoescuela y carnet de conducir](vehiculos/autoescuela.md)
 * [Concesionarios: comprar un vehículo](vehiculos/concesionarios.md)
 * [Llaves y cerraduras](vehiculos/llaves.md)
+* [Cinturón de seguridad](vehiculos/cinturon.md)
 * [Garajes](vehiculos/garajes.md)
 * [Combustible y gasolineras](vehiculos/combustible.md)
 * [Llevar el coche al taller](vehiculos/taller-cliente.md)

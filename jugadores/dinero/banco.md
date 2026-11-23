@@ -43,6 +43,16 @@ No todas las sucursales hacen lo mismo: los **préstamos** solo se piden en **Pa
 - Puedes poner un **concepto** y guardar **contactos** (hasta 20).
 - Llegan aunque la otra persona esté desconectada.
 
+## Números rojos (descubierto)
+
+- Con la tarjeta y en las tiendas solo puedes gastar **lo que tienes**: no se compra en negativo.
+- Algunos cobros automáticos (por ejemplo, el **IBI** de una casa alquilada o una sanción) sí pueden dejarte la
+  cuenta corriente en negativo, pero **nunca por debajo de -1.000 $**. Si un cobro te bajaría de ahí, no se hace.
+- Mientras estés en negativo, el banco te cobra **intereses de descubierto**: **0,65 % de lo que debes cada 12 horas**
+  (lo que cobraría un banco español al mes, con el máximo legal del 8,125 % TAE al año). Mínimo 1 $, y nunca te
+  llevan por debajo de -1.000 $. Te llega un aviso y sale en **Movimientos**.
+- Para salir de números rojos, ingresa dinero o espera a la nómina: lo primero que entra tapa el agujero.
+
 ## Ingresar y retirar efectivo
 
 En el banquero o en cualquier [cajero](tarjetas-y-cajeros.md) con tu tarjeta.

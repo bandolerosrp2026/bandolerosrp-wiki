@@ -17,6 +17,9 @@ Si tu vehículo ha sido retirado por la policía o la administración, o no se e
 La tarifa sube según el tipo de vehículo (por ejemplo, motos 100 $, camiones 350 $, helicópteros 1.200 $,
 aviones 2.000 $, barcos 600 $).
 
+Los **vehículos de servicio** (patrullas de la LSPD, el Sheriff y la Patrulla Estatal, ambulancias y vehículos del EMS,
+bomberos) no pagan tarifa.
+
 Los vehículos **no localizados** (desaparecidos tras un reinicio o un accidente) se recuperan por **60 $**.
 
 ## Recuperar tu vehículo

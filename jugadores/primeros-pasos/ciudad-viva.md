@@ -63,9 +63,9 @@ mitad del centro.
 
 | Dónde | Qué verás |
 |---|---|
-| **Ciudad** | Muchos gatos callejeros, perros sueltos y perros paseando con su dueño (pastor, rottweiler, husky, dálmata, chowchow, carlino…), palomas, cuervos, halcones de día, búhos de noche y ratas en callejones e industrias |
-| **Barrios y playa** | Gatos y perros de los vecinos, halcones y búhos, gaviotas y cormoranes en la costa y el puerto, y algún **loro** escapado en las zonas ricas |
-| **Campo y granjas** | Vacas, cerdos, gallinas, **burros** y perros de granja. En la orilla del **mar de Alamo**, algún **cocodrilo** |
+| **Ciudad** | Muchos gatos callejeros, perros sueltos y perros paseando con su dueño (pastor, rottweiler, husky, dálmata, chowchow, carlino…), palomas, cuervos, halcones de día, búhos de noche y ratas en callejones e industrias. De día, algún **loro** escapado por Vinewood y Vespucci |
+| **Barrios y playa** | Gatos y perros de los vecinos, halcones y búhos, gaviotas y cormoranes en la costa y el puerto, y **loros** escapados en las zonas ricas y en la playa de Vespucci |
+| **Campo y granjas** | Vacas, cerdos, gallinas, **burros** y perros de granja. En las fincas de **Grapeseed**, alguna **cebra** escapada. En la orilla del **mar de Alamo**, **cocodrilos** |
 | **Montes y bosques** | Ciervos, conejos, coyotes, jabalíes, aves rapaces y, en las colinas de Vinewood, algún **loro** (y, de noche, rarísima vez, un **leopardo** escapado). En el **pantano de Zancudo**, **cocodrilos** |
 | **Desierto** | Coyotes, conejos y armadillos. A veces **cebras** escapadas de fincas exóticas y, de noche y muy rara vez, un **león** |
 | **Cayo Perico** | Manadas de **cebras** sueltas por la isla, loros, gaviotas, halcones, y **leones** y **leopardos** de la colección de El Rubio. De noche, muy rara vez, una **pantera** |

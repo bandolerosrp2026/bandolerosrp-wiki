@@ -7,6 +7,22 @@ description: Policía (LSPD, Sheriff y FIB): servicio, equipo, detenciones, mult
 La policía de BandolerosRP tiene varios departamentos (LSPD, Sheriff del condado de Blaine y FIB). Todo se hace
 **de servicio** (ficha en la comisaría) y lo que puede hacer cada agente depende de su **rango**.
 
+## En la comisaría
+
+Apunta (ojo de interacción) a cada punto de tu comisaría:
+
+| Punto | Para qué sirve |
+| --- | --- |
+| **Fichar** | Entrar o salir de servicio. Funciona también fuera de servicio. |
+| **Armería** | Dejar armas, munición y accesorios. Con **Coger equipo** te llevas gratis el material de tu rango. |
+| **Almacén** | Almacén del departamento (en algunas comisarías, uno para cada agente). |
+| **Tienda** | Material con precio y rango mínimo. |
+| **Caja fuerte** | Solo dinero del departamento. |
+| **Gestión** | Para el jefe: contratar, rangos, sueldos y cuenta del departamento. |
+
+Salvo Fichar, todos piden estar **de servicio** y tener el **rango** que haya puesto el departamento. Si no puedes usar
+uno, al apuntarle te sale **«¿Por qué no puedo usarlo?»** con lo que te falta.
+
 {% hint style="info" %}
 Para entrar en la policía, habla con un mando del departamento. Contratar, ascender y despedir lo hace el jefe desde
 la tableta (botón **Plantilla**).

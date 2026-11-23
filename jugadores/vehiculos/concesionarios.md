@@ -7,6 +7,19 @@ description: Comprar coches, motos, barcos y aeronaves: catálogo, prueba, finan
 Los coches, motos, barcos y aeronaves nuevos se compran en los concesionarios. Los encuentras en el mapa con el
 icono de **Concesionario**.
 
+## Concesionario Vanilla (coches, motos y bicis)
+
+En la sala de exposición de **Premium Deluxe Motorsport** (Pillbox Hill, frente a la autopista), con Simeon de
+vendedor. Vende **todos los coches, motos y bicis de serie de GTA**: compactos, berlinas, cupés, SUV,
+todoterrenos, muscle, deportivos, clásicos, superdeportivos, motos, bicis, furgonetas y monoplazas, más de 500
+modelos. Aquí no hay vehículos añadidos de fuera.
+
+- **Precios de un vehículo nuevo en España:** bicis de 300 a 6.000 $, motos de 2.500 a 40.500 $, utilitarios
+  desde 12.000 $, berlinas de 18.000 a 75.000 $, SUV de 26.000 a 130.000 $ y superdeportivos de 180.000 $ a 3 M.
+- **Banco, efectivo o financiación**, y **prueba de conducción** de 5 minutos desde el aparcamiento de al lado.
+- El coche que compras sale en el aparcamiento lateral (si está ocupado, va al garaje).
+- No se venden los vehículos con armas, los de las arenas, los de ciencia ficción ni los **blindados**.
+
 ## Barcos, aeronaves, camiones y maquinaria
 
 Además de los de coches y motos, hay cinco concesionarios especiales. Todos admiten **banco, efectivo y

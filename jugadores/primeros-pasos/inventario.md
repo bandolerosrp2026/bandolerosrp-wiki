@@ -10,6 +10,15 @@ description: Inventario y barra rápida (1-5): usar, dar, tirar y guardar objeto
 - **K**: el inventario secundario cercano (guantera si vas dentro de un vehículo, maletero si estás detrás de él).
 - Los almacenes, maleteros y tiendas también se abren desde el [menú de interacción](interactuar.md).
 
+## Lo que te encuentras en los coches de la calle
+
+La **guantera** y el **maletero** de los coches de los vecinos (los que circulan o están aparcados por la ciudad) no
+siempre están vacíos: puede haber **de nada a tres cosas** de las que la gente se deja en el coche. Basura, una bolsa
+de papel, chatarra, una botella de agua o un refresco, un café, alguna chocolatina, un mechero, una nota adhesiva,
+una venda, unos preservativos, algún tanga olvidado… y **calderilla** (1-10 $; muy de vez en cuando, un billete de
+20-50 $). **Nunca hay armas.** Los coches de los jugadores, de los trabajos, de alquiler y de la autoescuela no traen
+nada. Coger lo que no es tuyo de un coche ajeno es delito si te pillan.
+
 ## Lo básico
 
 - Tienes **80 casillas** y un peso máximo de **200 kg**. Cada objeto pesa.

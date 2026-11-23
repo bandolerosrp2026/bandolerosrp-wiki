@@ -36,6 +36,10 @@ dos accidentes nunca acaban igual.
 Todos los jugadores que estén cerca ven **la misma escena**: si estáis cinco mirando el mismo accidente, es el
 mismo accidente para todos.
 
+Nada de esto **aparece de golpe delante de ti**: las obras, las ambulancias y la policía se montan a 150-260 m y los
+accidentes a 80-170 m, siempre donde no se ven (tapados por edificios o fuera de cámara); si vas rápido en coche, aún
+más lejos, para que al llegar ya esté todo puesto.
+
 ## Si te metes en medio
 
 Puedes rolear con lo que veas: pararte, mirar, ayudar al herido, llamar a quien haga falta… Pero si **apuntas con

@@ -61,8 +61,10 @@ apuntando con **Alt** (ox_target) a la persona o al vehículo.
   maletero y guantera, cepo (se ve puesto en la rueda y el vehículo no puede arrancar hasta que se quite) y llevar
   al depósito. En los coches de la policía, **Pegatinas y extras**.
 - **Objetos:** conos, vallas y bandas de pinchos.
-- **Unidad:** perro K9 (seguir, sentado, quieto, subir al coche, buscar en personas o vehículos, atacar), radar del
-  vehículo, cámara del helicóptero y **luces y sirenas**.
+- **Unidad:** perro K9, un **malinois** (seguir, sentado, quieto, subir al coche, buscar en personas o vehículos y
+  atacar). Marca cualquier droga de la ciudad (también semillas, plantas y ladrillos) y las armas. Para que ataque o
+  busque, apunta con el ojo a la persona o al vehículo («K9: atacar», «K9: buscar…»). Además: radar del vehículo,
+  cámara del helicóptero y **luces y sirenas**.
 - **Herramientas:** tableta, botón de pánico, cámara corporal, megáfono y facturas.
 
 ## Vehículos de servicio

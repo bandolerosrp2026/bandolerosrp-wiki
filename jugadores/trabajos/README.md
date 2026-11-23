@@ -12,7 +12,7 @@ lee antes [Cómo funcionan los trabajos](trabajos.md): contratos, servicio (**F6
 
 | Trabajo | Qué haces | Página |
 |---|---|---|
-| **Policía** | LSPD, Sheriff del condado de Blaine y FIB: patrullas, detenciones y multas | [Policía](policia.md) |
+| **Policía** | LSPD, Sheriff del condado de Blaine, Patrulla Estatal y FIB: patrullas, detenciones y multas | [Policía](policia.md) |
 | **EMS** | Atender heridos en la calle y en el hospital, reanimar y trasladar en ambulancia | [EMS](ems.md) |
 | **Mecánico** | Reparar vehículos pieza a pieza en el taller y montar mejoras | [Mecánico](mecanico.md) |
 | **Vendedor de concesionario** | Enseñar, probar y vender vehículos para la empresa | [Concesionario](concesionario.md) |

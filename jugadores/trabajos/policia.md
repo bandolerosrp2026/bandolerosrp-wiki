@@ -1,10 +1,11 @@
 ---
-description: Policía (LSPD, Sheriff y FIB): servicio, equipo, detenciones, multas, vehículos y comisarías.
+description: Policía (LSPD, Sheriff, Patrulla Estatal y FIB): servicio, equipo, detenciones, multas, vehículos y comisarías.
 ---
 
 # Policía
 
-La policía de BandolerosRP tiene varios departamentos (LSPD, Sheriff del condado de Blaine y FIB). Todo se hace
+La policía de BandolerosRP tiene varios departamentos (LSPD, Sheriff del condado de Blaine, Patrulla Estatal de
+San Andreas y FIB). Todo se hace
 **de servicio** (ficha en la comisaría) y lo que puede hacer cada agente depende de su **rango**.
 
 ## En la comisaría
@@ -138,7 +139,8 @@ El **botón de pánico** y la **radio** no tienen tecla por defecto: puedes pon�
 ## Radio
 
 La **radio** del inventario abre el walkie. Las frecuencias 1 a 7 son de la policía (centrales y tácticas de cada
-departamento y canales conjuntos, el 7 también con emergencias); el resto son públicas.
+departamento y canales conjuntos, el 7 también con emergencias); el resto son públicas. LSPD: 1 y 2 · Sheriff: 3 y 4 ·
+FIB: 5 · conjunto policial (todos los cuerpos, también la Patrulla Estatal): 6 · con emergencias: 7.
 
 ## Multas y prisión
 

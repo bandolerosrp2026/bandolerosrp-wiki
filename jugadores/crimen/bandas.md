@@ -5,8 +5,8 @@ description: Bandas: rangos, sede, dinero, territorios, guerras y cómo entrar e
 # Bandas y territorios
 
 Las bandas son grupos criminales con rangos, sede, dinero, territorios y guerras. Entras en una banda cuando su jefe
-(o alguien con permiso) te invita **y tú aceptas**. Solo se puede estar en una banda a la vez, y la policía y el
-sheriff no pueden entrar en ninguna.
+(o alguien con permiso) te invita **y tú aceptas**. Solo se puede estar en una banda a la vez, y la policía (LSPD,
+sheriff y patrulla estatal) no puede entrar en ninguna.
 
 {% hint style="warning" %}
 Las bandas son rol delictivo serio. Respeta las normas del servidor (valorar la vida, no hacer rol de poder, nada de

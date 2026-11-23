@@ -29,6 +29,23 @@ Para entrar en la policía, habla con un mando del departamento. Contratar, asce
 rango al que el jefe se lo permita) desde la tableta, con el botón **Plantilla**, o con [/jefe](menu-de-jefe.md).
 {% endhint %}
 
+### Armería de la comisaría de Mission Row
+
+En la **Armería** (planta baja de Mission Row) los agentes compran el material reglamentario a **1 $** cada cosa.
+Son las armas y el equipo que usan de verdad la Policía Nacional, la Guardia Civil y sus unidades especiales:
+
+| Tipo | Qué hay |
+| --- | --- |
+| Pistolas | HK USP (la de la Policía Nacional), Beretta 92 (Guardia Civil), Glock 17 y Glock 19 |
+| Subfusiles | MP5, MP5SD (con silenciador) y MP7A1 (unidades especiales) |
+| Fusiles | G36C (Guardia Civil y antidisturbios) y HK416D (GEO) |
+| Escopetas | Remington 870, Benelli M1014 y **escopeta no letal** |
+| Precisión | Sako TRG (tirador de los GEO) |
+| No letales y apoyo | Táser, defensa (porra), linterna, granada aturdidora, bote de humo, ariete, extintor, bengala y pistola de bengalas |
+| Munición | 9 mm, fusil, escopeta, francotirador y bengalas |
+| Accesorios | Linterna táctica, empuñadura, miras (holográfica, compacta, media y de largo alcance), silenciador y cargadores ampliados de pistola, subfusil y fusil |
+| Equipo | Chaleco antibalas, esposas, bridas, radio, placa, tableta policial, prismáticos, máscara de gas, alcoholímetro, test de drogas, kit de residuos de disparo, bolsas de pruebas, botiquín, IFAK, vendas, torniquete, kit para reparar las cámaras, paracaídas y equipo de buceo con cargas de aire |
+
 ## Rangos del LSPD
 
 De menor a mayor:

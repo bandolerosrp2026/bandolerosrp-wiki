@@ -14,6 +14,7 @@ facturas, llaves, seguridad, mascotas y mejoras.
 
 * Las viviendas libres tienen la puerta con la opción **«Ver vivienda»** (apunta con **Alt**). En los edificios, el
   portal muestra todos los pisos con un buscador.
+* Algunos edificios salen en el **mapa** con su nombre (los marca la inmobiliaria).
 * La ficha te dice el precio, los metros, el garaje y cuánto pagarás de luz y agua al mes, más o menos.
 * **Visitar**: puedes entrar 2 minutos a verla antes de decidir.
 * La **inmobiliaria** también te puede enseñar casas y hacerte una oferta (a veces con rebaja). Ver [Inmobiliaria](../trabajos/inmobiliaria.md).

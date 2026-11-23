@@ -44,6 +44,19 @@ cerradura forzada. Si estás dentro de una, la tableta se abre en esa.
   almacenes, pagar facturas y hacer pedidos, abrir a visitas o manejar la alarma y las cámaras.
 * El **garaje** de la casa (si tiene) es para ti y para quien tenga llave.
 
+## Ajustar la entrada y la salida a tu puerta
+
+Si al entrar o al salir no apareces justo en la puerta, lo colocas tú (dueño o inquilino) en `/casa` → *Ajustes* →
+**Entrada y salida**. Se guarda donde estás y hacia dónde miras:
+
+* **Entrada (en la calle)**: ponte fuera, delante de la puerta y mirándola, y pulsa «Poner la entrada aquí». Ahí
+  estará «Entrar» y ahí saldrás. Se puede mover hasta 15 m de donde la puso la inmobiliaria y no puede haber nadie
+  dentro mientras la mueves.
+* **Salida (dentro)**: entra, ponte junto a la puerta mirando hacia la casa y pulsa «Poner la salida aquí». Ahí
+  aparecerás al entrar y estará «Salir».
+* Si te equivocas, «Volver a la original» la deja donde estaba. En los pisos el portal es de todos los vecinos: si
+  está mal, avisa a la inmobiliaria.
+
 ## Decorar
 
 * Pestaña **Decorar**: más de **1.250 muebles** por estancias (salón, cocina, dormitorio, baño, jardín, gimnasio,

@@ -127,8 +127,11 @@ En la tienda de camping, en la categoría **Buceo**:
 | Aletas de buceo | 55 $ | Con el equipo puesto nadas mucho más rápido |
 | Linterna de buceo | 60 $ | Alumbra hacia donde miras bajo el agua |
 
-- **Ponértelo o quitártelo:** usa el equipo desde el inventario, en tierra firme o en la cubierta de un barco. Llevas
-  la botella a la espalda y la máscara puesta. El ordenador y las aletas funcionan solos si los llevas encima.
+- **Ponértelo o quitártelo:** usa el equipo desde el inventario, en tierra, en la cubierta de un barco o nadando en la
+  superficie (bajo el agua no). Llevas la botella a la espalda y la máscara puesta. El ordenador y las aletas
+  funcionan solos si los llevas encima: la pantalla del ordenador sale sola en el agua y, si **usas el ordenador**,
+  la abres o la cierras cuando quieras, también fuera del agua (o ponle una tecla: «Buceo: abrir o cerrar la pantalla
+  del ordenador de buceo» en *Ajustes → Asignación de teclas → FiveM*).
 - **Aire:** se gasta como en la realidad, **más cuanto más hondo** (ley de Boyle). Una botella llena da unos
   **40 minutos en la superficie, 20 a 10 m y 10 a 30 m**. El que queda se guarda en el propio equipo (lo ves en su
   descripción). Te avisa cuando te quedan 5 minutos y 1 minuto a esa profundidad. Sin aire te ahogas: sube antes.

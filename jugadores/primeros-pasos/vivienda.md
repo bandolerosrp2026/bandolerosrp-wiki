@@ -4,8 +4,9 @@ description: Comprar, alquilar o hipotecar una casa o un piso, decorarla con má
 
 # Tu casa
 
-En la ciudad puedes **comprar** o **alquilar** casas, pisos de edificios, áticos y mansiones. Todas vienen **vacías**:
-cada uno la amuebla a su gusto. Desde la **tableta de casa** (`/casa`, o la tecla que le pongas en
+En la ciudad puedes **comprar** o **alquilar** casas, pisos de edificios, áticos y mansiones (más de 160 interiores
+distintos: desde una caravana o un contenedor hasta mansiones de Vinewood, además de garajes, oficinas y locales). Casi
+todas vienen **vacías** (algunas habitaciones de hotel ya vienen amuebladas): cada uno la amuebla a su gusto. Desde la **tableta de casa** (`/casa`, o la tecla que le pongas en
 *Ajustes → Asignación de teclas → FiveM → «Abrir la tableta de tu casa»*) lo controlas todo: decorar, pedidos,
 facturas, llaves, seguridad, mascotas y mejoras.
 

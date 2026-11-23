@@ -26,7 +26,8 @@ ordenador y vale para siempre.
 | **ESC** | Menú de pausa (mapa, ajustes, salir) |
 | **P** | Mapa |
 | **F3** | Menú de animaciones (bailes, gestos, compartidas, andares…). Ver [Animaciones](animaciones.md) |
-| **Y** | Aceptar una animación compartida que te proponen |
+| **Y** (mantener) | Rueda de ropa: quitarte o ponerte prendas. Ver [Ropa y armario](../personaje/ropa.md) |
+| **Y** | Aceptar una animación compartida que te proponen (cuando te la proponen) |
 | **G** | Efecto de la animación (humo, flash, confeti…) cuando la animación lo tiene |
 
 ## Personaje

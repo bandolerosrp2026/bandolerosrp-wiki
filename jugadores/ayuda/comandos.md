@@ -39,6 +39,7 @@ para susurrar solo vale `/s`). Usa los de esta lista.
 | `/salirpaintball` | Salir de la sala o abandonar la partida de paintball (te devuelven tus cosas) |
 | `/e nombre` | Hacer una animación (`/e c` la cancela; sin nombre abre el menú F3). También `/emote` ([Animaciones](../primeros-pasos/animaciones.md)) |
 | `/animaciones` | Abrir el menú de animaciones (F3) |
+| `/ropa` | Abrir la rueda de ropa para quitarte o ponerte prendas (también manteniendo **Y**) ([Ropa y armario](../personaje/ropa.md)) |
 | `/compartir nombre` | Proponer una animación compartida a la persona de tu lado (tiene que aceptarla) |
 | `/andar estilo` | Cambiar tu forma de andar (`/andar normal` la quita) |
 | `/animo expresión` | Cambiar la expresión de tu cara (`/animo normal` la quita) |

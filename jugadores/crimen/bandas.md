@@ -48,15 +48,22 @@ Los miembros ven la sede en el mapa.
 
 ## Menú de la banda
 
+Se abre con **Alt** en el punto de jefe de la sede y es el mismo [menú de jefe](../trabajos/menu-de-jefe.md) que usan
+las empresas, en su versión de banda:
+
+- **Resumen**: nivel y experiencia, miembros conectados, la cuenta y la caja de dinero negro, lo último que ha pasado
+  y los datos de la sede.
 - **Miembros**: busca a alguien cerca sin banda y mándale una invitación (tiene que aceptarla). Cambia rangos y
-  expulsa.
-- **Rangos y permisos**: una tabla con cada permiso y cada rango.
+  expulsa. Con buscador y filtro de conectados.
+- **Rangos y permisos**: elige un rango a la izquierda y marca lo que puede hacer. El jefe puede añadir rangos
+  (siempre por debajo del suyo) y quitarlos; si quitas un rango con gente, el menú te dice a qué rango pasarán.
+  Un rango con miembros no cambia de número.
 - **Finanzas**: la **cuenta de la banda** está en Bandoleros Bank (ingresar y retirar en efectivo). Aparte está la
-  **caja de dinero negro** de la banda, donde se guarda el dinero negro.
+  **caja de dinero negro** de la banda, donde se guarda el dinero negro. Los movimientos tienen buscador.
 - **Mejoras** (se pagan con la cuenta de la banda): más huecos y capacidad en el almacén y más plazas en el garaje.
   Algunas piden un nivel mínimo de banda.
-- **Sede**: mueve el almacén al sitio donde estás (siempre dentro de la sede).
-- **Registro**: quién hizo qué.
+- **Sede**: pon o mueve un almacén al sitio donde estás (siempre dentro de la sede).
+- **Registro**: quién hizo qué, con buscador.
 
 ## Niveles y experiencia
 

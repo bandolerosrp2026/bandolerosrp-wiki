@@ -18,6 +18,9 @@ el **menú de jefe**.
 Solo lo abre quien tiene algún permiso de gestión en su empresa. Si diriges varias empresas, eliges cuál arriba a la
 izquierda.
 
+**Bandas:** el menú de la banda es este mismo menú en su versión de banda. Se abre en el punto de jefe de la sede de
+tu banda (**Alt**). Lo que tiene está en [Bandas](../crimen/bandas.md).
+
 ## Qué puedes hacer
 
 Lo que ves depende de los **permisos de tu rango** (ver más abajo).

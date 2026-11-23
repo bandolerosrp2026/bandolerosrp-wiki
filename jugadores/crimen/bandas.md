@@ -123,6 +123,25 @@ En algunos territorios hay un **traficante** que solo trabaja con la banda dueñ
 - Te da **encargos**: te entrega mercancía y tienes unos minutos para llevarla al punto del GPS. Si llegas tarde te
   pagan menos. Si cancelas, devuelves la mercancía (lo que falte, lo pagas) y pierdes reputación.
 
+## Relaciones entre organizaciones
+
+En la tableta, pestaña **Relaciones**, ves cómo está tu banda con cada banda y con la **Mafia Madre**:
+
+| Relación | Qué supone |
+| --- | --- |
+| **Neutral** | Lo normal al empezar. |
+| **Colaboración** | No hay guerras entre vosotros y podéis haceros **ofertas privadas** en el mercado negro. |
+| **Acuerdo** | Igual que la colaboración, pero dura los días que pactéis (de 1 a 30). Al acabar queda colaboración. |
+| **Rivalidad** | Mala sangre: se lo dejáis claro al otro. |
+| **Conflicto** | Enemigos abiertos. |
+
+- **Colaboración, acuerdo y volver a neutral** los propone uno y el otro tiene que **aceptarlo** (la propuesta caduca a
+  las 48 horas si nadie responde).
+- **Rivalidad y conflicto** los declara una sola de las dos partes.
+- **Romper** una colaboración o un acuerdo deja rivalidad (o conflicto) y no podréis cerrar otro trato con esa
+  organización durante **72 horas**.
+- Lo gestiona quien tenga el permiso **«Tratos con otras organizaciones»** (el jefe siempre lo tiene).
+
 ## Tableta criminal
 
 La **tableta criminal** es un objeto del inventario. Úsala para abrir:
@@ -135,8 +154,11 @@ La **tableta criminal** es un objeto del inventario. Úsala para abrir:
   límite diario para **toda la banda**.
 - **Guerras**: guerras activas, solicitudes, declarar y el historial.
 - **Dark Chat**: una sala para todas las bandas. Puedes escribir como **anónimo**.
+- **Relaciones**: tratos y enemistades con las demás organizaciones (ver arriba).
 - **Mercado negro**: compraventa entre bandas pagando con dinero negro. Lo que pones a la venta queda en depósito
-  hasta que se vende o lo retiras; lo que vendes se cobra desde la tableta.
+  hasta que se vende o lo retiras; lo que vendes se cobra desde la tableta. Si tenéis colaboración o acuerdo con otra
+  organización, al vender puedes elegir **«Solo …»**: la oferta solo la ven y la compran ellos. Si el trato se rompe,
+  deja de verse (la puedes retirar desde «Mis anuncios»).
 
 {% hint style="info" %}
 Todas las listas (miembros, misiones, mercado, territorios, chat…) tienen buscador: escribe sin preocuparte de tildes

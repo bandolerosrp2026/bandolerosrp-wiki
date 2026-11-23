@@ -7,6 +7,22 @@ description: Comprar coches, motos, barcos y aeronaves: catálogo, prueba, finan
 Los coches, motos, barcos y aeronaves nuevos se compran en los concesionarios. Los encuentras en el mapa con el
 icono de **Concesionario**.
 
+## Barcos, aeronaves, camiones y maquinaria
+
+Además de los de coches y motos, hay cinco concesionarios especiales. Todos admiten **banco, efectivo y
+financiación** y tienen **prueba**. Los precios son los de un vehículo nuevo de verdad en España.
+
+| Concesionario | Dónde | Qué vende | Precios |
+|---|---|---|---|
+| **Náutica Puerto del Sol** | Puerto deportivo de Puerto del Sol | Motos de agua, semirrígidas, lanchas, veleros y yates | de 12.500 $ (moto de agua) a 3,5 M (remolcador) |
+| **Higgins Helicópteros** | Helipuerto de Higgins Helitours, junto al puerto | Helicópteros ligeros, ejecutivos y de carga | de 450.000 $ a 35 M |
+| **Aviación LSIA** | Aeropuerto de Los Santos | Ultraligeros, avionetas, hidroaviones, acrobáticos y reactores privados | de 60.000 $ (ultraligero) a 62 M (reactor de lujo) |
+| **Camiones La Mesa** | La Mesa | Camiones de reparto, rígidos, volquetes y cabezas tractoras | de 65.000 $ a 165.000 $ |
+| **Maquinaria Pesada del Puerto** | Puerto de Los Santos | Bulldozers, volquetes, carretillas, grúas, tractores, carritos de golf y cortacésped | de 8.000 $ (cortacésped) a 2 M (perforadora) |
+
+Los vehículos militares, armados y de policía no se venden. Para pilotar o llevar un barco necesitas además la
+licencia de la [autoescuela](autoescuela.md) (avión, helicóptero o barco).
+
 ## Ver el catálogo
 
 1. Acércate al vendedor del concesionario y mantén **Alt** → **Ver catálogo**.
@@ -49,7 +65,9 @@ Pulsa **Comprar** y elige cómo pagar:
 avisa antes de cobrarte.
 
 Al confirmar, el coche te espera en la salida del concesionario **con las llaves** y apareces al volante. Si la
-salida está ocupada, lo tienes guardado en el **garaje público de Pillbox Hill**.
+salida está ocupada, te lo guardan en un garaje público y la notificación te dice cuál: los coches en el **parking
+de Pillbox Hill**, los barcos en el **embarcadero de Paleto**, los helicópteros en el **helipuerto Higgins** y los
+aviones en el **hangar del aeropuerto**.
 
 Si algo falla después de cobrarte (por ejemplo, el coche no se puede preparar), **se te devuelve el dinero**
 automáticamente.
@@ -85,7 +103,8 @@ Cuando hay una promoción verás el cartel arriba del catálogo y los precios re
 
 ## Preguntas frecuentes
 
-**Me ha salido «La salida estaba ocupada».** Tu coche está en el garaje público de Pillbox Hill.
+**Me ha salido «La salida estaba ocupada».** Tu vehículo está en el garaje que dice el aviso (los coches, en
+Pillbox Hill; barcos, helicópteros y aviones, en su garaje público).
 
 **¿Puedo devolver un coche?** No. Puedes venderlo o cederlo a otra persona desde el garaje.
 

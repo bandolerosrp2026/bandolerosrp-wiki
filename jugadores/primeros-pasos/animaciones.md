@@ -29,7 +29,7 @@ En el menú principal el buscador busca en **todas** las animaciones.
 | **Favoritos** | Las que marques con **F** |
 | **Recientes** | Las últimas que has hecho |
 | **Bailes** | Discoteca, urbano, latino, breakdance… |
-| **Acciones y gestos** | Saludar, sentarse, apoyarse, tumbarse, brazos cruzados, reacciones… |
+| **Acciones y gestos** | Saludar, sentarse, apoyarse, tumbarse, brazos cruzados, reacciones, esconderse (tras un coche, una farola…: busca «esconder» o `/e hide1` … `/e hide13`)… |
 | **Con objetos** | Bebidas, comida, móvil, cámara de fotos, carteles, instrumentos, paraguas… |
 | **Poses y extra** | Poses para fotos, de pareja, sentadas y muchas más |
 | **Compartidas** | Con la persona de tu lado: abrazos, besos, saludos, bailes en pareja… |

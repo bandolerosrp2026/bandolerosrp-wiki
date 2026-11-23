@@ -120,6 +120,31 @@ Lo que cazas y pescas también se cocina:
 | Freidora | — | Pescado de río frito, cazón (tiburón) en adobo |
 | Mesa | — | Ceviche, tartar de atún |
 
+### Platos caseros y para llevar
+
+| Estación | Platos |
+|---|---|
+| Fogones | Chuletas de cerdo en salsa (con sartén), rabo de toro (con olla; el rabo crudo se compra en la tienda de cocina) |
+| Freidora | Gambas fritas con guarnición, alitas fritas con guarnición |
+
+**Para llevar:** en la **mesa de preparación** puedes meter en un **envase para llevar** (tienda de cocina, 1 €) el
+salmón al horno, las costillas barbacoa, el pescado de río frito, las gambas fritas, las alitas fritas, las chuletas
+en salsa y el rabo de toro. Alimentan lo mismo y se comen del envase con tenedor (las costillas, con la mano).
+
+### Snacks y bebidas envasadas
+
+En las tiendas de cocina también hay cosas para tomar sin cocinar, y al usarlas se ven en la mano:
+
+| Sección | Productos |
+|---|---|
+| Despensa | Bolsa de patatas fritas, nachos de queso, gusanitos de queso, galletas con chocolate o de mantequilla, pastelito de chocolate, chocolatina, gominolas y fideos instantáneos |
+| Lácteos | Conos de helado de vainilla y de chocolate |
+| Bebidas | Refrescos de naranja, fresa, piña y multifrutas, isotónicas de naranja y multifrutas, bebida energética y zumos en brik de naranja, manzana y tropical |
+
+- Los **fideos instantáneos** secos apenas alimentan: en los **fogones**, con un agua, salen **fideos preparados**.
+- En el **carrito de bebidas** puedes preparar **frappés** de café, caramelo y chocolate (leche, hielo y lo de cada uno).
+- La **bebida energética** te da un rato de energía, como el café.
+
 Donde pone «de caza» vale cualquier carne de caza (ciervo, jabalí, conejo, ave, coyote u oso).
 
 ## El recetario sin cocinar

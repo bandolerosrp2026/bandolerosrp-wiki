@@ -18,10 +18,12 @@ toses, te mareas, te cansas antes al correr y tienes **menos vida máxima** mien
 | **Gastroenteritis** | Verano | Poco | Vómitos, diarrea; te da mucha sed y hambre |
 | **Lumbalgia** | Si tienes poca **fuerza** | No | Pinchazos en la espalda, menos aguante |
 | **Hipertensión** | Si tienes poca **resistencia** | No | Dolor de cabeza, mareos |
+| **Enfermedad descompresiva** | Solo buceando: subir demasiado rápido desde hondo o saltarse la parada de seguridad ([Camping → Buceo](../trabajos/camping.md)) | No | Dolor en las articulaciones, mareos, mucho cansancio; se pasa en unas horas (el ibuprofeno ayuda) |
 
 {% hint style="info" %}
 **Entrenar te protege.** Cuanta más forma física tengas en el [gimnasio](../trabajos/gimnasio.md), menos enfermas.
-Si no entrenas, la forma baja y enfermas más a menudo.
+Si no entrenas, la forma baja rápido y enfermas **mucho más a menudo**: con muy poca forma, casi el triple que alguien
+en buena forma, y con la forma al máximo, la mitad.
 {% endhint %}
 
 ## Contagio y mascarilla

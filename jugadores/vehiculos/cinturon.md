@@ -1,16 +1,21 @@
 ---
-description: Ponerte el cinturón con la O, el aviso que pita y qué pasa si chocas sin él.
+description: Ponerte el cinturón con el ojito, la O o /cinturon, el aviso que pita y qué pasa si chocas sin él.
 ---
 
 # Cinturón de seguridad
 
 En coches, furgonetas y camiones hay cinturón. En motos, bicis, barcos, helicópteros y aviones no.
 
+- **Con el ojito**: montado en el coche, apunta a tu propio vehículo y elige **Ponerse el cinturón** (o **Quitarse el
+  cinturón**).
 - **O**: ponerte o quitarte el cinturón (se oye el clic). Se puede cambiar en Ajustes → Asignación de teclas → FiveM
   → «Ponerse o quitarse el cinturón».
+- **`/cinturon`**: lo mismo con un comando. Si quieres, ponlo en la tecla que prefieras desde la consola F8, por ejemplo
+  `bind keyboard B cinturon`.
 - Al subirte con el motor encendido sin cinturón suena el **aviso** («ding»), y si arrancas pita seguido a partir de
   20 km/h, como un coche de verdad (a los 90 segundos se calla hasta que pares).
-- Al bajarte se quita solo.
+- Con el cinturón puesto **no puedes bajarte**: quítatelo antes. Solo si el coche se hunde en el agua o está ardiendo,
+  al pulsar para salir te lo sueltas de golpe y sales.
 - El icono del cinturón sale en el marcador del vehículo (HUD).
 
 {% hint style="danger" %}

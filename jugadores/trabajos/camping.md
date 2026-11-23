@@ -81,6 +81,24 @@ Si descansas con una hoguera encendida cerca, baja todavía más el estrés. Par
 **Levantarse (sillas, bancos, sofás, camping) o dejar lo que haces** (**X** por defecto). Con la misma tecla te
 levantas de cualquier silla o banco de la ciudad ([Interactuar](../primeros-pasos/interactuar.md)).
 
+### Dentro de la tienda de campaña
+
+Al **Entrar a dormir** la pantalla funde a negro y apareces **tumbado dentro de la tienda**, con una cámara que la
+enseña por dentro. Con **V** (tecla «Camping: cambiar la vista dentro de la tienda de campaña») pasas a verla desde
+fuera y vuelves. Con **X** sales por donde entraste.
+
+| Tienda | Caben tumbados a la vez |
+|---|---|
+| Tienda de lona | 1 |
+| Tienda iglú y tienda canadiense | 2 |
+| Tienda familiar | 3 |
+
+### Alrededor de la hoguera
+
+Alrededor de cada hoguera hay **8 sitios**. Al elegir **Calentarse** o **Sentarse junto al fuego** te pones en el
+sitio libre más cercano al lado desde el que llegas, mirando al fuego. Así caben varios amigos a la vez sin ponerse uno
+encima de otro. Si están todos ocupados, te avisa.
+
 ## Hoguera, leña y cocina
 
 - La hoguera es el **Kit de hoguera** (se vende en la tienda de camping y en la tienda de la caza). Úsalo desde el
@@ -99,14 +117,31 @@ levantarse (**X** por defecto).
 
 ## Buceo
 
-En la tienda de camping también hay **equipo de buceo** (650 $) y **cargas de aire** (8 $).
+En la tienda de camping, en la categoría **Buceo**:
+
+| Material | Precio | Para qué |
+|---|---|---|
+| Equipo de buceo | 650 $ | Botella, regulador y máscara: respiras bajo el agua mientras quede aire |
+| Carga de aire | 8 $ | Llena la botella |
+| Ordenador de buceo | 280 $ | Pantalla con profundidad, máximo, tiempo, aire, velocidad de subida y parada de seguridad |
+| Aletas de buceo | 55 $ | Con el equipo puesto nadas mucho más rápido |
+| Linterna de buceo | 60 $ | Alumbra hacia donde miras bajo el agua |
 
 - **Ponértelo o quitártelo:** usa el equipo desde el inventario, en tierra firme o en la cubierta de un barco. Llevas
-  la botella a la espalda y la máscara puesta.
-- **Aire:** una botella llena da unos **20 minutos bajo el agua**. Solo se gasta buceando, y el que queda se guarda en
-  el propio equipo (lo ves en su descripción). Te avisa cuando quedan 5 minutos y 1 minuto. Sin aire te ahogas como
-  sin equipo: sube antes.
+  la botella a la espalda y la máscara puesta. El ordenador y las aletas funcionan solos si los llevas encima.
+- **Aire:** se gasta como en la realidad, **más cuanto más hondo** (ley de Boyle). Una botella llena da unos
+  **40 minutos en la superficie, 20 a 10 m y 10 a 30 m**. El que queda se guarda en el propio equipo (lo ves en su
+  descripción). Te avisa cuando te quedan 5 minutos y 1 minuto a esa profundidad. Sin aire te ahogas: sube antes.
 - **Cargar la botella:** usa una **carga de aire** fuera del agua.
+- **Linterna:** úsala desde el inventario para encenderla o apagarla (o ponle una tecla: «Buceo: encender o apagar la
+  linterna de buceo»). Solo alumbra bajo el agua y con el equipo puesto.
+
+{% hint style="warning" %}
+**Sube despacio.** Si bajas de 15 m y subes a más de **18 m por minuto** durante unos segundos, al salir puedes tener
+la **enfermedad descompresiva** (dolor de articulaciones, mareos, cansancio; se pasa en unas horas y el EMS te puede
+ayudar). Si bajas de 18 m, haz la **parada de seguridad**: 3 minutos entre 3 y 6 m antes de salir. El ordenador te
+avisa de todo. A partir de **40 m** te avisa de la narcosis: no bajes más.
+{% endhint %}
 
 ## Teclas
 
@@ -115,7 +150,9 @@ Se cambian en **Ajustes → Asignación de teclas → FiveM**:
 | Acción | Tecla por defecto |
 |---|---|
 | Levantarse (sillas, bancos, sofás, camping) o dejar lo que haces | **X** |
+| Camping: cambiar la vista dentro de la tienda de campaña | **V** |
 | Camping: ver mis objetos de camping | Sin tecla (pónsela tú) |
+| Buceo: encender o apagar la linterna de buceo | Sin tecla (pónsela tú) |
 
 ## Comandos
 

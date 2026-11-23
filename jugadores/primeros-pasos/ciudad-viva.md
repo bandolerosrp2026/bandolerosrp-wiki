@@ -114,9 +114,11 @@ de la misma forma**, y siempre llega un aviso de **Protección Civil**:
 
 - **Terremoto**: tiembla todo durante unos segundos, más cuanto más cerca estás del epicentro. Si es fuerte y vas a pie,
   puedes caerte al suelo; los coches aparcados botan y les salta la alarma, y la gente de la calle se cae. Al terminar se avisa de la magnitud y de dónde fue el epicentro. Si conduces, para.
-- **Tsunami**: primero llega una **alerta de un minuto**. Después el viento sopla fuerte, las olas crecen y **el mar
-  sube en la costa** (playas, puerto, canales) durante dos o tres minutos, y luego vuelve a su nivel. Sal del agua y
-  busca un sitio alto en cuanto oigas la alerta.
+- **Tsunami**: primero llega una **alerta de minuto y medio** y el viento va subiendo. Poco antes de llegar **el mar se
+  retira de la orilla**: es la señal de que viene. Después **el mar sube varios metros** en la costa (playas, puerto,
+  canales) y llegan **olas aún más altas cada poco**: cada ola **tumba y arrastra** a quien esté en el agua (y empuja
+  los coches que estén dentro), y cerca del agua tiembla todo. Dura de tres a cinco minutos y luego el mar vuelve a su
+  nivel. En cuanto oigas la alerta, sal del agua y busca un sitio alto.
 - **Tornado**: puede formarse en el campo, el desierto o la propia ciudad (puerto, Vespucci, Mirror Park…) y avanza despacio. Sale marcado en el mapa en rojo mientras dura.
   Cerca de él el viento es muy fuerte y, si te pilla, **te levanta del suelo** a ti, a los coches y a la gente. Dentro
   de un edificio estás a salvo. Dura unos minutos y se deshace solo.

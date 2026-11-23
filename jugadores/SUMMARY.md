@@ -20,6 +20,7 @@
 * [Puertas y cerraduras](primeros-pasos/puertas.md)
 * [Tu casa: comprar, alquilar y decorar](primeros-pasos/vivienda.md)
 * [Heridas, muerte y hospital](primeros-pasos/muerte.md)
+* [Salud y enfermedades](primeros-pasos/salud.md)
 
 ## La ciudad
 

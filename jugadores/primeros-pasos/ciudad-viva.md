@@ -69,7 +69,7 @@ mitad del centro.
 | **Montes y bosques** | Ciervos, conejos, coyotes, jabalíes, aves rapaces y, en las colinas de Vinewood, algún **loro** (y, de noche, rarísima vez, un **leopardo** escapado). En el **pantano de Zancudo**, **cocodrilos** |
 | **Desierto** | Coyotes, conejos y armadillos. A veces **cebras** escapadas de fincas exóticas y, de noche y muy rara vez, un **león** |
 | **Cayo Perico** | Manadas de **cebras** sueltas por la isla, loros, gaviotas, halcones, y **leones** y **leopardos** de la colección de El Rubio. De noche, muy rara vez, una **pantera** |
-| **Mar y lagos** | Peces y, en mar abierto, delfines, rayas, tiburones martillo, **tiburones tigre** y **grandes tiburones blancos** (solo en aguas muy hondas, lejos de las playas) y hasta ballenas y orcas |
+| **Mar y lagos** | Peces y, en mar abierto, delfines, rayas, tiburones martillo, **tiburones tigre** y **grandes tiburones blancos** (solo en aguas muy hondas, lejos de las playas) y hasta ballenas y orcas. En las aguas de **Cayo Perico** y frente a **Paleto** hay mucha más vida: delfines, rayas y bancos de peces, y frente a Paleto, ballenas y orcas |
 
 Cambian con la hora y el tiempo: de noche hay más ratas y coyotes y menos palomas, y con lluvia o tormenta se
 ven menos animales.

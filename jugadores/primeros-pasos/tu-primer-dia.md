@@ -19,6 +19,10 @@ guarda los archivos.
 En BandolerosRP tienes **un solo personaje**. Piensa bien su nombre y su historia: es quien vas a ser en la
 ciudad. Lo creas en el [creador de personaje](crear-personaje.md).
 
+Al conectarte verás a tu personaje en el centro de la pantalla, con su ficha a la derecha: **nivel**, sexo, edad,
+efectivo, banco y **tiempo jugado**. El nivel sube con las horas que juegas (nivel 2 a las 2 horas, 3 a las 6, 4 a
+las 12…). Pulsa **Entrar** (o **Intro**) para aparecer en la ciudad.
+
 ## 3. Apareces en la ciudad
 
 - Un personaje nuevo aparece en el **Ayuntamiento de Los Santos** con su **pack inicial**: **3.500 $** (500 $ en

@@ -1,10 +1,10 @@
 ---
-description: Pesca para todos: cañas, cebos, 42 especies, zonas, barcos de alquiler y dónde vender.
+description: Pesca para todos: cañas, cebos, 49 especies, zonas, barcos de alquiler y dónde vender.
 ---
 
 # Pesca
 
-La pesca está abierta a todo el mundo: **no hace falta trabajo ni servicio**, solo una caña y cebo. Hay **42 especies**
+La pesca está abierta a todo el mundo: **no hace falta trabajo ni servicio**, solo una caña y cebo. Hay **49 especies**
 repartidas por ríos, lagos, pantanos, la costa, el mar abierto y la alta mar; cada una con su agua, su cebo favorito y
 su hora. Sube de nivel, consigue mejores cañas, vende en la lonja, cumple las misiones del día y compite en los torneos.
 
@@ -139,7 +139,14 @@ Algunas especies solo pican **de noche** o **de día**, y otras pican más **con
 
 Compra una **nasa de marisco**, úsala **de cara al agua** y se queda con su boya. Al cabo de un rato (unos 20-30
 minutos) vuelve y **recógela con Alt**: cangrejos, langostinos, centollos, langostas, ostras… y, con suerte, una perla.
+En el mar salen también **almejas, navajas, erizos de mar y percebes** (estos últimos, pocos y caros).
 Puedes tener **3 a la vez**; si no la recoges en un día, se pierde.
+
+## Pescado de aquí
+
+Además de las especies de siempre, pican **jurel** y **salmonete** en la costa, **sepia** de noche en la costa,
+**merluza** de noche en mar abierto, **besugo** y **rape** en mar abierto y **rodaballo** en la costa y el mar. La lonja
+los paga a precio de lonja de España (el rape y el rodaballo, los más caros).
 
 ## Barcos de alquiler
 

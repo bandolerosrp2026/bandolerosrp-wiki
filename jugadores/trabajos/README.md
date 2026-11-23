@@ -30,7 +30,7 @@ lee antes [Cómo funcionan los trabajos](trabajos.md): contratos, servicio (**F6
 | Actividad | Qué haces | Página |
 |---|---|---|
 | **Caza** | Cazar con licencia, despiezar y vender al carnicero; niveles, perro y caballo | [Caza](caza.md) |
-| **Pesca** | 42 especies, cañas y cebos, barcas de alquiler y venta del pescado | [Pesca](pesca.md) |
+| **Pesca** | 49 especies, cañas y cebos, barcas de alquiler y venta del pescado | [Pesca](pesca.md) |
 | **Cocina** | 100 recetas con calidad y niveles; comida, bebida y alcohol | [Cocina](cocina.md) |
 | **Camping** | Montar un campamento con su material y hoguera | [Camping](camping.md) |
 | **Gimnasio** | Entrenar fuerza, resistencia, pulmones y combate; abonos y suplementos | [Gimnasio](gimnasio.md) |

@@ -29,6 +29,12 @@ para quemaduras**. Se venden en la **farmacia del hospital**. La **venda** la pu
 pack inicial): tapa la herida que sangre más y, si no tienes heridas pero te falta vida, te recupera un poco. Lo demás (pinzas, sutura, férulas, morfina, suero,
 sangre…) solo lo saben usar los médicos.
 
+### Curar a otra persona (primeros auxilios)
+
+No hace falta ser médico: apunta a otro jugador con **Alt** → **Primeros auxilios** y elige lo que lleves (venda,
+botiquín individual, analgésicos, bolsa de hielo o crema). Sirve también con alguien herido en el suelo para cortarle
+la hemorragia mientras llega la ambulancia. Queda apuntado en su historial médico.
+
 ## Herido grave e inconsciente
 
 1. **Herido grave**: caes al suelo pero sigues consciente. No puedes moverte ni hablar (tampoco por radio ni
@@ -64,7 +70,10 @@ Apunta con **Alt** a los mostradores y camas:
 
 - **Recepción**: si **no hay médicos de servicio** (o hay muy pocos), te atienden allí: pagas **300 $** (menos con
   seguro), te tumban en una cama unos segundos y sales curado. Si hay médicos, se les avisa y vienen a atenderte.
-- **Farmacia**: vendas, botiquines, analgésicos, hielo, crema, muletas.
+- **Farmacia** (precios de farmacia de verdad): venda 5 $, analgésicos 3 $, bolsa de hielo 3 $, crema para quemaduras
+  7 $, muleta 18 $, botiquín individual 25 $, y las medicinas para las enfermedades (paracetamol, ibuprofeno, Frenadol,
+  jarabe, Sueroral, Fortasec, diclofenaco en gel, mascarilla FFP2 y test de antígenos): mira
+  [Salud y enfermedades](salud.md).
 - **Seguros médicos**: rebajan la recepción, la reaparición y las facturas del EMS.
 - **Camas**: puedes tumbarte en cualquiera libre.
 

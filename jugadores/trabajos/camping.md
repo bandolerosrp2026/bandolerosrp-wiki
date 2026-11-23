@@ -97,6 +97,17 @@ levantas de cualquier silla o banco de la ciudad ([Interactuar](../primeros-paso
 Usa la **Guitarra acústica** desde el inventario para tocar junto al fuego. Para dejarla, la misma tecla de
 levantarse (**X** por defecto).
 
+## Buceo
+
+En la tienda de camping también hay **equipo de buceo** (650 $) y **cargas de aire** (8 $).
+
+- **Ponértelo o quitártelo:** usa el equipo desde el inventario, en tierra firme o en la cubierta de un barco. Llevas
+  la botella a la espalda y la máscara puesta.
+- **Aire:** una botella llena da unos **20 minutos bajo el agua**. Solo se gasta buceando, y el que queda se guarda en
+  el propio equipo (lo ves en su descripción). Te avisa cuando quedan 5 minutos y 1 minuto. Sin aire te ahogas como
+  sin equipo: sube antes.
+- **Cargar la botella:** usa una **carga de aire** fuera del agua.
+
 ## Teclas
 
 Se cambian en **Ajustes → Asignación de teclas → FiveM**:

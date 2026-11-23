@@ -53,8 +53,8 @@ jardín y fertilizante. Apunta con **Alt** → **Hablar con…** y se abre su ti
 
 ## Recolectar y campos
 
-- En algunos sitios se puede **recolectar** materia prima. Apunta con **Alt** y elige **Recolectar**. Algunos puntos
-  se agotan y tardan en volver a dar.
+- En algunos sitios se puede **recolectar** materia prima. Apunta con **Alt** al objeto del punto (o al suelo, si no
+  hay nada) y elige **Recolectar**. Algunos puntos se agotan y tardan en volver a dar.
 - En los **campos de coca** hay plantas sueltas: **Recoger planta** te da **hojas de coca**. Vuelven a crecer al cabo
   de un rato.
 

@@ -17,6 +17,8 @@ En coches, furgonetas y camiones hay cinturón. En motos, bicis, barcos, helicó
 - Con el cinturón puesto **no puedes bajarte**: quítatelo antes. Solo si el coche se hunde en el agua o está ardiendo,
   al pulsar para salir te lo sueltas de golpe y sales.
 - El icono del cinturón sale en el marcador del vehículo (HUD).
+- **`/asiento`**: pasarte al asiento de al lado (del copiloto al volante y al revés). Con el cinturón puesto no se
+  puede: quítatelo antes.
 
 {% hint style="danger" %}
 **Si chocas sin cinturón a más de 50 km/h sales despedido por el parabrisas**: rompes el cristal, sales volando y te

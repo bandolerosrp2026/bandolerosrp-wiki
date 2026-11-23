@@ -25,8 +25,8 @@ Salvo Fichar, todos piden estar **de servicio** y tener el **rango** que haya pu
 uno, al apuntarle te sale **«¿Por qué no puedo usarlo?»** con lo que te falta.
 
 {% hint style="info" %}
-Para entrar en la policía, habla con un mando del departamento. Contratar, ascender y despedir lo hace el jefe desde
-la tableta (botón **Plantilla**).
+Para entrar en la policía, habla con un mando del departamento. Contratar, ascender y despedir lo hace el jefe (o un
+rango al que el jefe se lo permita) desde la tableta, con el botón **Plantilla**, o con [/jefe](menu-de-jefe.md).
 {% endhint %}
 
 ## Rangos del LSPD

@@ -20,8 +20,8 @@ suplementos que tienes activos y tus abonos.
 
 ## Si dejas de entrenar
 
-Tras **48 horas reales sin entrenar** empiezas a perder forma cada día (también estando desconectado): más
-resistencia y fuerza que pulmones o combate. Nunca bajas de un mínimo. En `/forma` sale cuánto te queda antes de
+Tras **24 horas reales sin entrenar** empiezas a perder forma cada día (también estando desconectado): de 2 a 4
+puntos al día, más resistencia y fuerza que pulmones o combate. Nunca bajas de un mínimo. En `/forma` sale cuánto te queda antes de
 empezar a perder. Correr, nadar y bucear por la ciudad también cuenta como entrenar.
 
 ## Los gimnasios

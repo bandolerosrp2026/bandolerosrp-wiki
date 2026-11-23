@@ -25,7 +25,8 @@ Cada golpe deja una herida en una **zona del cuerpo** (cabeza, torso, brazos o p
 ### Curarte tú
 
 Desde el inventario puedes usar: **venda**, **botiquín individual**, **analgésicos**, **bolsa de hielo** y **crema
-para quemaduras**. Se venden en la **farmacia del hospital**. Lo demás (pinzas, sutura, férulas, morfina, suero,
+para quemaduras**. Se venden en la **farmacia del hospital**. La **venda** la puede usar cualquiera (vienen dos en el
+pack inicial): tapa la herida que sangre más y, si no tienes heridas pero te falta vida, te recupera un poco. Lo demás (pinzas, sutura, férulas, morfina, suero,
 sangre…) solo lo saben usar los médicos.
 
 ## Herido grave e inconsciente

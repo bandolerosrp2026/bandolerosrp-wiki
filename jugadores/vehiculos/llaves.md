@@ -40,7 +40,7 @@ Con cada llave puedes:
 | **Dueño** | Todo | Siempre |
 | **Permanente** | Conducir, abrir/cerrar, guardar y sacar del garaje, localizar | Hasta que el dueño la retire o venda el coche |
 | **Temporal** (prestada) | Igual que la permanente, salvo garajes | Hasta que se acaba el tiempo |
-| **De trabajo** | Conducir y abrir/cerrar vehículos de tu trabajo. Se cierran solos al bajarte | Mientras tengas el trabajo |
+| **De trabajo** | Conducir y abrir/cerrar vehículos de tu trabajo. No se cierran solos: ciérralos tú al bajarte | Mientras tengas el trabajo |
 | **Copia** | Conducir y abrir/cerrar | Mientras exista el vehículo |
 
 Con `/darllaves [id]` le das una copia del vehículo cercano a otra persona (sin id: a quien esté contigo o más
@@ -72,7 +72,7 @@ El robo de vehículos es rol. Todos los intentos se pueden **fallar**, pueden **
   Los coches más caros son más difíciles.
 - **Buscar las llaves**: sentado al volante de un coche ajeno, pulsa **H**. Tarda entre 20 y 40 segundos y no
   siempre aparecen.
-- **Coches de la ciudad (NPC)**: muchos están cerrados. Si tienen el motor en marcha, te quedas las llaves. Si el
+- **Coches de la ciudad (NPC)**: están abiertos (ningún coche se cierra solo: solo los cierra un jugador). Si tienen el motor en marcha, te quedas las llaves. Si el
   conductor está muerto, puedes coger sus llaves.
 - **A punta de pistola**: apuntando con un arma de fuego al conductor de un coche de la ciudad, muy cerca, durante
   unos segundos. Cuanto más potente el arma, más fácil.

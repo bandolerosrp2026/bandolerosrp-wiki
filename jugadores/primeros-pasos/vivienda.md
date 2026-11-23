@@ -27,7 +27,13 @@ facturas, llaves, seguridad, mascotas y mejoras.
 | **Hipoteca** | Entrada (mínimo 20 %) + 10 % de gastos | El banco presta el resto; la cuota se cobra cada 24 h. Si dejas de pagar, la casa vuelve a la inmobiliaria |
 | **Alquiler** | Primer mes + un mes de fianza | La renta se cobra cada 24 h reales. Al irte sin deudas te devuelven la fianza |
 
-Puedes tener hasta **3 casas en propiedad** y **1 alquiler** a la vez. Los precios son los de España (€/m² según la zona y la gama).
+Puedes tener hasta **3 casas en propiedad** y **1 alquiler** a la vez; las casas en las que tienes llave no cuentan.
+Los precios son los de España (€/m² según la zona y la gama).
+
+**Varias viviendas:** en la tableta (`/casa`), arriba a la izquierda, sale la vivienda que estás gestionando. Púlsala y
+verás todas las tuyas: las de propiedad, la alquilada, las que alquilas a otros y aquellas en las que tienes llave. Cada
+una indica tu papel en ella, si estás dentro ahora («Aquí») y, con un punto rojo, si tiene facturas pendientes o la
+cerradura forzada. Si estás dentro de una, la tableta se abre en esa.
 
 ## Entrar, llaves y timbre
 
@@ -41,7 +47,7 @@ Puedes tener hasta **3 casas en propiedad** y **1 alquiler** a la vez. Los preci
 ## Decorar
 
 * Pestaña **Decorar**: más de **1.250 muebles** por estancias (salón, cocina, dormitorio, baño, jardín, gimnasio,
-  seguridad…) con buscador. Pulsa **Colocar** y se pone delante de ti:
+  seguridad…) con buscador y con la foto de cada mueble. Pulsa **Colocar** y se pone delante de ti:
 
 | Tecla (solo mientras colocas) | Qué hace |
 |---|---|
@@ -54,7 +60,8 @@ Puedes tener hasta **3 casas en propiedad** y **1 alquiler** a la vez. Los preci
 | Alt + rueda | Inclinar |
 
 * **Mover, guardar o devolver** un mueble: en la tableta activa «Mover / guardar muebles», cierra la tableta y apunta
-  al mueble. Devolverlo te paga el 30 % de lo que costó.
+  al mueble. Devolverlo te paga el 30 % de lo que costó. Los muebles que ya venían con la casa solo los puede quitar o
+  vender el propietario (no el inquilino ni quien tenga llave).
 * **Mi almacén**: los muebles que guardas, los que pides y los que te llevas al mudarte (hasta 300).
 * Hay un tope de muebles por casa; la mejora **Reforma** lo sube.
 * Si la casa tiene **jardín o terraza**, también puedes decorarlo por fuera (lo ve todo el mundo).

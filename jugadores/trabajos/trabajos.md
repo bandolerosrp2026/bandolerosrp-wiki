@@ -1,5 +1,5 @@
 ---
-description: Cómo te contratan, entrar y salir de servicio (F6), sueldos, rangos y el panel del jefe.
+description: Cómo te contratan, entrar y salir de servicio (F6), sueldos, rangos y el menú de jefe (/jefe).
 ---
 
 # Cómo funcionan los trabajos
@@ -68,13 +68,16 @@ un vehículo al depósito, curar o reanimar. Solo **de servicio**.
 
 ## Si eres jefe
 
-El panel de **Gestión** (punto de gestión o F6) te deja:
+Todo se lleva desde el [Menú de jefe](menu-de-jefe.md): escribe **/jefe** (o usa el punto de gestión, **F6** o
+la tableta de tu trabajo). Te deja:
 
-- Ver el resumen del trabajo.
-- **Contratar** (a alguien que esté a menos de 6 m y que acepte), **cambiar el rango** y **despedir**.
-- Cambiar los **sueldos** de los rangos por debajo del tuyo.
+- Ver el resumen del trabajo con gráficas de horas de servicio y de dinero.
+- **Contratar** (a alguien que esté a menos de 6 m y que acepte), **cambiar el rango** y **despedir** (con
+  finiquito si quieres).
+- Pagar **primas**, dejar **notas** en la ficha de cada empleado y ver sus **horas de servicio**.
+- Cambiar los **sueldos** de los rangos por debajo del tuyo y los **permisos** de cada rango.
 - Gestionar la **cuenta de empresa**: ingresar y retirar efectivo y ver los movimientos.
-- Ver el **registro** de lo que pasa en el trabajo.
+- Mandar **avisos** a la plantilla y ver el **registro** de lo que pasa en el trabajo.
 
 En el banco tienes además la [Banca de empresa](../dinero/banca-de-empresa.md): subcuentas, permisos por rango
 con límite diario, tarjetas para tus empleados y préstamos a nombre de la empresa.

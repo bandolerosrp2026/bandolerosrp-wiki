@@ -33,6 +33,7 @@
 
 * [Todos los trabajos y actividades](trabajos/README.md)
   * [Cómo funcionan los trabajos](trabajos/trabajos.md)
+  * [Menú de jefe (/jefe)](trabajos/menu-de-jefe.md)
   * [Policía](trabajos/policia.md)
   * [EMS (servicio médico)](trabajos/ems.md)
   * [Mecánico](trabajos/mecanico.md)

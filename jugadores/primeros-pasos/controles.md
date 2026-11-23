@@ -132,6 +132,7 @@ pongas la tuya:
 | HUD: mostrar u ocultar | Lo mismo que `/hud` |
 | Chat: limpiar · ver mi ID · tirar un dado | Lo mismo que `/limpiar`, `/id` y `/dado` |
 | Trabajos: mis facturas y multas | Lo mismo que `/facturas` |
+| Abrir el menú de jefe | Lo mismo que `/jefe` (solo jefes y mandos) |
 | Llaves: dar una copia al jugador más cercano | Lo mismo que `/darllaves` |
 | Taller (cliente): mis presupuestos, facturas y vehículo | Lo mismo que `/taller` |
 | Mecánico: abrir la tableta | Solo mecánicos (de servicio) |
@@ -149,6 +150,7 @@ pongas la tuya:
 | `/id` | Ver tu número de jugador |
 | `/llaves` | Abrir el llavero |
 | `/facturas` | Ver y pagar tus facturas y multas |
+| `/jefe` | Menú de jefe de tu empresa (solo jefes y mandos) |
 | `/taller` | Tus presupuestos y facturas del taller |
 | `/reloadskin` | Recargar tu apariencia si se ve mal |
 | `/ajustestarget` | Cambiar el aspecto y sonido del menú de interacción |

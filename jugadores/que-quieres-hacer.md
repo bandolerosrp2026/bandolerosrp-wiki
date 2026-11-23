@@ -27,6 +27,7 @@ palabra («gasolina», «carnet», «multa», «tatuaje»…) y te sale la pági
 |---|---|
 | Ver todos los trabajos y actividades de un vistazo | [Trabajos y actividades](trabajos/README.md) |
 | Que me contraten o entrar de servicio | [Cómo funcionan los trabajos](trabajos/trabajos.md) |
+| Llevar mi empresa: contratar, ascender, sueldos, primas, permisos (jefes) | [Menú de jefe](trabajos/menu-de-jefe.md) (`/jefe`) |
 | Ganar dinero sin trabajo (por libre) | [Caza](trabajos/caza.md), [Pesca](trabajos/pesca.md) |
 | Cocinar, comer o preparar copas | [Cocina, comida y alcohol](trabajos/cocina.md) |
 | Ser policía o médico | [Policía](trabajos/policia.md), [EMS](trabajos/ems.md) |

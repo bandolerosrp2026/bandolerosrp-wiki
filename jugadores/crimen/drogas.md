@@ -1,5 +1,5 @@
 ---
-description: Cultivar, recolectar, cocinar y vender droga; mercado negro con precios que cambian.
+description: Marihuana, cocaína, meta y tusi; cultivar, recolectar, cocinar y vender; mercado negro con precios que cambian.
 ---
 
 # Drogas y mercado negro
@@ -32,21 +32,42 @@ Escribe **/mercadonegro** para abrir (o cerrar) tu panel. Tiene cinco pestañas,
 - Los **rumores** (escasez, saturación, encargos urgentes, vigilancia…) cambian el mercado durante un rato.
 - Cada territorio de banda tiene su propio mercado: vender en una zona no es lo mismo que vender en otra.
 
+## Las cuatro drogas
+
+En la ciudad se mueven cuatro drogas. Cada una pasa por cuatro fases y cada paso se hace en un **laboratorio**:
+
+| Droga | De dónde sale | Pasos en el laboratorio |
+|---|---|---|
+| **Marihuana** | Una **planta de marihuana** que se planta en una zona de cultivo y da **cogollos** | Secar los cogollos → envasar en bolsitas de 5 g |
+| **Cocaína** | Las **hojas de coca** de un campo de coca | Macerar las hojas (pasta base) → refinar (extracto) → cortar y empaquetar en papelinas de 1 g |
+| **Metanfetamina** | Los **reactivos de meta** que vende un contacto | Disolver (solución) → cristalizar (cristales) → partir y envasar en bolsitas de 1 g |
+| **Tusi** | Los **reactivos de tusi** que vende un contacto | Mezclar (mezcla) → preparar la base → teñir y envasar en bolsitas de 1 g |
+
+Los precios de calle son los de verdad: la marihuana es la más barata y el tusi, la más cara.
+
+## Contactos
+
+Hay **contactos** que venden lo necesario para empezar: plantas de marihuana, reactivos de meta y de tusi, la pala de
+jardín y fertilizante. Apunta con **Alt** → **Hablar con…** y se abre su tienda, con buscador. Casi todo se paga en
+**dinero negro**; la pala y el fertilizante, en efectivo. Normalmente no salen en el mapa: se descubren jugando.
+
 ## Recolectar y campos
 
-- En algunos sitios se puede **recolectar** materia prima (por ejemplo, hojas). Apunta con **Alt** y elige
-  **Recolectar**. Algunos puntos se agotan y tardan en volver a dar.
-- En los **campos** hay plantas sueltas: **Recoger planta**. Vuelven a crecer al cabo de un rato.
+- En algunos sitios se puede **recolectar** materia prima. Apunta con **Alt** y elige **Recolectar**. Algunos puntos
+  se agotan y tardan en volver a dar.
+- En los **campos de coca** hay plantas sueltas: **Recoger planta** te da **hojas de coca**. Vuelven a crecer al cabo
+  de un rato.
 
 ## Cultivar
 
-1. Consigue la **semilla** y lo necesario para plantar (normalmente **agua**, **nutrientes** y una **pala de jardín**,
-   que no se gasta).
-2. Ve a una **zona de cultivo** y **usa la semilla** desde el inventario. Fuera de las zonas no se puede plantar, ni
+1. Consigue una **planta de marihuana** (un esqueje en maceta) y lo necesario para plantar: **agua**, **fertilizante**
+   y una **pala de jardín**, que no se gasta.
+2. Ve a una **zona de cultivo** y **usa la planta** desde el inventario. Fuera de las zonas no se puede plantar, ni
    pegado a otra planta.
 3. Cuida la planta: apunta con **Alt** → **Revisar la planta** para ver su estado y **Regar** o **Abonar**. Si se queda
    sin agua o sin nutrientes, pierde salud; si la abandonas mucho tiempo, **muere**.
-4. Cuando esté madura, **Cosechar**. Cuanto más sana esté, **más cosecha**. A veces recuperas semillas.
+4. Cuando esté madura, **Cosechar**: da **cogollos**. Cuanto más sana esté, **más cosecha**. A veces te queda otra
+   planta para volver a plantar.
 
 {% hint style="info" %}
 Puedes tener un número limitado de plantas a la vez. Una planta madura que no se cosecha acaba estropeándose.
@@ -107,8 +128,8 @@ Niveles: **Desconocido → Conocido → Fiable → Socio → Hombre de confianza
 
 ## Consumir
 
-Algunas drogas se pueden **usar** desde el inventario: tienen efectos (visión, velocidad, resistencia, estrés,
-vida…) durante un rato. No abuses: también tienen su parte mala.
+La marihuana, la cocaína, la metanfetamina y el tusi se pueden **usar** desde el inventario: tienen efectos
+(visión, velocidad, resistencia, estrés, vida…) durante un rato. No abuses: también tienen su parte mala.
 
 ## Policía
 

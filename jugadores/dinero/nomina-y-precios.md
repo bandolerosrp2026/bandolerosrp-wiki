@@ -18,7 +18,8 @@ el litro y un coche pequeño entre 12.000 y 28.000 $. Los sueldos también son r
   *Ajustes → Asignación de teclas → FiveM* («Trabajos: cuánto falta para la nómina»).
 
 {% hint style="info" %}
-Si acabas de llegar, tu primera nómina llega a las 12 horas. Empiezas con **300 $ en efectivo y 1.500 $ en el banco**.
+Si acabas de llegar, tu primera nómina llega a las 12 horas. Empiezas con un **pack inicial**: **3.500 $** (500 $ en
+efectivo y 3.000 $ en el banco), una botella de agua, un bocadillo y dos vendas.
 {% endhint %}
 
 ### Sueldos (neto al mes)

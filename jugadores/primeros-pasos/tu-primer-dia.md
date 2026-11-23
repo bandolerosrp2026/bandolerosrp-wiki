@@ -21,7 +21,8 @@ ciudad. Lo creas en el [creador de personaje](crear-personaje.md).
 
 ## 3. Apareces en la ciudad
 
-- Un personaje nuevo aparece en el **Ayuntamiento de Los Santos**.
+- Un personaje nuevo aparece en el **Ayuntamiento de Los Santos** con su **pack inicial**: **3.500 $** (500 $ en
+  efectivo y 3.000 $ en el banco), una botella de agua, un bocadillo y dos vendas.
 - A partir de ahí, cada vez que entres aparecerás **justo donde te desconectaste** (no hay selector de
   ubicación).
 

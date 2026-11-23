@@ -35,6 +35,22 @@ Lo que ves depende de los **permisos de tu rango** (ver más abajo).
 | **Cuenta** | Saldo de la cuenta de la empresa en Bandoleros Bank, ingresar o retirar efectivo y ver los movimientos (con buscador) |
 | **Avisos** | Mandar un aviso a todos los empleados conectados (hasta 240 letras, uno por minuto). Los últimos se quedan en el resumen |
 | **Registro** | Todo lo que pasa en la empresa: contratos, ascensos, despidos, primas, sueldos, permisos, dinero y avisos |
+| **Radares** | Solo en la **policía**: poner, cambiar y quitar los radares fijos de velocidad del departamento (ver abajo) |
+
+## Radares de velocidad (policía)
+
+El jefe de un departamento de policía pone y quita los **radares fijos** cuando quiera, desde **/jefe → Radares**:
+
+1. Ve a la carretera, al sitio exacto donde quieres el radar (a pie o en un vehículo) y abre **/jefe**.
+2. Pulsa **Poner un radar aquí**. Elige el nombre, la comisaría a la que pertenece, el **límite** de velocidad, la
+   **multa** (una parte fija, hasta **$600**, más una cantidad por cada km/h de más, hasta **$20**) y el tamaño de la
+   zona en la que mide.
+3. Puede medir en los **dos sentidos** o solo en uno: el que tienes delante (o tu vehículo) al ponerlo.
+
+Multa sola a quien pase por encima del límite (con 5 km/h de margen) y, según el exceso, también quita puntos del
+carnet. Los agentes y sanitarios de servicio y los vehículos de emergencia no reciben multa. En la lista puedes
+**marcar un radar en el GPS**, cambiarlo, **apagarlo**, **moverlo a donde estás** o quitarlo. Cada departamento puede
+tener hasta **40** radares.
 
 ## La ficha de un empleado
 
@@ -69,6 +85,7 @@ permiso que no tenga**. Con **Por defecto** el rango vuelve a lo de arriba.
 | Plantilla | Ver la plantilla, contratar, cambiar rangos, despedir, primas y finiquitos, notas privadas |
 | Dinero | Cambiar sueldos, ver la cuenta, ingresar, retirar, ver estadísticas |
 | Comunicación y control | Mandar avisos, ver el registro, editar permisos |
+| Policía | Radares de tráfico (solo en los departamentos de policía) |
 
 ## Nómina
 

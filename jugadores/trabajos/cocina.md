@@ -160,6 +160,7 @@ calimocho y chupitos de tequila o whisky.
 Las **licorerías** del mapa venden agua, cervezas, vinos, botellas de licor y **copas ya preparadas** (mojito, gin
 tonic, margarita, chupitos…), pero a precio de **tienda de barrio y de bar**: una botella cuesta algo más que en la tienda de cocina (vino 7 $,
 ginebra 20 $), el agua 1 $ y una copa entre 3 $ (chupito) y 11 $ (dry martini). Preparándolo tú sale más barato.
+Su icono solo sale en el mapa cuando estás a menos de unos 500 metros de una.
 
 | Alcohol en sangre | Cómo vas |
 |---|---|

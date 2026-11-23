@@ -19,7 +19,7 @@ Apunta (ojo de interacción) a cada punto de tu comisaría:
 | **Almacén** | Almacén del departamento (en algunas comisarías, uno para cada agente). |
 | **Tienda** | Material con precio y rango mínimo. |
 | **Caja fuerte** | Solo dinero del departamento. |
-| **Gestión** | Para el jefe: contratar, rangos, sueldos y cuenta del departamento. |
+| **Gestión** | Para el jefe: contratar, rangos, sueldos, cuenta y [radares de velocidad](menu-de-jefe.md#radares-de-velocidad-policia) del departamento. |
 
 Salvo Fichar, todos piden estar **de servicio** y tener el **rango** que haya puesto el departamento. Si no puedes usar
 uno, al apuntarle te sale **«¿Por qué no puedo usarlo?»** con lo que te falta.

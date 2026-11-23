@@ -35,6 +35,8 @@ Todos los avisos del servidor salen con el mismo estilo y un color según el tip
 **ESC** abre el menú de pausa propio de BandolerosRP: mapa, ajustes del juego, **Ayuda y documentación** (abre esta
 wiki en tu navegador) y salir del servidor.
 **P** abre directamente el mapa.
+Si tienes otra cosa abierta (inventario, un menú, una tableta, un editor o un creador), ESC solo cierra eso: la pausa
+no se abre hasta que no quede nada abierto.
 
 ## Minimapa y mapa
 

@@ -50,10 +50,11 @@ Desde la tableta llevas todo el taller:
 - **Mantenimiento**: aceite, filtros, bujías, refrigerante, frenos, suspensión, neumáticos (cada uno por
   separado), embrague, batería…
 - **Averías** y **cambio de motor** (con grúa, en 6 fases).
-- **Tuneo**: rendimiento, estética, pintura y vinilos (pintura dentro de la cabina si el taller tiene).
+- **Tuneo**: rendimiento, estética, pintura y vinilos (cabina de pintura: **Alt** sobre el punto de pintura del taller).
 - **ECU**: Stages 0-3, mapas ECO / DAILY / SPORT, cambio Comfort / Sport / Race, banco de potencia y pruebas.
 - **Nitro**.
 - **Vaciar el depósito** cuando alguien echa el combustible equivocado.
+- **Almacén**: ver stock, comprar piezas/motores, **jefe: Vaciar almacén** (desde /jefe → Almacén, borra todo).
 
 ## Rangos y experiencia
 

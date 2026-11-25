@@ -42,3 +42,26 @@ la centralita** (Stages 1-3). Un coche más preparado corre más, pero también 
 {% hint style="info" %}
 ¿Quieres trabajar de mecánico? Ver [Mecánico](../trabajos/mecanico.md).
 {% endhint %}
+
+## Tunear tu propio vehículo (`/tunear`)
+
+Además de que el mecánico te haga el tuneo, **tú puedes elegir las piezas** (alerón, color, llantas, pintura, vinilos, kits de rendimiento, etc.) y enviar la orden a un mecánico del taller.
+
+### Requisitos
+- Tu vehículo debe estar **vacío** y **aparcado en una zona de tuneo** del taller (marcadas en el suelo).
+- Debe haber al menos un mecánico **de servicio (en duty)** en ese taller.
+
+### Pasos
+1. Aparca el coche en la zona de tuneo.
+2. Escribe **`/tunear`** (o usa la opción **«Tunear mi vehículo»** en el Target del coche).
+3. Se abre la interfaz de tuneo: elige categoría → pieza → color/opción. Los cambios se ven en vivo en el coche.
+4. Cuando termines, pulsa **«Enviar orden al mecánico»**.
+5. Todos los mecánicos de servicio del taller reciben la notificación. Uno de ellos la **acepta**.
+6. Recibes el **cobro** (factura en pantalla). Paga con banco o efectivo.
+7. El mecánico monta las piezas **pieza a pieza** en su sitio (elevador, zona de pintura, etc.). Cuando termine, tu coche está listo.
+
+### Notas
+- Si no hay mecánicos de servicio, la orden no se envía y te avisa.
+- El mecánico puede **rechazar** la orden (te llegará notificación).
+- El precio usa la **tarifa del taller** (multiplicador configurado en `/gestiontalleres → Economía`).
+- El mismo sistema de **montaje pieza a pieza** garantiza que cada cambio va a su sitio correcto.

@@ -68,6 +68,7 @@ para susurrar solo vale `/s`). Usa los de esta lista.
 | `/taller` | Tus órdenes, presupuestos y facturas del taller |
 | `/facturataller` | Volver a abrir la factura que te acaba de mandar el mecánico |
 | `/terminarprueba` | Terminar antes la prueba de conducción de un concesionario |
+| `/tunear` | Tunear tu propio vehículo: eliges piezas (alerón, color, llantas, pintura, kits…) y envías la orden a un mecánico del taller |
 
 ## Trabajo
 

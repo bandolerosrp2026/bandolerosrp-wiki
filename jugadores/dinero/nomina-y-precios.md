@@ -27,9 +27,9 @@ efectivo y 3.000 $ en el banco), una botella de agua, un bocadillo y dos vendas.
 | Trabajo | Desde | Hasta |
 |---|---|---|
 | Sin trabajo (ayuda) | 600 $ | 600 $ |
-| Policía (LSPD) | 1.300 $ (cadete) | 3.800 $ (capitán) |
+| Policía (LSPD) | 1.300 $ (cadete) | 3.300 $ (capitán) |
 | Sheriff y patrulla estatal | 1.300 $ | 3.300 $ |
-| Sanitarios (EMS) | 1.800 $ (enfermero) | 4.500 $ (cirujano jefe) |
+| Sanitarios (EMS) | 1.800 $ (enfermero) | 4.200 $ (cirujano jefe) |
 | Mecánico | 1.100 $ (novato) | 2.200 $ (jefe) |
 | Taxi | 1.300 $ | 2.000 $ |
 | Concesionario | 1.200 $ | 2.400 $ |

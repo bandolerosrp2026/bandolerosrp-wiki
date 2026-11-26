@@ -65,11 +65,11 @@ mitad del centro.
 |---|---|
 | **Ciudad** | Muchos gatos callejeros, perros sueltos y perros paseando con su dueño (pastor, rottweiler, husky, dálmata, chowchow, carlino…), palomas, cuervos, halcones de día, búhos de noche y ratas en callejones e industrias. De día, algún **loro** escapado por Vinewood y Vespucci |
 | **Barrios y playa** | Gatos y perros de los vecinos, halcones y búhos, gaviotas y cormoranes en la costa y el puerto, y **loros** escapados en las zonas ricas y en la playa de Vespucci |
-| **Campo y granjas** | Vacas, cerdos, gallinas, **burros** y perros de granja. En las fincas de **Grapeseed**, alguna **cebra** escapada. En la orilla del **mar de Alamo**, **cocodrilos** |
-| **Montes y bosques** | Ciervos, conejos, coyotes, jabalíes, aves rapaces y, en las colinas de Vinewood, algún **loro** (y, de noche, rarísima vez, un **leopardo** escapado). En el **pantano de Zancudo**, **cocodrilos** |
-| **Desierto** | Coyotes, conejos y armadillos. A veces **cebras** escapadas de fincas exóticas y, de noche y muy rara vez, un **león** |
-| **Cayo Perico** | Manadas de **cebras** sueltas por la isla, loros, gaviotas, halcones, y **leones** y **leopardos** de la colección de El Rubio. De noche, muy rara vez, una **pantera** |
-| **Mar y lagos** | Peces y, en mar abierto, delfines, rayas, tiburones martillo, **tiburones tigre** y **grandes tiburones blancos** (solo en aguas muy hondas, lejos de las playas) y hasta ballenas y orcas. En las aguas de **Cayo Perico** y frente a **Paleto** hay mucha más vida: delfines, rayas y bancos de peces, y frente a Paleto, ballenas y orcas |
+| **Campo y granjas** | Vacas, cerdos, gallinas, **burros** y perros de granja. |
+| **Montes y bosques** | Ciervos, conejos, coyotes, jabalíes, aves rapaces y, en las colinas de Vinewood, algún **loro** (y, de noche, rarísima vez, un **leopardo** escapado). |
+| **Desierto** | Coyotes, conejos y armadillos. De noche y muy rara vez, un **león** |
+| **Cayo Perico** | Loros, gaviotas, halcones, y **leones** y **leopardos** de la colección de El Rubio. De noche, muy rara vez, una **pantera** |
+| **Mar y lagos** | Peces y, en mar abierto, delfines, rayas y hasta ballenas y orcas. En las aguas de **Cayo Perico** y frente a **Paleto** hay mucha más vida: delfines, rayas y bancos de peces, y frente a Paleto, ballenas y orcas |
 
 Cambian con la hora y el tiempo: de noche hay más ratas y coyotes y menos palomas, y con lluvia o tormenta se
 ven menos animales.
@@ -77,7 +77,7 @@ ven menos animales.
 {% hint style="warning" %}
 **Cuidado en los bosques del norte de noche.** En los montes de Chiliad, Mount Gordo, el bosque de Paleto y el
 cañón de Raton puede haber **pumas**, y **atacan**. Si vas de noche por allí, mejor en vehículo o acompañado.
-Los **cocodrilos**, los **leones**, **leopardos** y **panteras** y los **tiburones** de mar adentro también atacan
+Los **leones**, **leopardos** y **panteras** también atacan
 si te acercas.
 El resto de animales salvajes no van a por ti: si te acercas, se alejan.
 {% endhint %}
@@ -125,3 +125,5 @@ de la misma forma**, y siempre llega un aviso de **Protección Civil**:
 
 Son buen momento para rol: heridos, coches volcados, avisos a la policía y a los servicios de emergencia… Si quedas
 malherido, avisa a los EMS como siempre.
+
+**Ley de la selva:** los depredadores cazan de verdad a sus presas. Un **león** persigue ciervos, jabalíes, coyotes, burros y hasta lobos; los **lobos** van a por ciervos y conejos; los **osos**, linces y coyotes también cazan. Si te cruzas con una persecución, verás a la presa huir (o defenderse) y al depredador atacarla.

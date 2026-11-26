@@ -36,17 +36,17 @@ Lo que ves depende de los **permisos de tu rango** (ver más abajo).
 | **Avisos** | Mandar un aviso a todos los empleados conectados (hasta 240 letras, uno por minuto). Los últimos se quedan en el resumen |
 | **Registro** | Todo lo que pasa en la empresa: contratos, ascensos, despidos, primas, sueldos, permisos, dinero y avisos |
 | **Radares** | Solo en la **policía**: poner, cambiar y quitar los radares fijos de velocidad del departamento (ver abajo) |
-| **Almacén** | Solo en el **mecánico**: vaciar todos los almacenes del taller (pierdes todos los objetos). Confirmación obligatoria |
+| **Almacén** | Solo en el **mecánico** y solo para el **rango más alto**: vaciar todos los almacenes de los talleres (pierdes todos los objetos). Confirmación obligatoria |
 
 ## Almacén del taller (mecánico)
 
-El jefe del taller mecánico puede **vaciar todos los almacenes** de la empresa desde **/jefe → Almacén**:
+El **rango más alto** del taller mecánico puede **vaciar todos los almacenes** de los talleres de la empresa desde **/jefe → Almacén** (el resto de rangos, aunque tengan otros permisos, no ve esta sección):
 
 1. Abre **/jefe** y ve a la sección **Almacén**.
-2. Pulsa **Vaciar almacén**.
-3. Confirma en el diálogo (se borra **todo** y no se recupera).
+2. Pulsa **Vaciar almacenes**.
+3. Confirma en el diálogo (se borra **todo** y no se recupera). Al terminar ves cuántos almacenes y objetos se han eliminado.
 
-Sirve para resetear el stock si hay errores, objetos duplicados o al cambiar de ciclo de piezas. No hay papelera: **lo que haya dentro se pierde**.
+Sirve para resetear el stock si hay errores, objetos duplicados o al cambiar de ciclo de piezas. No hay papelera: **lo que haya dentro se pierde**. No toca los inventarios de los jugadores ni los coches.
 
 ---
 

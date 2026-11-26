@@ -56,7 +56,7 @@ Además de que el mecánico te haga el tuneo, **tú puedes elegir las piezas** (
 2. Escribe **`/tunear`** (o usa la opción **«Tunear mi vehículo»** en el Target del coche).
 3. Se abre la interfaz de tuneo: elige categoría → pieza → color/opción. Los cambios se ven en vivo en el coche.
 4. Cuando termines, pulsa **«Enviar orden al mecánico»**.
-5. Todos los mecánicos de servicio del taller reciben la notificación. Uno de ellos la **acepta**.
+5. Todos los mecánicos de servicio del taller reciben una ventana con las piezas y el total. Uno de ellos pulsa **«Aceptar y cobrar»** (o **«Rechazar»**). Si la cierra sin elegir, la recupera con **`/solicitudestuneo`** durante 5 minutos.
 6. Recibes el **cobro** (factura en pantalla). Paga con banco o efectivo.
 7. El mecánico monta las piezas **pieza a pieza** en su sitio (elevador, zona de pintura, etc.). Cuando termine, tu coche está listo.
 

@@ -66,6 +66,7 @@ para susurrar solo vale `/s`). Usa los de esta lista.
 | `/llaves` | Llavero (tecla F5) |
 | `/darllaves [id]` | Dar una copia de la llave del vehículo cercano |
 | `/taller` | Tus órdenes, presupuestos y facturas del taller |
+| `/solicitudestuneo` | (Mecánico) Ver las solicitudes de tuneo que han enviado los clientes y aceptarlas o rechazarlas |
 | `/facturataller` | Volver a abrir la factura que te acaba de mandar el mecánico |
 | `/terminarprueba` | Terminar antes la prueba de conducción de un concesionario |
 | `/tunear` | Tunear tu propio vehículo: eliges piezas (alerón, color, llantas, pintura, kits…) y envías la orden a un mecánico del taller |

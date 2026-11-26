@@ -10,7 +10,8 @@ Cada vez que **cobras** por trabajar en un oficio (caza, pesca, mecánico, cocin
 puntos de reputación en ese oficio. Con más puntos subes de nivel y **cobras un extra** sobre cada pago.
 
 - Escribe **/reputacion** para ver tu nivel en cada oficio y cuánto te falta para el siguiente.
-- El extra es **+1 % por nivel** a partir del nivel 2 (hasta +5 %). Llega aparte, como «Bonus de reputación».
+- El extra es **+1 % por nivel** a partir del nivel 2 (hasta +5 %). Llega aparte, como «Bonus de reputación», y suma
+  como mucho **250 $ por hora** entre todos los oficios.
 - Hay un **tope de puntos por hora** para que no se pueda «farmear»: trabajar con calma rinde igual que hacerlo sin parar.
 
 ## Impuesto de circulación
@@ -19,5 +20,5 @@ Una vez cada **7 días reales**, al conectarte, el banco cobra un impuesto por t
 
 - El **primer coche es gratis**; desde el segundo se pagan **60 $ por vehículo** (máximo 600 $ por periodo).
 - Se cobra de tu **cuenta del banco**. Si no hay saldo se cobra lo que haya y **no se acumula deuda**.
-- Si pasas varios días sin conectarte se cobran como mucho **3 periodos juntos**.
+- Si pasas varios días sin conectarte se cobran como mucho **3 periodos juntos** y el contador vuelve a empezar.
 - Te avisa con una notificación cuando se cobra.

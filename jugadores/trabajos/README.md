@@ -34,6 +34,7 @@ lee antes [Cómo funcionan los trabajos](trabajos.md): contratos, servicio (**F6
 | **Cocina** | 100 recetas con calidad y niveles; comida, bebida y alcohol | [Cocina](cocina.md) |
 | **Camping** | Montar un campamento con su material y hoguera | [Camping](camping.md) |
 | **Gimnasio** | Entrenar fuerza, resistencia, pulmones y combate; abonos y suplementos | [Gimnasio](gimnasio.md) |
+| **DJ** | Pinchar música en discotecas y fiestas con sonido 3D, pads y efectos de luz al ritmo | [Mesas de DJ](dj.md) |
 
 {% hint style="info" %}
 ¿Buscas algo concreto? Mira [¿Qué quieres hacer?](../que-quieres-hacer.md) o usa el buscador de arriba.

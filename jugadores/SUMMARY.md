@@ -47,6 +47,7 @@
 * [Cocina, comida y alcohol](trabajos/cocina.md)
 * [Camping y acampadas](trabajos/camping.md)
 * [Gimnasio y forma física](trabajos/gimnasio.md)
+* [Mesas de DJ](trabajos/dj.md)
 
 ## Dinero
 

@@ -78,6 +78,7 @@ palabra («gasolina», «carnet», «multa», «tatuaje»…) y te sale la pági
 | Jugar una partida con amigos | [Paintball](primeros-pasos/paintball.md) |
 | Ir de excursión o acampar | [Cayo Perico y Cayo Porto](primeros-pasos/cayo-porto.md), [Camping](trabajos/camping.md) |
 | Ponerme en forma, correr más o pegar más fuerte | [Gimnasio y forma física](trabajos/gimnasio.md) |
+| Pinchar música en una discoteca o una fiesta, o bajar el volumen de la música | [Mesas de DJ](trabajos/dj.md) |
 
 ## Crimen
 

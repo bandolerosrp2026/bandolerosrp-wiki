@@ -31,6 +31,8 @@ para susurrar solo vale `/s`). Usa los de esta lista.
 | `/k9` | Policía: sacar o guardar el perro |
 | `/auxilio [qué ha pasado]` | Pedir una ambulancia: avisa a los médicos de servicio ([Heridas y hospital](../primeros-pasos/muerte.md)) |
 | `/misheridas` | Ver tus heridas, constantes y sangre |
+| `/volumendj 0-100` | Tu volumen de la música de las mesas de DJ ([Mesas de DJ](../trabajos/dj.md)) |
+| `/silenciardj` | Silenciar o volver a oír la música de las mesas de DJ, solo para ti |
 | `/tabletaems` | EMS: abrir la tableta ([EMS](../trabajos/ems.md)) |
 | `/pesca` | Abrir tu cuaderno de pesca: misiones, logros, torneo y guía de peces ([Pesca](../trabajos/pesca.md)) |
 | `/perrocaza` | Menú de tu perro de caza: sacarlo, órdenes, subirlo al coche, trucos ([Caza](../trabajos/caza.md)) |

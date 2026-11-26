@@ -115,6 +115,19 @@ cada cierto tiempo. Durante una guerra, la banda rival también puede cobrar ah�
 | **Escoltar / arrastrar** | Que esté esposada (o abatida, dentro de un territorio). |
 | **Meter / sacar del vehículo** | Escoltar a alguien (meter) o que haya retenidos dentro (sacar). |
 
+## Grafitis
+
+Marcar el territorio con el nombre de tu banda. Necesitas un **bote de spray** (se gasta uno por grafiti).
+
+- Apunta a una **pared cercana** y usa **/grafiti** (o el atajo «Pintar un grafiti de banda» de Ajustes → Asignación de
+  teclas → FiveM, que viene sin tecla). Escribe el texto y espera a que termine la barra.
+- Cada grafiti da **experiencia** a tu banda y, **durante una guerra**, puntos a tu bando. En un territorio
+  rival solo puedes pintar si estáis en guerra.
+- Hay un **máximo de grafitis por banda**, no pueden estar pegados entre sí y **caducan** a los pocos días.
+- Pintar llama la atención: algún vecino puede avisar a la policía y te suma **fama de delincuente**.
+- Para borrar uno, acércate y con **Alt** elige **«Borrar grafiti»**: necesitas **disolvente de pintura** (la
+  policía de servicio lo borra sin él). En una guerra, borrar el grafiti del rival dentro de su territorio puntúa.
+
 ## Traficantes y entregas
 
 En algunos territorios hay un **traficante** que solo trabaja con la banda dueña:

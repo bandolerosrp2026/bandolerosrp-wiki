@@ -78,6 +78,7 @@
 
 * [Bandas y territorios](crimen/bandas.md)
 * [Atracos](crimen/atracos.md)
+* [Robo de coches por encargo](crimen/robo-de-coches.md)
 * [Drogas y mercado negro](crimen/drogas.md)
 
 ## Armas

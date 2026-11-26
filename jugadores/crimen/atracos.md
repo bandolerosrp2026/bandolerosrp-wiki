@@ -27,6 +27,8 @@ poder, nada de atracar a jugadores que acaban de conectarse…). Ante la duda, p
 
 {% hint style="info" %}
 Algunos atracos solo se pueden empezar si hay **suficiente policía de servicio**. Si no, te lo dirá al intentarlo.
+Un agente de servicio **no puede participar** en un atraco, y quien da un golpe tiene que **esperar un rato** para
+repetir ese mismo atraco (aunque el sitio ya esté disponible otra vez).
 {% endhint %}
 
 ## Lo que vas a necesitar
@@ -35,6 +37,7 @@ Algunos atracos solo se pueden empezar si hay **suficiente policía de servicio*
 |---|---|
 | Forzar una cerradura | Ganzúa |
 | Fundir una cerradura con carga térmica | Termita (se gasta) |
+| Volar una puerta | Explosivo (algunos atracos lo piden y se gasta) |
 | Hackear un panel | USB troyano |
 | Taladrar | Taladro |
 | Cortar un cuadro o una vitrina | Cortador |
@@ -45,6 +48,10 @@ Cada atraco puede pedir otros objetos: la opción de Alt te dice cuál necesitas
 ## Peligros
 
 - **Alarma:** algunos pasos la hacen saltar. Se oye por la zona y la policía recibe un aviso con la ubicación.
+- **Fallar una prueba de habilidad:** al forzar una caja fuerte, un panel o una cerradura, un fallo puede hacer que
+  alguien avise a la policía.
+- **Explosivos:** al volar una puerta hay cuenta atrás y una explosión que se oye y se ve de lejos (no hace daño).
+- **Apagón:** en algunos golpes se puede **cortar la luz** de la zona un rato desde la caja de luz; así se ve menos.
 - **Gas:** en algunas fases se libera gas tóxico al cabo de un rato. Sal de la nube o lleva una **máscara de gas**.
 - **Guardias:** hay vigilantes armados que te atacarán. A la policía no la atacan.
 - **Tiempo límite:** si el atraco tiene límite y se acaba, se da por fallido.
@@ -103,3 +110,20 @@ Haz rol: es una situación muy grave y casi siempre alguien avisa a la policía.
 
 Cuando salta una alarma o alguien avisa, te llega una notificación con el código **10-90** y una zona marcada en el
 mapa durante un rato. Los guardias de los atracos no te atacan mientras estás de servicio.
+
+## Carterear a un ciudadano
+
+Sin apuntar con ningún arma: acércate a un ciudadano que camine a pie y con **Alt** elige **«Carterear»**. Hay una barra
+de progreso y una prueba de habilidad.
+
+- **Por la espalda es mucho más fácil.** De frente, la prueba es más difícil y es más probable que se dé cuenta.
+- Si te pillan, el ciudadano huye gritando y es muy posible que alguien avise a la policía.
+- Cada ciudadano solo se puede carterear **una vez** y tú tienes que **esperar un rato** entre intentos.
+- Los agentes de servicio no pueden carterear.
+
+## Tu fama de delincuente
+
+Cada delito (empezar un atraco, carterear, tomar un rehén, pintar un grafiti, robar un coche por encargo…) te
+deja una **fama**. Cuanto más delinques en poco tiempo, más probable es que un testigo avise a la policía y, si llegas
+muy arriba, notarás que te la tienen jurada. Se **enfría sola con el tiempo**: pasar un buen rato sin delinquir
+la borra.

@@ -24,6 +24,8 @@ para susurrar solo vale `/s`). Usa los de esta lista.
 | `/anuncio texto` | Anuncio público |
 | `/entorno qué ocurre` | Aviso de entorno a la policía: anónimo y con zona aproximada |
 | `/condena` | Ver cuánto te queda de condena |
+| `/wiki` | Abrir la wiki dentro del juego: índice por temas y buscador (sin tildes ni mayúsculas) |
+| `/reputacion` | Ver tu nivel en cada oficio y el extra que cobras ([Reputación y gastos](../dinero/reputacion-y-gastos.md)) |
 | `/soltarse` | Intentar soltarte de las esposas o bridas (también tecla J) |
 | `/mdt` | Policía: abrir la tableta ([Policía](../trabajos/policia.md)) |
 | `/k9` | Policía: sacar o guardar el perro |

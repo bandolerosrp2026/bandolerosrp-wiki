@@ -177,6 +177,14 @@ FIB: 5 · conjunto policial (todos los cuerpos, también la Patrulla Estatal): 6
 En la **recepción** de la comisaría puedes poner una denuncia o pedir que venga un agente.
 
 {% hint style="warning" %}
-El **kit de limpieza** borra las pruebas de tu alrededor (casquillos, sangre, huellas). La policía puede encontrar
+El **kit de limpieza** borra las pruebas de tu alrededor (casquillos, sangre, huellas, restos de pintura). La policía puede encontrar
 pruebas con la linterna y analizarlas en el laboratorio.
 {% endhint %}
+
+### Restos de pintura y cristales (atropello y fuga)
+
+Si chocas conduciendo y la carrocería sufre un golpe fuerte, tu coche **deja restos de pintura y cristales** en el sitio
+(durante 2 horas). La policía los ve con la linterna, los recoge en una bolsa y los analiza en el laboratorio (30 s):
+el resultado dice el **color y el modelo** del vehículo y, con algo de suerte (un 35 %), un **trozo legible de la matrícula**.
+Puedes borrarlos con el kit de limpieza.
+

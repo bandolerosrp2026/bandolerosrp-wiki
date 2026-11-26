@@ -51,6 +51,7 @@
 ## Dinero
 
 * [Nómina y precios](dinero/nomina-y-precios.md)
+* [Reputación y gastos](dinero/reputacion-y-gastos.md)
 * [Bandoleros Bank](dinero/banco.md)
 * [Tarjetas y cajeros](dinero/tarjetas-y-cajeros.md)
 * [Ahorro, préstamos y crédito](dinero/ahorro-y-prestamos.md)

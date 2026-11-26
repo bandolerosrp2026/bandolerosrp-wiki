@@ -38,6 +38,13 @@ Desde la tableta llevas todo el taller:
 
 **X** cancela el paso en curso.
 
+**Cancelar una orden:** cualquier mecánico puede cancelar una orden en reparación, verificación o terminada
+mientras el cliente no haya pagado nada y nadie esté montando una pieza en ese momento. Si ya hay pagos, solo el jefe
+del taller puede cancelarla (y devolver el dinero).
+
+**Cabina de pintura:** el punto de pintura abre el tuneo con la sección de pintura para el coche que dejes dentro
+de la cabina, tanto si eres mecánico como cliente.
+
 ## Elevadores
 
 - Se manejan con **Alt** en la unidad de potencia del elevador. Tres alturas: **baja**, **cintura** y **alta**.
